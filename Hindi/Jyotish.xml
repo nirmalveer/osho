@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Jyotish</title>
+    <link>https://archive.org/details/osho-audio-discourses-collection</link>
+    <description>Osho discourse series: Jyotish (Hindi) — streamed from Internet Archive</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Jyotish 001</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/080-Jyotish/OSHO-Jyotish_Adwait_Ka_Vigyan_01.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/080-Jyotish/OSHO-Jyotish_Adwait_Ka_Vigyan_01.mp3</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jyotish 002</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/080-Jyotish/OSHO-Jyotish_Adwait_Ka_Vigyan_02.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/080-Jyotish/OSHO-Jyotish_Adwait_Ka_Vigyan_02.mp3</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
