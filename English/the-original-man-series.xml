@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Original Man</title>
+    <link>https://oshoworld.com/the-original-man-series</link>
+    <description>Osho discourse series: The Original Man. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-original-man-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Original Man 01</title>
+      <link>https://oshoworld.com/the-original-man-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2001.mp3" type="audio/mpeg" length="45893056" />
+      <guid isPermaLink="false">urn:uuid:bc1bc6d9-1ddc-5a9e-b312-f288edd9f741</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 02</title>
+      <link>https://oshoworld.com/the-original-man-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2002.mp3" type="audio/mpeg" length="31500580" />
+      <guid isPermaLink="false">urn:uuid:71457908-c307-5b08-ae80-b8585c6ed455</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 03</title>
+      <link>https://oshoworld.com/the-original-man-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2003.mp3" type="audio/mpeg" length="39758304" />
+      <guid isPermaLink="false">urn:uuid:8c0070f2-2625-5472-b0d5-6290e33ee405</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 04</title>
+      <link>https://oshoworld.com/the-original-man-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2004.mp3" type="audio/mpeg" length="45569399" />
+      <guid isPermaLink="false">urn:uuid:a3e4c08b-1529-5658-80f0-1b73bbfa7192</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:04:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 05</title>
+      <link>https://oshoworld.com/the-original-man-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2005.mp3" type="audio/mpeg" length="41250888" />
+      <guid isPermaLink="false">urn:uuid:d40ad9cf-d8d2-5b9c-b2bb-8306236b0a80</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 06</title>
+      <link>https://oshoworld.com/the-original-man-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2006.mp3" type="audio/mpeg" length="48015871" />
+      <guid isPermaLink="false">urn:uuid:515c619c-99f6-5b14-815c-21193df14cd8</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:11:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 07</title>
+      <link>https://oshoworld.com/the-original-man-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2007.mp3" type="audio/mpeg" length="28427953" />
+      <guid isPermaLink="false">urn:uuid:bd15706f-0168-5762-87fa-d5e4d241cd59</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 08</title>
+      <link>https://oshoworld.com/the-original-man-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2008.mp3" type="audio/mpeg" length="31932227" />
+      <guid isPermaLink="false">urn:uuid:b958ec40-2b64-5408-a347-0da97e628291</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Original Man 09</title>
+      <link>https://oshoworld.com/the-original-man-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-original-man-series/The%20Original%20Man%2009.mp3" type="audio/mpeg" length="26302944" />
+      <guid isPermaLink="false">urn:uuid:7abec1f9-08f7-533d-9efd-00cff9e37900</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:46</itunes:duration>
+    </item>
+  </channel>
+</rss>

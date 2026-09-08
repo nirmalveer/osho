@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Zen The Diamond Thunderbolt</title>
+    <link>https://oshoworld.com/zen-the-diamond-thunderbolt-series</link>
+    <description>Osho discourse series: Zen The Diamond Thunderbolt. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/zen-the-diamond-thunderbolt-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen The Diamond Thunderbolt 01</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2001.mp3" type="audio/mpeg" length="36339265" />
+      <guid isPermaLink="false">urn:uuid:d20d7efe-63ad-5060-b317-522274e8c2f0</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:32</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 02</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2002.mp3" type="audio/mpeg" length="30203885" />
+      <guid isPermaLink="false">urn:uuid:bcd9b81a-8d07-5e47-9dd0-a0c92105dde2</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:29</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 03</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2003.mp3" type="audio/mpeg" length="31969815" />
+      <guid isPermaLink="false">urn:uuid:34b4631f-1149-5e6c-a1a0-b48a4599e219</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:23</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 04</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2004.mp3" type="audio/mpeg" length="26373760" />
+      <guid isPermaLink="false">urn:uuid:8b4d47c7-9a05-5839-835b-077f7daca8bf</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:51</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 05</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2005.mp3" type="audio/mpeg" length="29342628" />
+      <guid isPermaLink="false">urn:uuid:927d354f-a38e-5919-8975-c22914b9adb9</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:06</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 06</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2006.mp3" type="audio/mpeg" length="28647980" />
+      <guid isPermaLink="false">urn:uuid:f94bb582-8bf0-5461-b680-2c3753818f90</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:10</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 07</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2007.mp3" type="audio/mpeg" length="29063327" />
+      <guid isPermaLink="false">urn:uuid:808b2b93-973b-5188-8341-48ff9992bec0</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:19</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 08</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2008.mp3" type="audio/mpeg" length="33279804" />
+      <guid isPermaLink="false">urn:uuid:6e8dae10-c94a-583d-83c2-8c98961e27aa</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:02</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 09</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2009.mp3" type="audio/mpeg" length="27907409" />
+      <guid isPermaLink="false">urn:uuid:e0ab29fb-efc3-5fae-b650-532b1ebde379</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:06</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 10</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2010.mp3" type="audio/mpeg" length="37842037" />
+      <guid isPermaLink="false">urn:uuid:d5e70c67-814b-53da-b0ae-372cb3ba39d9</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:42</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 11</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2011.mp3" type="audio/mpeg" length="32065110" />
+      <guid isPermaLink="false">urn:uuid:dd925036-f1bf-5ab4-af96-016bd82d24be</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:39</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 12</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2012.mp3" type="audio/mpeg" length="29736189" />
+      <guid isPermaLink="false">urn:uuid:4937faee-3827-5494-8c68-451a1626a1e5</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:11</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Diamond Thunderbolt 13</title>
+      <link>https://oshoworld.com/zen-the-diamond-thunderbolt-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-diamond-thunderbolt-series/Zen%20The%20Diamond%20Thunderbolt%2013.mp3" type="audio/mpeg" length="37306318" />
+      <guid isPermaLink="false">urn:uuid:7dd6a95f-e885-54cb-94a4-f33c176bb1fd</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:13</itunes:duration>
+    </item>
+  </channel>
+</rss>

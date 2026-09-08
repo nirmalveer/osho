@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>I Say Unto You</title>
+    <link>https://oshoworld.com/i-say-unto-you-series</link>
+    <description>Osho discourse series: I Say Unto You. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/i-say-unto-you-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Say Unto You (Vol 1) 01</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2001.mp3" type="audio/mpeg" length="34368147" />
+      <guid isPermaLink="false">urn:uuid:08cbca5d-20f2-5d13-8455-4b23951e71bc</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:45</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 02</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2002.mp3" type="audio/mpeg" length="32745943" />
+      <guid isPermaLink="false">urn:uuid:580c3724-6808-588e-b78c-a7a27d309ccd</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:14</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 03</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2003.mp3" type="audio/mpeg" length="41642831" />
+      <guid isPermaLink="false">urn:uuid:37c85dc8-924e-576a-b37a-04ef95950791</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:57</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 04</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2004.mp3" type="audio/mpeg" length="33031984" />
+      <guid isPermaLink="false">urn:uuid:e0927c58-105f-5a24-b58e-c7fcc8559e73</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:02</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 05</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2005.mp3" type="audio/mpeg" length="39489767" />
+      <guid isPermaLink="false">urn:uuid:6ea4dbd9-8ca4-5fda-94dd-33114c5b6b0c</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:58</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 06</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2006.mp3" type="audio/mpeg" length="36553812" />
+      <guid isPermaLink="false">urn:uuid:c3a2bd65-e5be-58c4-bb1c-dd5031992b2a</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:49</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 07</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2007.mp3" type="audio/mpeg" length="36259621" />
+      <guid isPermaLink="false">urn:uuid:2456072d-48c1-5e2a-aeaa-9d1bb70f6a98</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:00</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 08</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2008.mp3" type="audio/mpeg" length="37510051" />
+      <guid isPermaLink="false">urn:uuid:12a1d02c-6561-58ee-9695-ff6d2164d0a4</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:28</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 09</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2009.mp3" type="audio/mpeg" length="37310371" />
+      <guid isPermaLink="false">urn:uuid:9aa31e45-2482-52cd-b31e-c2c8a7daf424</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:55</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 1) 10</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%201%2010.mp3" type="audio/mpeg" length="41436725" />
+      <guid isPermaLink="false">urn:uuid:5fddb91b-c21c-507f-82a7-82550b1eadd6</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:23</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 01</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2001.mp3" type="audio/mpeg" length="39453718" />
+      <guid isPermaLink="false">urn:uuid:b1394bf7-c852-532f-8c3d-f9fd4c67bfde</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:52</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 02</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2002.mp3" type="audio/mpeg" length="40036927" />
+      <guid isPermaLink="false">urn:uuid:2853c330-692d-580a-9b6d-72bfb298d662</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:29</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 03</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2003.mp3" type="audio/mpeg" length="39668287" />
+      <guid isPermaLink="false">urn:uuid:d43bac6e-8371-5ff7-b52e-d27efe7c654b</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:28</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 04</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2004.mp3" type="audio/mpeg" length="38345290" />
+      <guid isPermaLink="false">urn:uuid:e333dff1-275f-5af1-98d1-f4dd3e720623</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:48</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 05</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2005.mp3" type="audio/mpeg" length="42085763" />
+      <guid isPermaLink="false">urn:uuid:f2e84a9e-39b8-504a-b6cd-d8be6e89a6cd</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:11</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 06</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2006.mp3" type="audio/mpeg" length="39081912" />
+      <guid isPermaLink="false">urn:uuid:b6049e15-796d-5fcf-8204-1dd1b92bf4a0</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:50</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 07</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2007.mp3" type="audio/mpeg" length="40152127" />
+      <guid isPermaLink="false">urn:uuid:58b23a3d-d31b-56e2-8088-3c0cc86d441f</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:49</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 08</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2008.mp3" type="audio/mpeg" length="40462619" />
+      <guid isPermaLink="false">urn:uuid:167d4627-b805-59d0-a41c-1cf6ebc468b7</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:40</itunes:duration>
+    </item>
+    <item>
+      <title>I Say Unto You (Vol 2) 09</title>
+      <link>https://oshoworld.com/i-say-unto-you-vol-2-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-say-unto-you-series/I%20Say%20Unto%20You%20Vol%202%2009.mp3" type="audio/mpeg" length="41349737" />
+      <guid isPermaLink="false">urn:uuid:7a59cd2f-2e93-522f-b43b-0752a87f3cd0</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:08</itunes:duration>
+    </item>
+  </channel>
+</rss>

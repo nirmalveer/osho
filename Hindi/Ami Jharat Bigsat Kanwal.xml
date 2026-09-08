@@ -1,95 +1,124 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Ami Jharat Bigsat Kanwal</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ami Jharat Bigsat Kanwal (Hindi) — streamed from Internet Archive</description>
+    <title>Ami Jharat Bigsat Kanwal  (अमी झरत, बिगसत कंवल)</title>
+    <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-by-osho-1-14</link>
+    <description>Osho discourse series: Ami Jharat Bigsat Kanwal  (अमी झरत, बिगसत कंवल). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ami%20Jharat%20Bigsat%20Kanwal.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ami Jharat Bigsat Kanwal 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_01.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 01</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_01.mp3" type="audio/mpeg" length="28857046" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:29</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_02.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 02</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_02.mp3" type="audio/mpeg" length="32494406" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:53</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_03.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 03</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_03.mp3" type="audio/mpeg" length="33917656" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:58</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_04.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 04</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_04.mp3" type="audio/mpeg" length="34232675" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:42</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_05.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 05</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_05.mp3" type="audio/mpeg" length="35171189" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:17</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_06.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 06</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_06.mp3" type="audio/mpeg" length="36316364" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:57</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_07.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 07</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_07.mp3" type="audio/mpeg" length="37962469" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:45</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_08.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 08</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_08.mp3" type="audio/mpeg" length="36497012" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:36</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_09.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 09</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_09.mp3" type="audio/mpeg" length="37274355" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:53</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_10.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 10</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_10.mp3" type="audio/mpeg" length="34283455" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:07</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_11.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 11</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_11.mp3" type="audio/mpeg" length="36441726" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:41</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_12.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 12</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_12.mp3" type="audio/mpeg" length="37462280" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:21</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_13.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 13</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_13.mp3" type="audio/mpeg" length="40265984" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:43</itunes:duration>
     </item>
     <item>
-      <title>Ami Jharat Bigsat Kanwal 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_14.mp3" type="audio/mpeg" length="0"/>
+      <title>AMI JHARAT BIGSAT KANWAL 14</title>
+      <link>https://oshoworld.com/ami-jharat-bigsat-kanwal-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ami_Jharat_Bigsat_Kanwal_14.mp3" type="audio/mpeg" length="37926952" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/002-Ami%20Jharat%20Bigsat%20Kanwal/OSHO-Ami_Jharat_Bigsat_Kanwal_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:18</itunes:duration>
     </item>
   </channel>
 </rss>

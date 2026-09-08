@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Hidden Harmony</title>
+    <link>https://oshoworld.com/the-hidden-harmony-series</link>
+    <description>Osho discourse series: The Hidden Harmony. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-hidden-harmony-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hidden Harmony 01</title>
+      <link>https://oshoworld.com/the-hidden-harmony-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2001.mp3" type="audio/mpeg" length="38013005" />
+      <guid isPermaLink="false">urn:uuid:67e7ecac-a91f-5619-87cf-529aac06ad53</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:39</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 02</title>
+      <link>https://oshoworld.com/the-hidden-harmony-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2002.mp3" type="audio/mpeg" length="37229645" />
+      <guid isPermaLink="false">urn:uuid:f5495e44-a14c-5daa-aab5-003f2b5cfbf6</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 03</title>
+      <link>https://oshoworld.com/the-hidden-harmony-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2003.mp3" type="audio/mpeg" length="35308704" />
+      <guid isPermaLink="false">urn:uuid:bb0de3aa-6693-5ab0-96d8-a91944edbf14</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 04</title>
+      <link>https://oshoworld.com/the-hidden-harmony-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2004.mp3" type="audio/mpeg" length="26691588" />
+      <guid isPermaLink="false">urn:uuid:4b2da292-f395-5422-a9e8-2f49c2cad8a6</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 05</title>
+      <link>https://oshoworld.com/the-hidden-harmony-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2005.mp3" type="audio/mpeg" length="31390023" />
+      <guid isPermaLink="false">urn:uuid:c7d0a2b2-8996-521c-9816-982976f4cafc</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 06</title>
+      <link>https://oshoworld.com/the-hidden-harmony-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2006.mp3" type="audio/mpeg" length="36371209" />
+      <guid isPermaLink="false">urn:uuid:c90bd067-50e5-53df-8c9f-c1b2e97aabec</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 07</title>
+      <link>https://oshoworld.com/the-hidden-harmony-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2007.mp3" type="audio/mpeg" length="30690360" />
+      <guid isPermaLink="false">urn:uuid:2f20d2f4-552c-5381-95ce-a80f85f90c22</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 08</title>
+      <link>https://oshoworld.com/the-hidden-harmony-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2008.mp3" type="audio/mpeg" length="37890125" />
+      <guid isPermaLink="false">urn:uuid:878c88a9-e5d8-5c6e-b776-b832963874c6</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 09</title>
+      <link>https://oshoworld.com/the-hidden-harmony-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2009.mp3" type="audio/mpeg" length="34614683" />
+      <guid isPermaLink="false">urn:uuid:b95bfb7a-7eb1-5bbc-a094-2dd900626d26</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:13</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 10</title>
+      <link>https://oshoworld.com/the-hidden-harmony-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2010.mp3" type="audio/mpeg" length="27524946" />
+      <guid isPermaLink="false">urn:uuid:1217bab2-e0c3-527b-ae41-d350d743f189</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Hidden Harmony 11</title>
+      <link>https://oshoworld.com/the-hidden-harmony-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-hidden-harmony-series/The%20Hidden%20Harmony%2011.mp3" type="audio/mpeg" length="35217955" />
+      <guid isPermaLink="false">urn:uuid:ab57e301-00c3-572d-85d5-1e02966e2530</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:54</itunes:duration>
+    </item>
+  </channel>
+</rss>

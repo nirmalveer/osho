@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Journey to the Heart: Sufism</title>
+    <link>https://oshoworld.com/journey-to-the-heart-sufism-series</link>
+    <description>Osho discourse series: Journey to the Heart: Sufism. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/journey-to-the-heart-sufism-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journey to the Heart 01</title>
+      <link>https://oshoworld.com/journey-to-the-heart-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2001.mp3" type="audio/mpeg" length="42794620" />
+      <guid isPermaLink="false">urn:uuid:eaf01968-887b-5cf9-8314-49208243539d</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:20</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 02</title>
+      <link>https://oshoworld.com/journey-to-the-heart-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2002.mp3" type="audio/mpeg" length="33632380" />
+      <guid isPermaLink="false">urn:uuid:bd916241-52b9-51b8-a696-08c857145175</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:53</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 03</title>
+      <link>https://oshoworld.com/journey-to-the-heart-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2003.mp3" type="audio/mpeg" length="31164122" />
+      <guid isPermaLink="false">urn:uuid:d6bbf7b7-3005-5abb-aa99-373180260741</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:02</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 04</title>
+      <link>https://oshoworld.com/journey-to-the-heart-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2004.mp3" type="audio/mpeg" length="30533892" />
+      <guid isPermaLink="false">urn:uuid:33e0708b-619c-5e9f-b613-f792cfc570a4</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:17</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 05</title>
+      <link>https://oshoworld.com/journey-to-the-heart-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2005.mp3" type="audio/mpeg" length="28329419" />
+      <guid isPermaLink="false">urn:uuid:e0f8d710-374f-52bf-b1a7-d91994c6dbaa</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:09</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 06</title>
+      <link>https://oshoworld.com/journey-to-the-heart-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2006.mp3" type="audio/mpeg" length="30116507" />
+      <guid isPermaLink="false">urn:uuid:32506091-56f4-5294-9a8e-7f9524046a93</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:07</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 07</title>
+      <link>https://oshoworld.com/journey-to-the-heart-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2007.mp3" type="audio/mpeg" length="29283933" />
+      <guid isPermaLink="false">urn:uuid:2809609d-2153-594f-95eb-2fca4974f6cd</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:48</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 08</title>
+      <link>https://oshoworld.com/journey-to-the-heart-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2008.mp3" type="audio/mpeg" length="37094493" />
+      <guid isPermaLink="false">urn:uuid:ce284d43-c0e5-54a7-bff1-7e212a3975c3</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:30</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 09</title>
+      <link>https://oshoworld.com/journey-to-the-heart-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2009.mp3" type="audio/mpeg" length="31822094" />
+      <guid isPermaLink="false">urn:uuid:30d5b3b3-82f2-52f3-bc9d-aafac78cad4f</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:51</itunes:duration>
+    </item>
+    <item>
+      <title>Journey to the Heart 10</title>
+      <link>https://oshoworld.com/journey-to-the-heart-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/journey-to-the-heart-sufism-series/Journey%20To%20The%20Heart%2010.mp3" type="audio/mpeg" length="40012893" />
+      <guid isPermaLink="false">urn:uuid:700b0f21-52a8-5411-b254-f4512a2514bb</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:37</itunes:duration>
+    </item>
+  </channel>
+</rss>

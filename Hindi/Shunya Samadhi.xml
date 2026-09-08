@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Shunya Samadhi</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Shunya Samadhi (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/shunya-samadhi-by-osho-01-09</link>
+    <description>Osho discourse series: Shunya Samadhi. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Shunya%20Samadhi.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shunya Samadhi 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 01</title>
+      <link>https://oshoworld.com/shunya-samadhi-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_01.mp3" type="audio/mpeg" length="19297504" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:39</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 02</title>
+      <link>https://oshoworld.com/shunya-samadhi-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_02.mp3" type="audio/mpeg" length="19426846" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:55</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 03</title>
+      <link>https://oshoworld.com/shunya-samadhi-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_03.mp3" type="audio/mpeg" length="24903943" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:21</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 04</title>
+      <link>https://oshoworld.com/shunya-samadhi-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_04.mp3" type="audio/mpeg" length="19397122" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:47:04</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 05</title>
+      <link>https://oshoworld.com/shunya-samadhi-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_05.mp3" type="audio/mpeg" length="18767606" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:10</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 06</title>
+      <link>https://oshoworld.com/shunya-samadhi-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_06.mp3" type="audio/mpeg" length="20565363" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:02</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 07</title>
+      <link>https://oshoworld.com/shunya-samadhi-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_07.mp3" type="audio/mpeg" length="27787588" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:18</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 08</title>
+      <link>https://oshoworld.com/shunya-samadhi-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_08.mp3" type="audio/mpeg" length="27720189" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:17</itunes:duration>
     </item>
     <item>
-      <title>Shunya Samadhi 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Samadhi 09</title>
+      <link>https://oshoworld.com/shunya-samadhi-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Samadhi_09.mp3" type="audio/mpeg" length="39678035" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/165-Shunya%20Samadhi%2001-09%20%E2%80%93%20Osho%20World/OSHO-Shunya_Samadhi_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:44</itunes:duration>
     </item>
   </channel>
 </rss>

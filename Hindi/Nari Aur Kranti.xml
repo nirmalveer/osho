@@ -1,47 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Nari Aur Kranti</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Nari Aur Kranti (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/nari-aur-kranti-by-osho-01-06</link>
+    <description>Osho discourse series: Nari Aur Kranti. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Nari%20Aur%20Kranti.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nari Aur Kranti 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 01</title>
+      <link>https://oshoworld.com/nari-aur-kranti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_01.mp3" type="audio/mpeg" length="29319840" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:45</itunes:duration>
     </item>
     <item>
-      <title>Nari Aur Kranti 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 02</title>
+      <link>https://oshoworld.com/nari-aur-kranti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_02.mp3" type="audio/mpeg" length="17766039" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:30</itunes:duration>
     </item>
     <item>
-      <title>Nari Aur Kranti 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 03</title>
+      <link>https://oshoworld.com/nari-aur-kranti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_03.mp3" type="audio/mpeg" length="31052123" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:45</itunes:duration>
     </item>
     <item>
-      <title>Nari Aur Kranti 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 04</title>
+      <link>https://oshoworld.com/nari-aur-kranti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_04.mp3" type="audio/mpeg" length="24866156" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:14</itunes:duration>
     </item>
     <item>
-      <title>Nari Aur Kranti 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 05</title>
+      <link>https://oshoworld.com/nari-aur-kranti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_05.mp3" type="audio/mpeg" length="20296743" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:51</itunes:duration>
     </item>
     <item>
-      <title>Nari Aur Kranti 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Nari Aur Kranti 06</title>
+      <link>https://oshoworld.com/nari-aur-kranti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nari_Aur_Kranti_06.mp3" type="audio/mpeg" length="17802921" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/116-Nari%20Aur%20Kranti%2001-06%20%E2%80%93%20Osho%20World/OSHO-Nari_Aur_Kranti_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:00</itunes:duration>
     </item>
   </channel>
 </rss>

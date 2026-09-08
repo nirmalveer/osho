@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sumiran Mera Hari Kare</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sumiran Mera Hari Kare (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sumiran-mera-hari-kare-by-osho-01-11</link>
+    <description>Osho discourse series: Sumiran Mera Hari Kare. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sumiran%20Mera%20Hari%20Kare.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sumiran Mera Hari Kare 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 01</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_01.mp3" type="audio/mpeg" length="43671598" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:21</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 02</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_02.mp3" type="audio/mpeg" length="40901004" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:53</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 03</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_03.mp3" type="audio/mpeg" length="40039890" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:25</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 04</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_04.mp3" type="audio/mpeg" length="42987300" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:48</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 05</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_05.mp3" type="audio/mpeg" length="45730388" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:58</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 06</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_06.mp3" type="audio/mpeg" length="48891138" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:35</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 07</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_07.mp3" type="audio/mpeg" length="48387315" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:00</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 08</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_08.mp3" type="audio/mpeg" length="44854486" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:24</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 09</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_09.mp3" type="audio/mpeg" length="46411463" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:04</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 10</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_10.mp3" type="audio/mpeg" length="35201814" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:56</itunes:duration>
     </item>
     <item>
-      <title>Sumiran Mera Hari Kare 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Sumiran Mera Hari Kare 11</title>
+      <link>https://oshoworld.com/sumiran-mera-hari-kare-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sumiran_Mera_Hari_Kare_11.mp3" type="audio/mpeg" length="34167420" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/153-Sumiran%20Mera%20Hari%20Kare%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sumiran_Mera_Hari_Kare_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:51</itunes:duration>
     </item>
   </channel>
 </rss>

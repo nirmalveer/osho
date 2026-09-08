@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Utsav Amar Jati Anand Amar Gotar</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Utsav Amar Jati Anand Amar Gotar (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-by-osho-01-10</link>
+    <description>Osho discourse series: Utsav Amar Jati Anand Amar Gotar. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 01</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_01.mp3" type="audio/mpeg" length="39330878" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:56</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 02</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_02.mp3" type="audio/mpeg" length="38791222" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:18</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 03</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_03.mp3" type="audio/mpeg" length="42144893" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:21</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 04</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_04.mp3" type="audio/mpeg" length="40062538" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:51</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 05</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_05.mp3" type="audio/mpeg" length="42299855" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:59</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 06</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_06.mp3" type="audio/mpeg" length="44749066" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:55</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 07</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_07.mp3" type="audio/mpeg" length="45180001" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:46</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 08</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_08.mp3" type="audio/mpeg" length="42914074" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:00</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 09</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_09.mp3" type="audio/mpeg" length="46812305" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:54</itunes:duration>
     </item>
     <item>
-      <title>Utsav Amar Jati Anand Amar Gotar 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Utsav Amar Jati Anand Amar Gotar 10</title>
+      <link>https://oshoworld.com/utsav-amar-jati-anand-amar-gotar-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_10.mp3" type="audio/mpeg" length="44039087" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/174-Utsav%20Amar%20Jati%20Anand%20Amar%20Gotar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Utsav_Amar_Jati_Anand_Amar_Gotar_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:49</itunes:duration>
     </item>
   </channel>
 </rss>

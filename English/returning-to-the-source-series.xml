@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Returning to the Source</title>
+    <link>https://oshoworld.com/returning-to-the-source-series</link>
+    <description>Osho discourse series: Returning to the Source. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/returning-to-the-source-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Returning to the Source 01</title>
+      <link>https://oshoworld.com/returning-to-the-source-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2001.mp3" type="audio/mpeg" length="31385531" />
+      <guid isPermaLink="false">urn:uuid:0c04f487-ea90-5954-93de-e41da96135ed</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:30</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 02</title>
+      <link>https://oshoworld.com/returning-to-the-source-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2002.mp3" type="audio/mpeg" length="34109894" />
+      <guid isPermaLink="false">urn:uuid:9e6e1ce4-2213-568f-a8e3-45962b47b699</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:04</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 03</title>
+      <link>https://oshoworld.com/returning-to-the-source-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2003.mp3" type="audio/mpeg" length="28354126" />
+      <guid isPermaLink="false">urn:uuid:671fbb4e-25c1-515b-a78d-ef0087976683</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:04</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 04</title>
+      <link>https://oshoworld.com/returning-to-the-source-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2004.mp3" type="audio/mpeg" length="34016010" />
+      <guid isPermaLink="false">urn:uuid:c9b6e5b5-8420-5019-a97e-24aafcd55104</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:48</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 05</title>
+      <link>https://oshoworld.com/returning-to-the-source-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2005.mp3" type="audio/mpeg" length="40815474" />
+      <guid isPermaLink="false">urn:uuid:5bddafae-0fb0-502b-a32c-e2ced1124ab2</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:41</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 06</title>
+      <link>https://oshoworld.com/returning-to-the-source-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2006.mp3" type="audio/mpeg" length="29726338" />
+      <guid isPermaLink="false">urn:uuid:a51267bd-b2ae-55b7-9b31-e172741973a4</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:53</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 07</title>
+      <link>https://oshoworld.com/returning-to-the-source-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2007.mp3" type="audio/mpeg" length="30001407" />
+      <guid isPermaLink="false">urn:uuid:431e05b0-709f-5007-b00e-add5b0be9bbf</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:39</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 08</title>
+      <link>https://oshoworld.com/returning-to-the-source-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2008.mp3" type="audio/mpeg" length="30587594" />
+      <guid isPermaLink="false">urn:uuid:d6ebf4ae-0728-5f3f-a8a4-fb6806db645a</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:16</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 09</title>
+      <link>https://oshoworld.com/returning-to-the-source-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2009.mp3" type="audio/mpeg" length="34912375" />
+      <guid isPermaLink="false">urn:uuid:cd4c295c-b6f8-553b-ae26-24a9871fa605</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:17</itunes:duration>
+    </item>
+    <item>
+      <title>Returning to the Source 10</title>
+      <link>https://oshoworld.com/returning-to-the-source-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/returning-to-the-source-series/Returning%20To%20The%20Source%2010.mp3" type="audio/mpeg" length="30990873" />
+      <guid isPermaLink="false">urn:uuid:b2d55ee5-6957-5d2f-8e93-0c6664bdc285</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:24</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Amrit Ki Disha</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Amrit Ki Disha (Hindi) — streamed from Internet Archive</description>
+    <title>Amrit Ki Disha (अमृत की दिशा)</title>
+    <link>https://oshoworld.com/012-amrit-ki-disha-1-8</link>
+    <description>Osho discourse series: Amrit Ki Disha (अमृत की दिशा). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Amrit%20Ki%20Disha.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amrit Ki Disha 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_01</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_01.mp3" type="audio/mpeg" length="26463921" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:00</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_02</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_02.mp3" type="audio/mpeg" length="23274846" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:56</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_03</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_03.mp3" type="audio/mpeg" length="20647948" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:11</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_04</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_04.mp3" type="audio/mpeg" length="12289024" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:35:42</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_05</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_05.mp3" type="audio/mpeg" length="27338729" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:14</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_06.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_06</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_06.mp3" type="audio/mpeg" length="25771574" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:26</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_07.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_07</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_07.mp3" type="audio/mpeg" length="36146652" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:05</itunes:duration>
     </item>
     <item>
-      <title>Amrit Ki Disha 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_08.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Ki_Disha_08</title>
+      <link>https://oshoworld.com/osho-amrit_ki_disha_08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Ki_Disha_08.mp3" type="audio/mpeg" length="17500350" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/012-%20Amrit%20Ki%20Disha/OSHO-Amrit_Ki_Disha_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:45:04</itunes:duration>
     </item>
   </channel>
 </rss>

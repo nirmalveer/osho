@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Geeta Darshan Vol-5</title>
+    <link>https://oshoworld.com/geeta-darshan-vol-5-by-osho-1-11</link>
+    <description>Osho discourse series: Geeta Darshan Vol-5. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/geeta-darshan-vol-5-by-osho-1-11.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geeta Darshan Vol-5 01</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_01.mp3" type="audio/mpeg" length="36702215" />
+      <guid isPermaLink="false">urn:uuid:cfc5651c-5ee3-51e2-860f-daf69d65c415</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:34</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 02</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_02.mp3" type="audio/mpeg" length="27352921" />
+      <guid isPermaLink="false">urn:uuid:4425188b-b9f2-5d96-bf90-a60bcdab1808</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:45</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 03</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_03.mp3" type="audio/mpeg" length="38437759" />
+      <guid isPermaLink="false">urn:uuid:cc3ea5a8-efbc-5922-b1b1-93e83d16668d</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:32</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 04</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_04.mp3" type="audio/mpeg" length="33384223" />
+      <guid isPermaLink="false">urn:uuid:8c968e60-ed1e-5618-b1bd-dd65bfd6f525</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:09</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 05</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_05.mp3" type="audio/mpeg" length="24820507" />
+      <guid isPermaLink="false">urn:uuid:5d742c89-de72-5ed4-9bcc-c752cab41ad5</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:21</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 06</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_06.mp3" type="audio/mpeg" length="33269831" />
+      <guid isPermaLink="false">urn:uuid:cc6f6bc3-5994-54c8-9694-802fa706a3b1</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:04</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 07</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_07.mp3" type="audio/mpeg" length="36086656" />
+      <guid isPermaLink="false">urn:uuid:4a50f4bf-9bec-5100-9bdc-30dd63fb6b3a</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:36</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 08</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_08.mp3" type="audio/mpeg" length="26805695" />
+      <guid isPermaLink="false">urn:uuid:6dbbd6f9-60b3-5e96-9244-bea165fe000b</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:30</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 09</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_09.mp3" type="audio/mpeg" length="26071884" />
+      <guid isPermaLink="false">urn:uuid:34735c11-ad66-558f-a60b-d2d40e137dc7</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:19</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 10</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_10.mp3" type="audio/mpeg" length="33145161" />
+      <guid isPermaLink="false">urn:uuid:e950b168-4e2b-5f26-ba3d-c3b170939147</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:12</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-5 11</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-5-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_5_11.mp3" type="audio/mpeg" length="25020259" />
+      <guid isPermaLink="false">urn:uuid:c2e9f4e6-608b-552b-8cde-e84dc8fc08de</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:22</itunes:duration>
+    </item>
+  </channel>
+</rss>

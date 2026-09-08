@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Psychology of the Esoteric</title>
+    <link>https://oshoworld.com/the-psychology-of-the-esoteric-series</link>
+    <description>Osho discourse series: The Psychology of the Esoteric. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-psychology-of-the-esoteric-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Psychology of the Esoteric 02</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2002.mp3" type="audio/mpeg" length="30221450" />
+      <guid isPermaLink="false">urn:uuid:15d2eb6c-bc01-5780-8144-fab063d3816f</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:39</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 04</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2004.mp3" type="audio/mpeg" length="37338146" />
+      <guid isPermaLink="false">urn:uuid:f74f8a01-1046-521d-890b-036c77191cb7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 06</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2006.mp3" type="audio/mpeg" length="24943410" />
+      <guid isPermaLink="false">urn:uuid:a278206a-20be-519d-ac90-726045085333</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 07</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2007.mp3" type="audio/mpeg" length="47260236" />
+      <guid isPermaLink="false">urn:uuid:e5b5f7e7-0d45-5bf2-96e5-77aa11f16de2</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:59</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 09</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2009.mp3" type="audio/mpeg" length="28935599" />
+      <guid isPermaLink="false">urn:uuid:0af85526-c7c8-5e04-81f6-61d59de2c02d</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 11</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2011.mp3" type="audio/mpeg" length="33980419" />
+      <guid isPermaLink="false">urn:uuid:e2d2d523-4e02-58c8-ab73-8718c3b374e3</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Psychology of the Esoteric 12</title>
+      <link>https://oshoworld.com/the-psychology-of-the-esoteric-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-psychology-of-the-esoteric-series/The%20Psychology%20Of%20The%20Esoteric%2012.mp3" type="audio/mpeg" length="36812301" />
+      <guid isPermaLink="false">urn:uuid:85370616-2721-5d4d-af08-c893dd572261</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:58</itunes:duration>
+    </item>
+  </channel>
+</rss>

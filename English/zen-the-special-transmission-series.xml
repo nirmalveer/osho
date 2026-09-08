@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Zen The Special Transmission</title>
+    <link>https://oshoworld.com/zen-the-special-transmission-series</link>
+    <description>Osho discourse series: Zen The Special Transmission. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/zen-the-special-transmission-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen The Special Transmission 01</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2001.mp3" type="audio/mpeg" length="41421131" />
+      <guid isPermaLink="false">urn:uuid:cf846f64-b3a8-58fd-a057-a1768012da49</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:37</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 02</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2002.mp3" type="audio/mpeg" length="39859269" />
+      <guid isPermaLink="false">urn:uuid:70828c1a-8306-5f50-8704-917a9b94e81d</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:17</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 03</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2003.mp3" type="audio/mpeg" length="39385147" />
+      <guid isPermaLink="false">urn:uuid:171795d0-1e69-5761-9708-8293ccf7731a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:58</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 04</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2004.mp3" type="audio/mpeg" length="34838117" />
+      <guid isPermaLink="false">urn:uuid:777ae32b-102f-522e-b239-f3cdadb792dc</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:20</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 05</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2005.mp3" type="audio/mpeg" length="38790496" />
+      <guid isPermaLink="false">urn:uuid:bd1f9bcf-f1af-5f9d-860a-5799036c2cb9</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:19</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 06</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2006.mp3" type="audio/mpeg" length="42649931" />
+      <guid isPermaLink="false">urn:uuid:096e4b3f-93d9-51e8-8ea9-6f586ca4d49c</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:02</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 07</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2007.mp3" type="audio/mpeg" length="40743253" />
+      <guid isPermaLink="false">urn:uuid:d7b42d3e-89f2-54d1-9081-0fe5d1f5d8a0</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:44</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 08</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2008.mp3" type="audio/mpeg" length="39617898" />
+      <guid isPermaLink="false">urn:uuid:e26ad632-3e42-53b3-9613-48638d977f1c</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:37</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 09</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2009.mp3" type="audio/mpeg" length="38649278" />
+      <guid isPermaLink="false">urn:uuid:2a813a4d-ad39-5f0f-afe9-2788224f164f</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:55</itunes:duration>
+    </item>
+    <item>
+      <title>Zen The Special Transmission 10</title>
+      <link>https://oshoworld.com/zen-the-special-transmission-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-the-special-transmission-series/Zen%20The%20Special%20Transmission%2010.mp3" type="audio/mpeg" length="43855847" />
+      <guid isPermaLink="false">urn:uuid:ff456c81-9d78-5459-8a05-b31c1f18b660</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:23</itunes:duration>
+    </item>
+  </channel>
+</rss>

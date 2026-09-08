@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Prabhu Mandir Ke Dwar Par</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Prabhu Mandir Ke Dwar Par (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-by-osho-01-10</link>
+    <description>Osho discourse series: Prabhu Mandir Ke Dwar Par. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Prabhu%20Mandir%20Ke%20Dwar%20Par.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 01</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_01.mp3" type="audio/mpeg" length="21740230" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:54</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 02</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_02.mp3" type="audio/mpeg" length="25294741" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:56</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 03</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_03.mp3" type="audio/mpeg" length="21969115" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:13</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 04</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_04.mp3" type="audio/mpeg" length="29062024" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:49</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 05</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_05.mp3" type="audio/mpeg" length="22643263" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:34</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 06</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_06.mp3" type="audio/mpeg" length="22725484" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:48</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 07</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_07.mp3" type="audio/mpeg" length="19747618" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:41</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 08</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_08.mp3" type="audio/mpeg" length="27669067" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:15</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 09</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_09.mp3" type="audio/mpeg" length="18968695" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:34</itunes:duration>
     </item>
     <item>
-      <title>Prabhu Mandir Ke Dwar Par 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Prabhu Mandir Ke Dwar Par 10</title>
+      <link>https://oshoworld.com/prabhu-mandir-ke-dwar-par-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prabhu_Mandir_Ke_Dwar_Par_10.mp3" type="audio/mpeg" length="22530775" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/132-Prabhu%20Mandir%20Ke%20Dwar%20Par%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prabhu_Mandir_Ke_Dwar_Par_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:34</itunes:duration>
     </item>
   </channel>
 </rss>

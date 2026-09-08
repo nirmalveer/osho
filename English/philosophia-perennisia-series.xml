@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Philosophia Perennisia</title>
+    <link>https://oshoworld.com/philosophia-perennisia-series</link>
+    <description>Osho discourse series: Philosophia Perennisia. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/philosophia-perennisia-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 01</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2001.mp3" type="audio/mpeg" length="41401615" />
+      <guid isPermaLink="false">urn:uuid:8bf772af-b183-50f0-9cc4-6a38e690ba9d</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:08</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 02</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2002.mp3" type="audio/mpeg" length="38429769" />
+      <guid isPermaLink="false">urn:uuid:318e7660-5ac8-51e7-ac39-481fe2131d6b</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:53</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 03</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2003.mp3" type="audio/mpeg" length="37800165" />
+      <guid isPermaLink="false">urn:uuid:8f0b00fb-f22e-5be5-bb29-62b90f9642da</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:08</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 04</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2004.mp3" type="audio/mpeg" length="38356730" />
+      <guid isPermaLink="false">urn:uuid:f3742046-f023-5864-b9c6-72243438674d</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:41</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 05</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2005.mp3" type="audio/mpeg" length="38445599" />
+      <guid isPermaLink="false">urn:uuid:5e5c3f28-2ffb-5da1-8f70-59f28af1411c</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:56</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 06</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2006.mp3" type="audio/mpeg" length="40891757" />
+      <guid isPermaLink="false">urn:uuid:25361e2d-a797-57fd-ad71-6879bf5dd863</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:43</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 07</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2007.mp3" type="audio/mpeg" length="37727911" />
+      <guid isPermaLink="false">urn:uuid:8bda22e7-a0fb-5344-9a4d-613576902167</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:56</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 08</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2008.mp3" type="audio/mpeg" length="33743401" />
+      <guid isPermaLink="false">urn:uuid:753c9f58-e3da-524f-8631-fe73171267a3</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:52</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 09</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2009.mp3" type="audio/mpeg" length="36577948" />
+      <guid isPermaLink="false">urn:uuid:ccce4a46-f53b-5574-9506-886c12cf3bc2</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:44</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 1) 10</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%201%2010.mp3" type="audio/mpeg" length="37940756" />
+      <guid isPermaLink="false">urn:uuid:4fbfde17-1783-5094-ae89-936d8ccdba56</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:32</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 01</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2001.mp3" type="audio/mpeg" length="39748064" />
+      <guid isPermaLink="false">urn:uuid:de0d9aa9-7d71-5257-b90f-246a20d99ce0</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:33</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 02</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2002.mp3" type="audio/mpeg" length="39773769" />
+      <guid isPermaLink="false">urn:uuid:4e65ce76-c185-5ebd-aab5-3ae2a224f4fa</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:37</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 03</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2003.mp3" type="audio/mpeg" length="38164574" />
+      <guid isPermaLink="false">urn:uuid:8615ac9d-62f3-54ea-9409-eee64cddaa83</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:09</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 04</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2004.mp3" type="audio/mpeg" length="40623114" />
+      <guid isPermaLink="false">urn:uuid:ad187235-66f5-5fff-b575-fee8aade39c2</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:59</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 05</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2005.mp3" type="audio/mpeg" length="37666001" />
+      <guid isPermaLink="false">urn:uuid:d60079ee-a7a8-585a-b871-211478ac9169</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:46</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 06</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2006.mp3" type="audio/mpeg" length="36562118" />
+      <guid isPermaLink="false">urn:uuid:5b521813-ea2c-534b-b3d0-d3ffbf9d3de4</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:42</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 07</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2007.mp3" type="audio/mpeg" length="36640642" />
+      <guid isPermaLink="false">urn:uuid:c981446b-2a5a-51e6-9ed3-684ddcb6830a</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:55</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 08</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2008.mp3" type="audio/mpeg" length="37787940" />
+      <guid isPermaLink="false">urn:uuid:3d565df7-0fa9-592f-b170-5ba05c163843</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:06</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 09</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2009.mp3" type="audio/mpeg" length="36531868" />
+      <guid isPermaLink="false">urn:uuid:045f7b0b-661c-5262-9791-2b4feca42519</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:37</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 10</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2010.mp3" type="audio/mpeg" length="38929596" />
+      <guid isPermaLink="false">urn:uuid:ccfdac97-cc5e-5c3b-9bf9-1636318ddc42</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:16</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Perennisia (Vol 2) 11</title>
+      <link>https://oshoworld.com/philosophia-perennisia-vol-2-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-perennisia-series/Philosophia%20Perennisia%20Vol%202%2011.mp3" type="audio/mpeg" length="37433563" />
+      <guid isPermaLink="false">urn:uuid:96c24878-044b-500f-b7e7-0a8d9656f993</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:07</itunes:duration>
+    </item>
+  </channel>
+</rss>

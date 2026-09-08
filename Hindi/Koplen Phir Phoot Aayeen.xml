@@ -1,83 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Koplen Phir Phoot Aayeen</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Koplen Phir Phoot Aayeen (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/koplen-phir-phoot-aayeen-by-osho-01-12</link>
+    <description>Osho discourse series: Koplen Phir Phoot Aayeen. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Koplen%20Phir%20Phoot%20Aayeen.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Koplen Phir Phoot Aayeen 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 01</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_01.mp3" type="audio/mpeg" length="42917644" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:36</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 02</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_02.mp3" type="audio/mpeg" length="32691600" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:44</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 03</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_03.mp3" type="audio/mpeg" length="41959949" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 04</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_04.mp3" type="audio/mpeg" length="38039219" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:40</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 05</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_05.mp3" type="audio/mpeg" length="36106888" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:18</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 06</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_06.mp3" type="audio/mpeg" length="39349561" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:39</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 07</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_07.mp3" type="audio/mpeg" length="49203137" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:50</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 08</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_08.mp3" type="audio/mpeg" length="41409338" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:09</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 09</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_09.mp3" type="audio/mpeg" length="44922812" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:55</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 10</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_10.mp3" type="audio/mpeg" length="53143592" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:14:48</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 11</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_11.mp3" type="audio/mpeg" length="53191060" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:46</itunes:duration>
     </item>
     <item>
-      <title>Koplen Phir Phoot Aayeen 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Koplen Phir Phoot Aayeen 12</title>
+      <link>https://oshoworld.com/koplen-phir-phoot-aayeen-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Koplen_Phir_Phoot_Aayeen_12.mp3" type="audio/mpeg" length="45267231" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/092-Koplen%20Phir%20Phoot%20Aayeen%2001-12%20%E2%80%93%20Osho%20World/OSHO-Koplen_Phir_Phoot_Aayeen_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:58</itunes:duration>
     </item>
   </channel>
 </rss>

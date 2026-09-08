@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The True Sage</title>
+    <link>https://oshoworld.com/the-true-sage-series</link>
+    <description>Osho discourse series: The True Sage. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-true-sage-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The True Sage 01</title>
+      <link>https://oshoworld.com/the-true-sage-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2001.mp3" type="audio/mpeg" length="29969678" />
+      <guid isPermaLink="false">urn:uuid:727c97c5-fa29-5efb-90ed-d5cd84aa761b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:13</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 02</title>
+      <link>https://oshoworld.com/the-true-sage-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2002.mp3" type="audio/mpeg" length="36803154" />
+      <guid isPermaLink="false">urn:uuid:62e0bcb2-6cef-5625-ae24-e9949c59fd24</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:12</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 03</title>
+      <link>https://oshoworld.com/the-true-sage-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2003.mp3" type="audio/mpeg" length="31856607" />
+      <guid isPermaLink="false">urn:uuid:1edc0fb8-f402-5ffb-8bdc-abe49fbe7583</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:27</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 04</title>
+      <link>https://oshoworld.com/the-true-sage-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2004.mp3" type="audio/mpeg" length="33274900" />
+      <guid isPermaLink="false">urn:uuid:df7c022d-fcbe-5d40-9b3f-3eae37263e6e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:24</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 05</title>
+      <link>https://oshoworld.com/the-true-sage-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2005.mp3" type="audio/mpeg" length="26813669" />
+      <guid isPermaLink="false">urn:uuid:604de87f-b19c-5d8d-af13-88f7f7ba139a</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:27</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 06</title>
+      <link>https://oshoworld.com/the-true-sage-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2006.mp3" type="audio/mpeg" length="35468088" />
+      <guid isPermaLink="false">urn:uuid:bda86476-e5f8-504e-9665-daddab2945f3</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:29</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 07</title>
+      <link>https://oshoworld.com/the-true-sage-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2007.mp3" type="audio/mpeg" length="27505495" />
+      <guid isPermaLink="false">urn:uuid:46c0c4ae-2c43-5d07-9620-9013b1a13ee2</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:22</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 08</title>
+      <link>https://oshoworld.com/the-true-sage-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2008.mp3" type="audio/mpeg" length="31877923" />
+      <guid isPermaLink="false">urn:uuid:cddb0c5c-0365-5ab0-b485-c8f219f9f338</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:31</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 09</title>
+      <link>https://oshoworld.com/the-true-sage-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2009.mp3" type="audio/mpeg" length="35463543" />
+      <guid isPermaLink="false">urn:uuid:29d80eb4-5144-5fd7-abe8-5e6f07824de0</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:29</itunes:duration>
+    </item>
+    <item>
+      <title>The True Sage 10</title>
+      <link>https://oshoworld.com/the-true-sage-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-true-sage-series/The%20True%20Sage%2010.mp3" type="audio/mpeg" length="34525799" />
+      <guid isPermaLink="false">urn:uuid:0b6ec2eb-d9ff-5e00-b4b8-973235a0880b</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:52</itunes:duration>
+    </item>
+  </channel>
+</rss>

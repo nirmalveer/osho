@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं)</title>
+    <link>https://oshoworld.com/chit-chakmak-lage-nahin-by-osho-1-6</link>
+    <description>Osho discourse series: Chit Chakmak Lage Nahin (चित चकमक लागै नहीं). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/chit-chakmak-lage-nahin-by-osho-1-6.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 01</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_01.mp3" type="audio/mpeg" length="17604829" />
+      <guid isPermaLink="false">urn:uuid:4afbf78b-c946-5ac1-836a-f604e24e3f9c</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:47:49</itunes:duration>
+    </item>
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 02</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_02.mp3" type="audio/mpeg" length="22629427" />
+      <guid isPermaLink="false">urn:uuid:81c395c6-184e-5125-adcd-744c6c262047</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:58</itunes:duration>
+    </item>
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 03</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_03.mp3" type="audio/mpeg" length="22032885" />
+      <guid isPermaLink="false">urn:uuid:27fa8685-0de6-5ed1-9efd-1819da8adcf2</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:57</itunes:duration>
+    </item>
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 04</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_04.mp3" type="audio/mpeg" length="22294401" />
+      <guid isPermaLink="false">urn:uuid:3a7b7e04-8623-52da-b713-533b111e2eea</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:35</itunes:duration>
+    </item>
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 05</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_05.mp3" type="audio/mpeg" length="24063178" />
+      <guid isPermaLink="false">urn:uuid:8625977b-c4d2-5d0f-8e6f-2097f9c42493</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:13</itunes:duration>
+    </item>
+    <item>
+      <title>Chit Chakmak Lage Nahin (चित चकमक लागै नहीं) 06</title>
+      <link>https://oshoworld.com/chit-chakmak-lage-nahin-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Chit_Chakmak_Lage_Nahin_06.mp3" type="audio/mpeg" length="25042562" />
+      <guid isPermaLink="false">urn:uuid:4437f9c3-1bf3-54af-9a92-9edeab6a791c</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:11</itunes:duration>
+    </item>
+  </channel>
+</rss>

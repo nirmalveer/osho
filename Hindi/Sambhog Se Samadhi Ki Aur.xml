@@ -1,107 +1,140 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sambhog Se Samadhi Ki Aur</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sambhog Se Samadhi Ki Aur (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-by-osho-01-16</link>
+    <description>Osho discourse series: Sambhog Se Samadhi Ki Aur. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sambhog%20Se%20Samadhi%20Ki%20Aur.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 01</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_01.mp3" type="audio/mpeg" length="30449372" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:08</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 02</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_02.mp3" type="audio/mpeg" length="29571452" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:37</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 03</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_03.mp3" type="audio/mpeg" length="28303041" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:00</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 04</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_04.mp3" type="audio/mpeg" length="22812824" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:47</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 05</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_05.mp3" type="audio/mpeg" length="34049373" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:00</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 06</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_06.mp3" type="audio/mpeg" length="34591911" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:34</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 07</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_07.mp3" type="audio/mpeg" length="22144911" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:10</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 08</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_08.mp3" type="audio/mpeg" length="29712338" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:49</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 09</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_09.mp3" type="audio/mpeg" length="30436196" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:46</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 10</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_10.mp3" type="audio/mpeg" length="20887165" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:59</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 11</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_11.mp3" type="audio/mpeg" length="25494012" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:05</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 12</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_12.mp3" type="audio/mpeg" length="24990192" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:46</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 13</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_13.mp3" type="audio/mpeg" length="21376572" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:47:34</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 14</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_14.mp3" type="audio/mpeg" length="23999212" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:18</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 15</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_15.mp3" type="audio/mpeg" length="22947315" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:43</itunes:duration>
     </item>
     <item>
-      <title>Sambhog Se Samadhi Ki Aur 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Sambhog Se Samadhi Ki Oar 16</title>
+      <link>https://oshoworld.com/sambhog-se-samadhi-ki-oar-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sambhog_Se_Samadhi_Ki_Aur_16.mp3" type="audio/mpeg" length="28701976" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/154-Sambhog%20Se%20Samadhi%20Ki%20Aur%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sambhog_Se_Samadhi_Ki_Aur_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:58</itunes:duration>
     </item>
   </channel>
 </rss>

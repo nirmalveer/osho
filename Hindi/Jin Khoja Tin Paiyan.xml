@@ -1,125 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jin Khoja Tin Paiyan</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jin Khoja Tin Paiyan (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jin-khoja-tin-paiyan-by-osho-01-19</link>
+    <description>Osho discourse series: Jin Khoja Tin Paiyan. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jin%20Khoja%20Tin%20Paiyan.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jin Khoja Tin Paiyan 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 01</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_01.mp3" type="audio/mpeg" length="26591807" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:34</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 02</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_02.mp3" type="audio/mpeg" length="36625203" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:12</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 03</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_03.mp3" type="audio/mpeg" length="26622961" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:07</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 04</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_04.mp3" type="audio/mpeg" length="26727600" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:30</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 05</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_05.mp3" type="audio/mpeg" length="23897704" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:39</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 06</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_06.mp3" type="audio/mpeg" length="28941043" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:06</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 07</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_07.mp3" type="audio/mpeg" length="34806828" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:58</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 08</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_08.mp3" type="audio/mpeg" length="31471782" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:16</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 09</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_09.mp3" type="audio/mpeg" length="21154481" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:53</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 10</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_10.mp3" type="audio/mpeg" length="32727587" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:13</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 11</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_11.mp3" type="audio/mpeg" length="33336054" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:22</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 12</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_12.mp3" type="audio/mpeg" length="31860737" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:46</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 13</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_13.mp3" type="audio/mpeg" length="35892203" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:20</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 14</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_14.mp3" type="audio/mpeg" length="51672874" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:25</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 15</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_15.mp3" type="audio/mpeg" length="49509741" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:42</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 16</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_16.mp3" type="audio/mpeg" length="32195340" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:37</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 17</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_17.mp3" type="audio/mpeg" length="40686299" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:00</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 18</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_18.mp3" type="audio/mpeg" length="44445654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:52</itunes:duration>
     </item>
     <item>
-      <title>Jin Khoja Tin Paiyan 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Jin Khoja Tin Paiyan 19</title>
+      <link>https://oshoworld.com/jin-khoja-tin-paiyan-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jin_Khoja_Tin_Paiyan_19.mp3" type="audio/mpeg" length="36841321" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/075-Jin%20Khoja%20Tin%20Paiyan/OSHO-Jin_Khoja_Tin_Paiyan_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:07</itunes:duration>
     </item>
   </channel>
 </rss>

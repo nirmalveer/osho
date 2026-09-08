@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Turning In</title>
+    <link>https://oshoworld.com/turning-in-series</link>
+    <description>Osho discourse series: Turning In. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/turning-in-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Turning In 01</title>
+      <link>https://oshoworld.com/turning-in-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2001.mp3" type="audio/mpeg" length="51542926" />
+      <guid isPermaLink="false">urn:uuid:99d18536-8b37-5869-a09e-76552e11e917</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:21:11</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 02</title>
+      <link>https://oshoworld.com/turning-in-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2002.mp3" type="audio/mpeg" length="47577538" />
+      <guid isPermaLink="false">urn:uuid:b2c66b94-c512-55d8-bdb4-71da436733a0</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:10</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 03</title>
+      <link>https://oshoworld.com/turning-in-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2003.mp3" type="audio/mpeg" length="35038606" />
+      <guid isPermaLink="false">urn:uuid:6d5b2e2a-1fcd-5ac6-8865-549633d9cc40</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:20</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 04</title>
+      <link>https://oshoworld.com/turning-in-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2004.mp3" type="audio/mpeg" length="54434368" />
+      <guid isPermaLink="false">urn:uuid:78e46b5b-d150-553d-bc3e-59b92c70beb9</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:29:13</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 05</title>
+      <link>https://oshoworld.com/turning-in-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2005.mp3" type="audio/mpeg" length="41089192" />
+      <guid isPermaLink="false">urn:uuid:560df9ec-a78a-5643-951d-92b529eebabf</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:08</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 06</title>
+      <link>https://oshoworld.com/turning-in-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2006.mp3" type="audio/mpeg" length="24536755" />
+      <guid isPermaLink="false">urn:uuid:611f91a2-c6bc-5ab1-9bb1-0be3a58c4a55</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:10</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 07</title>
+      <link>https://oshoworld.com/turning-in-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2007.mp3" type="audio/mpeg" length="28903853" />
+      <guid isPermaLink="false">urn:uuid:b28b935b-320c-5575-b2ae-c088b4154758</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:18</itunes:duration>
+    </item>
+    <item>
+      <title>Turning In 08</title>
+      <link>https://oshoworld.com/turning-in-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/turning-in-series/Turning%20In%2008.mp3" type="audio/mpeg" length="47412340" />
+      <guid isPermaLink="false">urn:uuid:e5019153-c39b-5c2c-bcf7-931a12562c89</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:42</itunes:duration>
+    </item>
+  </channel>
+</rss>

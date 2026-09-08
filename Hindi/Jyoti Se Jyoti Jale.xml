@@ -1,137 +1,180 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jyoti Se Jyoti Jale</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jyoti Se Jyoti Jale (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jyoti-se-jyoti-jale-by-osho-01-21</link>
+    <description>Osho discourse series: Jyoti Se Jyoti Jale. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jyoti%20Se%20Jyoti%20Jale.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jyoti Se Jyoti Jale 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 01</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_01.mp3" type="audio/mpeg" length="50934480" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:18</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 02</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_02.mp3" type="audio/mpeg" length="45464679" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:59</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 03</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_03.mp3" type="audio/mpeg" length="52043734" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:21</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 04</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_04.mp3" type="audio/mpeg" length="42821020" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:12</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 05</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_05.mp3" type="audio/mpeg" length="46226790" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:19</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 06</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_06.mp3" type="audio/mpeg" length="45629465" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:10</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 07</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_07.mp3" type="audio/mpeg" length="45496273" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:35</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 08</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_08.mp3" type="audio/mpeg" length="53263365" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:03</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 09</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_09.mp3" type="audio/mpeg" length="51060708" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:55</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 10</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_10.mp3" type="audio/mpeg" length="48598874" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:46</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_11.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_11.mp3</guid>
+      <title>Jyoti Se Jyoti Jale 11</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-11</link>
+      <enclosure url="https://oshoworld.com/uploads/audio/audioFile_1751533185096_Jyoti%20Se%20Jyoti%20Jale%2011.mp3" type="audio/mpeg" length="101718152" />
+      <guid isPermaLink="false">urn:uuid:5af4c7ad-6f28-5d96-9bf0-5392855119e5</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:57</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 12</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_12.mp3" type="audio/mpeg" length="39203723" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:21</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 13</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_13.mp3" type="audio/mpeg" length="42703614" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:34</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 14</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_14.mp3" type="audio/mpeg" length="42311324" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:09</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 15</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_15.mp3" type="audio/mpeg" length="38897714" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:40</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 16</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_16.mp3" type="audio/mpeg" length="40813471" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:53</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 17</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_17.mp3" type="audio/mpeg" length="38978900" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:06</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 18</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_18.mp3" type="audio/mpeg" length="47106558" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:11</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 19</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_19.mp3" type="audio/mpeg" length="41764303" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:26</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 20</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_20.mp3" type="audio/mpeg" length="48555490" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:51</itunes:duration>
     </item>
     <item>
-      <title>Jyoti Se Jyoti Jale 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyoti Se Jyoti Jale 21</title>
+      <link>https://oshoworld.com/jyoti-se-jyoti-jale-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyoti_Se_Jyoti_Jale_21.mp3" type="audio/mpeg" length="49962532" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/068-Jyoti%20Se%20Jyoti%20Jale/OSHO-Jyoti_Se_Jyoti_Jale_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:04</itunes:duration>
     </item>
   </channel>
 </rss>

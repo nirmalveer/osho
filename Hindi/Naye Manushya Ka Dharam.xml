@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Naye Manushya Ka Dharam</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Naye Manushya Ka Dharam (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/naye-manushya-ka-dharam-by-osho-01-08</link>
+    <description>Osho discourse series: Naye Manushya Ka Dharam. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Naye%20Manushya%20Ka%20Dharam.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Naye Manushya Ka Dharam 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 01</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_01.mp3" type="audio/mpeg" length="22146025" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:31</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 02</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_02.mp3" type="audio/mpeg" length="8499901" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:18:25</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 03</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_03.mp3" type="audio/mpeg" length="24072932" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:38</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 04</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_04.mp3" type="audio/mpeg" length="17195799" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:50</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 05</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_05.mp3" type="audio/mpeg" length="25464753" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:33</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 06</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_06.mp3" type="audio/mpeg" length="25529102" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:52</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 07</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_07.mp3" type="audio/mpeg" length="10415598" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:17</itunes:duration>
     </item>
     <item>
-      <title>Naye Manushya Ka Dharam 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Naye Manushya Ka Dharam 08</title>
+      <link>https://oshoworld.com/naye-manushya-ka-dharam-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Naye_Manushya_Ka_Dharam_08.mp3" type="audio/mpeg" length="26262193" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/121-Naye%20Manushya%20Ka%20Dharam%2001-08%20%E2%80%93%20Osho%20World/OSHO-Naye_Manushya_Ka_Dharam_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:58</itunes:duration>
     </item>
   </channel>
 </rss>

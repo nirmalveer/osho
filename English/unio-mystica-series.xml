@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Unio Mystica</title>
+    <link>https://oshoworld.com/unio-mystica-series</link>
+    <description>Osho discourse series: Unio Mystica. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/unio-mystica-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unio Mystica (Vol 1) 01</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2001.mp3" type="audio/mpeg" length="37740556" />
+      <guid isPermaLink="false">urn:uuid:1e82a4ef-9be0-5572-b33c-96eed04410de</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:10</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 02</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2002.mp3" type="audio/mpeg" length="34142398" />
+      <guid isPermaLink="false">urn:uuid:e4516376-374e-5d0a-ba10-ac8ece3b844c</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:10</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 03</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2003.mp3" type="audio/mpeg" length="37209226" />
+      <guid isPermaLink="false">urn:uuid:920f0df6-c4c9-5a2b-b28c-86e3008ac987</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:41</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 04</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2004.mp3" type="audio/mpeg" length="39356177" />
+      <guid isPermaLink="false">urn:uuid:e980f6c1-87cc-5530-97e4-94bdc02b62bc</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:39</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 05</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2005.mp3" type="audio/mpeg" length="37474891" />
+      <guid isPermaLink="false">urn:uuid:d8ac82b4-7678-5182-b904-3abcfdf34895</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:25</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 06</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2006.mp3" type="audio/mpeg" length="38637235" />
+      <guid isPermaLink="false">urn:uuid:ea29053a-e49b-579b-880d-e97af3b84017</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:39</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 07</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2007.mp3" type="audio/mpeg" length="42131165" />
+      <guid isPermaLink="false">urn:uuid:ad0d002b-93a3-5308-9b16-876cd2fef290</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:21</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 08</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2008.mp3" type="audio/mpeg" length="37429751" />
+      <guid isPermaLink="false">urn:uuid:577195c4-b3f3-5512-97ff-f97facffae61</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:18</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 09</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2009.mp3" type="audio/mpeg" length="38098068" />
+      <guid isPermaLink="false">urn:uuid:000b16a0-d37f-540a-8e2b-295851bb25f2</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:09</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 1) 10</title>
+      <link>https://oshoworld.com/unio-mystica-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%201%2010.mp3" type="audio/mpeg" length="37900112" />
+      <guid isPermaLink="false">urn:uuid:17a25ff0-dbb9-527a-8362-22385e877413</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:36</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 01</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2001.mp3" type="audio/mpeg" length="38256213" />
+      <guid isPermaLink="false">urn:uuid:6d293ac5-53f2-517a-a6df-c99f212e05c1</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:36</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 02</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2002.mp3" type="audio/mpeg" length="39487208" />
+      <guid isPermaLink="false">urn:uuid:cb4f826a-d47b-59cd-830f-f23b6fcd156b</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:01</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 03</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2003.mp3" type="audio/mpeg" length="37521755" />
+      <guid isPermaLink="false">urn:uuid:667da483-541a-56b4-9d57-9ce08b11a07a</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:33</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 04</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2004.mp3" type="audio/mpeg" length="39186434" />
+      <guid isPermaLink="false">urn:uuid:46bea8b7-495b-5e45-982e-ade88ff36ffb</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:11</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 05</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2005.mp3" type="audio/mpeg" length="39421222" />
+      <guid isPermaLink="false">urn:uuid:a69b3110-f089-506b-a96f-0966c429abb4</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:50</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 06</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2006.mp3" type="audio/mpeg" length="37106564" />
+      <guid isPermaLink="false">urn:uuid:5f147044-36db-5902-bcc4-df6c4cd7108a</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:24</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 07</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2007.mp3" type="audio/mpeg" length="37115185" />
+      <guid isPermaLink="false">urn:uuid:6b578c40-06a7-50a0-94c6-21d4aa4258ff</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:25</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 08</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2008.mp3" type="audio/mpeg" length="35255841" />
+      <guid isPermaLink="false">urn:uuid:ca3ea65a-4a51-5da3-b3e3-6265898ee33c</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:16</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 09</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2009.mp3" type="audio/mpeg" length="37136031" />
+      <guid isPermaLink="false">urn:uuid:c297364c-19b3-5367-a712-0651a417b4f8</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:29</itunes:duration>
+    </item>
+    <item>
+      <title>Unio Mystica (Vol 2) 10</title>
+      <link>https://oshoworld.com/unio-mystica-vol-2-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/unio-mystica-series/Unio%20Mystica%20Vol%202%2010.mp3" type="audio/mpeg" length="37062208" />
+      <guid isPermaLink="false">urn:uuid:ee237a05-7d62-514f-90e9-00e6f09e946c</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:17</itunes:duration>
+    </item>
+  </channel>
+</rss>

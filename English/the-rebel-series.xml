@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Rebel</title>
+    <link>https://oshoworld.com/the-rebel-series</link>
+    <description>Osho discourse series: The Rebel. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-rebel-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rebel 01</title>
+      <link>https://oshoworld.com/the-rebel-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2001.mp3" type="audio/mpeg" length="36434713" />
+      <guid isPermaLink="false">urn:uuid:f4ac5239-aad3-5955-bde7-bde2666e7c51</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 02</title>
+      <link>https://oshoworld.com/the-rebel-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2002.mp3" type="audio/mpeg" length="43505015" />
+      <guid isPermaLink="false">urn:uuid:bb043158-c34b-5094-b8a5-316a7ad804d9</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 03</title>
+      <link>https://oshoworld.com/the-rebel-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2003.mp3" type="audio/mpeg" length="33197671" />
+      <guid isPermaLink="false">urn:uuid:cf5e473c-5747-55b3-8789-28eb480d058a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 04</title>
+      <link>https://oshoworld.com/the-rebel-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2004.mp3" type="audio/mpeg" length="38914256" />
+      <guid isPermaLink="false">urn:uuid:4a3f00d5-3eb7-5413-b0f7-e09e716c4f20</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 05</title>
+      <link>https://oshoworld.com/the-rebel-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2005.mp3" type="audio/mpeg" length="28210216" />
+      <guid isPermaLink="false">urn:uuid:501768e4-f0ef-5937-bb87-db9d50ade0f2</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:21</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 06</title>
+      <link>https://oshoworld.com/the-rebel-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2006.mp3" type="audio/mpeg" length="29649354" />
+      <guid isPermaLink="false">urn:uuid:2a39ae3b-38f2-5d3e-b448-a0dd7047a442</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:21</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 07</title>
+      <link>https://oshoworld.com/the-rebel-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2007.mp3" type="audio/mpeg" length="33122439" />
+      <guid isPermaLink="false">urn:uuid:6b820f21-00f5-5118-93d9-4dc13534fe54</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 08</title>
+      <link>https://oshoworld.com/the-rebel-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2008.mp3" type="audio/mpeg" length="29285887" />
+      <guid isPermaLink="false">urn:uuid:bf786a78-0908-59c8-aa23-beffedf144b0</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:20</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 09</title>
+      <link>https://oshoworld.com/the-rebel-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2009.mp3" type="audio/mpeg" length="33998585" />
+      <guid isPermaLink="false">urn:uuid:675af534-be76-5e0f-8715-b60576b2fde1</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 10</title>
+      <link>https://oshoworld.com/the-rebel-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2010.mp3" type="audio/mpeg" length="35860907" />
+      <guid isPermaLink="false">urn:uuid:5f1452cf-d1a3-5765-9cd1-8235825e30dc</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 11</title>
+      <link>https://oshoworld.com/the-rebel-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2011.mp3" type="audio/mpeg" length="30740228" />
+      <guid isPermaLink="false">urn:uuid:b1470ff7-03ef-5b88-869c-120a9330d505</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:23</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 12</title>
+      <link>https://oshoworld.com/the-rebel-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2012.mp3" type="audio/mpeg" length="35071905" />
+      <guid isPermaLink="false">urn:uuid:190531ec-4204-5a87-b1d7-aa572eb00a57</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 13</title>
+      <link>https://oshoworld.com/the-rebel-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2013.mp3" type="audio/mpeg" length="34142581" />
+      <guid isPermaLink="false">urn:uuid:338debb1-9cb8-52c9-aa10-0f1d1698fc2d</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 14</title>
+      <link>https://oshoworld.com/the-rebel-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2014.mp3" type="audio/mpeg" length="40117821" />
+      <guid isPermaLink="false">urn:uuid:ec0b6cfd-8cdd-5c3a-b68b-31018bff43a5</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 15</title>
+      <link>https://oshoworld.com/the-rebel-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2015.mp3" type="audio/mpeg" length="41245998" />
+      <guid isPermaLink="false">urn:uuid:c7eba8ed-9ec4-5665-8fdf-a14f9a708c75</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:34</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 16</title>
+      <link>https://oshoworld.com/the-rebel-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2016.mp3" type="audio/mpeg" length="31569981" />
+      <guid isPermaLink="false">urn:uuid:c78bdaab-1a60-5b60-919a-4bf3beed02a1</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:41</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 17</title>
+      <link>https://oshoworld.com/the-rebel-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2017.mp3" type="audio/mpeg" length="38153701" />
+      <guid isPermaLink="false">urn:uuid:ba8d0c2d-f332-5a7e-a39d-d7fc9e250de1</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 18</title>
+      <link>https://oshoworld.com/the-rebel-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2018.mp3" type="audio/mpeg" length="33158958" />
+      <guid isPermaLink="false">urn:uuid:8e7b048a-c615-558d-89a9-a378d48282dc</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 19</title>
+      <link>https://oshoworld.com/the-rebel-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2019.mp3" type="audio/mpeg" length="36765110" />
+      <guid isPermaLink="false">urn:uuid:ae9135a3-fabc-5842-8210-e90cd9feb2ee</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:07</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 20</title>
+      <link>https://oshoworld.com/the-rebel-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2020.mp3" type="audio/mpeg" length="32662892" />
+      <guid isPermaLink="false">urn:uuid:b97605e9-c7d6-5975-bf3a-0915233770cf</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:43</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 21</title>
+      <link>https://oshoworld.com/the-rebel-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2021.mp3" type="audio/mpeg" length="35533645" />
+      <guid isPermaLink="false">urn:uuid:c7eb9289-cee3-5141-8709-71f8203467ae</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 22</title>
+      <link>https://oshoworld.com/the-rebel-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2022.mp3" type="audio/mpeg" length="31422024" />
+      <guid isPermaLink="false">urn:uuid:faf649aa-afa0-5b07-98f4-25c57474d978</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 23</title>
+      <link>https://oshoworld.com/the-rebel-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2023.mp3" type="audio/mpeg" length="36521544" />
+      <guid isPermaLink="false">urn:uuid:9e1f57ed-51af-5722-a100-1671b9b8c68c</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 24</title>
+      <link>https://oshoworld.com/the-rebel-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2024.mp3" type="audio/mpeg" length="31585812" />
+      <guid isPermaLink="false">urn:uuid:dfe15602-bef9-57dd-a20a-6339d9bd82fa</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 25</title>
+      <link>https://oshoworld.com/the-rebel-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2025.mp3" type="audio/mpeg" length="38754386" />
+      <guid isPermaLink="false">urn:uuid:d1e6b3a6-66f3-51f3-9a3c-39df38b3a1bf</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 26</title>
+      <link>https://oshoworld.com/the-rebel-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2026.mp3" type="audio/mpeg" length="32427790" />
+      <guid isPermaLink="false">urn:uuid:7e5d73ef-8e15-5cb6-84d0-041037c0ea10</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:04</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 27</title>
+      <link>https://oshoworld.com/the-rebel-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2027.mp3" type="audio/mpeg" length="38813005" />
+      <guid isPermaLink="false">urn:uuid:d2868ca0-ba2c-5de2-bb73-0859fbd7941b</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:48</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 28</title>
+      <link>https://oshoworld.com/the-rebel-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2028.mp3" type="audio/mpeg" length="34605932" />
+      <guid isPermaLink="false">urn:uuid:3ce78f4b-63dc-56c1-be6a-76abebe41b64</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:07</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 29</title>
+      <link>https://oshoworld.com/the-rebel-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2029.mp3" type="audio/mpeg" length="32232029" />
+      <guid isPermaLink="false">urn:uuid:393b6031-d8d5-5631-b74c-64df9c4350bf</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 30</title>
+      <link>https://oshoworld.com/the-rebel-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2030.mp3" type="audio/mpeg" length="40425648" />
+      <guid isPermaLink="false">urn:uuid:dd5e9f08-c307-51a4-828d-e46d2898400d</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 31</title>
+      <link>https://oshoworld.com/the-rebel-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2031.mp3" type="audio/mpeg" length="41490190" />
+      <guid isPermaLink="false">urn:uuid:ff7c3507-a246-56cb-b194-0adee61e16cc</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:14</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 32</title>
+      <link>https://oshoworld.com/the-rebel-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2032.mp3" type="audio/mpeg" length="35353243" />
+      <guid isPermaLink="false">urn:uuid:0d104822-a008-5104-ade9-7dc98107cf94</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 33</title>
+      <link>https://oshoworld.com/the-rebel-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2033.mp3" type="audio/mpeg" length="34023506" />
+      <guid isPermaLink="false">urn:uuid:a990b0d0-6139-572f-819f-5433c562f523</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:30</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 34</title>
+      <link>https://oshoworld.com/the-rebel-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2034.mp3" type="audio/mpeg" length="37144251" />
+      <guid isPermaLink="false">urn:uuid:351f4d59-8398-50bf-8239-93565b1ab23b</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Rebel 35</title>
+      <link>https://oshoworld.com/the-rebel-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-rebel-series/The%20Rebel%2035.mp3" type="audio/mpeg" length="40276594" />
+      <guid isPermaLink="false">urn:uuid:671d804f-c9a3-50bf-826c-ca2c5c0e9bb3</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:52</itunes:duration>
+    </item>
+  </channel>
+</rss>

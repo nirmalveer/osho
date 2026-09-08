@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Diamond Sutra</title>
+    <link>https://oshoworld.com/the-diamond-sutra-series</link>
+    <description>Osho discourse series: The Diamond Sutra. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-diamond-sutra-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Diamond Sutra 01</title>
+      <link>https://oshoworld.com/the-diamond-sutra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2001.mp3" type="audio/mpeg" length="29623133" />
+      <guid isPermaLink="false">urn:uuid:edf81c93-f6dc-5e7d-99ee-38f04e64d002</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:14</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 02</title>
+      <link>https://oshoworld.com/the-diamond-sutra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2002.mp3" type="audio/mpeg" length="24322679" />
+      <guid isPermaLink="false">urn:uuid:2a71c480-d87b-5c21-bb0d-feb079cb6784</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:30</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 03</title>
+      <link>https://oshoworld.com/the-diamond-sutra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2003.mp3" type="audio/mpeg" length="24835515" />
+      <guid isPermaLink="false">urn:uuid:4d681d77-e060-5962-bc11-3de3342b46b3</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 04</title>
+      <link>https://oshoworld.com/the-diamond-sutra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2004.mp3" type="audio/mpeg" length="21678408" />
+      <guid isPermaLink="false">urn:uuid:b5023efb-f786-581b-a219-79dac66e0787</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>57:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 05</title>
+      <link>https://oshoworld.com/the-diamond-sutra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2005.mp3" type="audio/mpeg" length="28595894" />
+      <guid isPermaLink="false">urn:uuid:20c397e0-ecf0-52a0-b747-a734571eee26</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:22</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 06</title>
+      <link>https://oshoworld.com/the-diamond-sutra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2006.mp3" type="audio/mpeg" length="29892560" />
+      <guid isPermaLink="false">urn:uuid:73985c25-5bc0-561c-9fc5-93f7768d1ebb</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:59</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 07</title>
+      <link>https://oshoworld.com/the-diamond-sutra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2007.mp3" type="audio/mpeg" length="27458000" />
+      <guid isPermaLink="false">urn:uuid:217882c3-8337-51a9-9975-962560f3e25f</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:13</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 08</title>
+      <link>https://oshoworld.com/the-diamond-sutra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2008.mp3" type="audio/mpeg" length="30171704" />
+      <guid isPermaLink="false">urn:uuid:df04ab85-568e-5551-afeb-019ba7d360d0</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:45</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 09</title>
+      <link>https://oshoworld.com/the-diamond-sutra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2009.mp3" type="audio/mpeg" length="23974414" />
+      <guid isPermaLink="false">urn:uuid:5dbc857b-8562-56e6-8c92-ff4d2d894342</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 10</title>
+      <link>https://oshoworld.com/the-diamond-sutra-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2010.mp3" type="audio/mpeg" length="30432354" />
+      <guid isPermaLink="false">urn:uuid:34e0ce78-8ce1-5640-bac0-9cfe190f7347</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Diamond Sutra 11</title>
+      <link>https://oshoworld.com/the-diamond-sutra-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-diamond-sutra-series/The%20Diamond%20Sutra%2011.mp3" type="audio/mpeg" length="30020925" />
+      <guid isPermaLink="false">urn:uuid:994fcb3b-a36c-573b-bfb2-e40a51c8ac8d</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:20</itunes:duration>
+    </item>
+  </channel>
+</rss>

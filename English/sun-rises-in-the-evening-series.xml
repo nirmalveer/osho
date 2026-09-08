@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Sun Rises in the Evening</title>
+    <link>https://oshoworld.com/sun-rises-in-the-evening-series</link>
+    <description>Osho discourse series: Sun Rises in the Evening. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/sun-rises-in-the-evening-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Rises in the Evening 01</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2001.mp3" type="audio/mpeg" length="37461200" />
+      <guid isPermaLink="false">urn:uuid:47a53433-333d-510a-9a66-1470b667b23d</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:26</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 02</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2002.mp3" type="audio/mpeg" length="32826398" />
+      <guid isPermaLink="false">urn:uuid:df7fc923-4699-53e9-a01d-988e1760acdd</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:33</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 03</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2003.mp3" type="audio/mpeg" length="36574081" />
+      <guid isPermaLink="false">urn:uuid:40f356ca-cbc1-5a59-85ef-ff0f27181728</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:58</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 04</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2004.mp3" type="audio/mpeg" length="33996893" />
+      <guid isPermaLink="false">urn:uuid:1566dbdb-1212-5c36-91ad-eaded460faef</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:48</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 05</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2005.mp3" type="audio/mpeg" length="34081686" />
+      <guid isPermaLink="false">urn:uuid:f90235b4-aac1-5224-85d1-450bdb718e42</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:03</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 06</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2006.mp3" type="audio/mpeg" length="32844109" />
+      <guid isPermaLink="false">urn:uuid:996a65e0-8c79-5c4e-a9a1-372b60856dbd</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:36</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 07</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2007.mp3" type="audio/mpeg" length="35468005" />
+      <guid isPermaLink="false">urn:uuid:1de65b9b-f9c6-5ea6-b38c-054f46be684f</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:54</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 08</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2008.mp3" type="audio/mpeg" length="34378698" />
+      <guid isPermaLink="false">urn:uuid:d2fdb8c4-ab21-5c71-a31d-276ec8c6a7e0</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:52</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 09</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2009.mp3" type="audio/mpeg" length="35555149" />
+      <guid isPermaLink="false">urn:uuid:273508c4-1e99-5668-a21c-11345214851a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:08</itunes:duration>
+    </item>
+    <item>
+      <title>Sun Rises in the Evening 10</title>
+      <link>https://oshoworld.com/sun-rises-in-the-evening-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sun-rises-in-the-evening-series/Sun%20Rises%20In%20The%20Evening%2010.mp3" type="audio/mpeg" length="33116984" />
+      <guid isPermaLink="false">urn:uuid:9bb277ff-6d36-5667-9f20-71b5c45bc131</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:22</itunes:duration>
+    </item>
+  </channel>
+</rss>

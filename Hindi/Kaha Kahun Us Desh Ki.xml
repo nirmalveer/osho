@@ -1,23 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kaha Kahun Us Desh Ki</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kaha Kahun Us Desh Ki (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kaha-kahun-us-desh-ki-by-osho-01-02</link>
+    <description>Osho discourse series: Kaha Kahun Us Desh Ki. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kaha%20Kahun%20Us%20Desh%20Ki.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kaha Kahun Us Desh Ki 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/091-Kaha%20Kahun%20Us%20Desh%20Ki%2001-02%20%E2%80%93%20Osho%20World/OSHO-Kaha_Kahun_Us_Desh_Ki_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kaha Kahun Us Desh Ki 01</title>
+      <link>https://oshoworld.com/kaha-kahun-us-desh-ki-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kaha_Kahun_Us_Desh_Ki_01.mp3" type="audio/mpeg" length="27952655" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/091-Kaha%20Kahun%20Us%20Desh%20Ki%2001-02%20%E2%80%93%20Osho%20World/OSHO-Kaha_Kahun_Us_Desh_Ki_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:03</itunes:duration>
     </item>
     <item>
-      <title>Kaha Kahun Us Desh Ki 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/091-Kaha%20Kahun%20Us%20Desh%20Ki%2001-02%20%E2%80%93%20Osho%20World/OSHO-Kaha_Kahun_Us_Desh_Ki_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kaha Kahun Us Desh Ki 02</title>
+      <link>https://oshoworld.com/kaha-kahun-us-desh-ki-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kaha_Kahun_Us_Desh_Ki_02.mp3" type="audio/mpeg" length="21975311" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/091-Kaha%20Kahun%20Us%20Desh%20Ki%2001-02%20%E2%80%93%20Osho%20World/OSHO-Kaha_Kahun_Us_Desh_Ki_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:48</itunes:duration>
     </item>
   </channel>
 </rss>

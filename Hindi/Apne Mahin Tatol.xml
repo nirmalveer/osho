@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Apne Mahin Tatol</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Apne Mahin Tatol (Hindi) — streamed from Internet Archive</description>
+    <title>Apne Mahin Tatol (अपने माहिं टटोल)</title>
+    <link>https://oshoworld.com/008-apne-mahin-tatol-1-8</link>
+    <description>Osho discourse series: Apne Mahin Tatol (अपने माहिं टटोल). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Apne%20Mahin%20Tatol.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apne Mahin Tatol 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_01</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_01.mp3" type="audio/mpeg" length="29329460" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:18</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_02</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_02.mp3" type="audio/mpeg" length="19794020" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:45:08</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_03</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_03.mp3" type="audio/mpeg" length="29275101" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:16</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_04</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_04.mp3" type="audio/mpeg" length="31224149" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:10</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_05</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_05.mp3" type="audio/mpeg" length="12826787" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:55</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_06.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_06</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_06.mp3" type="audio/mpeg" length="36090639" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:47</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_07.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_07</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_07.mp3" type="audio/mpeg" length="26450722" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:39</itunes:duration>
     </item>
     <item>
-      <title>Apne Mahin Tatol 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_08.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Apne_Mahin_Tatol_08</title>
+      <link>https://oshoworld.com/osho-apne_mahin_tatol_08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Apne_Mahin_Tatol_08.mp3" type="audio/mpeg" length="34536528" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/008-Apne%20Mahin%20Tatol/OSHO-Apne_Mahin_Tatol_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:15</itunes:duration>
     </item>
   </channel>
 </rss>

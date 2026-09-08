@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Guida Spirituale</title>
+    <link>https://oshoworld.com/guida-spirituale-series</link>
+    <description>Osho discourse series: Guida Spirituale. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/guida-spirituale-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guida Spirituale 01</title>
+      <link>https://oshoworld.com/guida-spirituale-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2001.mp3" type="audio/mpeg" length="41774560" />
+      <guid isPermaLink="false">urn:uuid:b96a313d-b02d-57c7-b067-f16a5adceeb2</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:58</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 02</title>
+      <link>https://oshoworld.com/guida-spirituale-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2002.mp3" type="audio/mpeg" length="31473956" />
+      <guid isPermaLink="false">urn:uuid:463349a7-fd85-5674-8747-d99a014b646d</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:21</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 03</title>
+      <link>https://oshoworld.com/guida-spirituale-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2003.mp3" type="audio/mpeg" length="33976226" />
+      <guid isPermaLink="false">urn:uuid:64bc8534-eb9e-5f46-b22e-e067e847c782</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:18</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 04</title>
+      <link>https://oshoworld.com/guida-spirituale-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2004.mp3" type="audio/mpeg" length="26427569" />
+      <guid isPermaLink="false">urn:uuid:57c0b3c6-3822-5086-b87b-16ae75a78af8</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:20</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 05</title>
+      <link>https://oshoworld.com/guida-spirituale-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2005.mp3" type="audio/mpeg" length="32735514" />
+      <guid isPermaLink="false">urn:uuid:38b49ecc-ced5-5b9d-b563-7f8e0f682604</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:51</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 06</title>
+      <link>https://oshoworld.com/guida-spirituale-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2006.mp3" type="audio/mpeg" length="24651765" />
+      <guid isPermaLink="false">urn:uuid:b58964f6-f496-5f7e-91b6-ba3f5c362949</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:24</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 07</title>
+      <link>https://oshoworld.com/guida-spirituale-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2007.mp3" type="audio/mpeg" length="23881728" />
+      <guid isPermaLink="false">urn:uuid:411148e6-2f40-58e7-a444-267ceb47d527</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:15</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 08</title>
+      <link>https://oshoworld.com/guida-spirituale-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2008.mp3" type="audio/mpeg" length="33608056" />
+      <guid isPermaLink="false">urn:uuid:7d004f01-48cd-5e8b-bfc6-16d45c3331ca</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:17</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 09</title>
+      <link>https://oshoworld.com/guida-spirituale-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2009.mp3" type="audio/mpeg" length="41369871" />
+      <guid isPermaLink="false">urn:uuid:cf6d4d2a-ce3f-57cf-81fe-3f6817ba3cb7</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:50</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 10</title>
+      <link>https://oshoworld.com/guida-spirituale-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2010.mp3" type="audio/mpeg" length="33837986" />
+      <guid isPermaLink="false">urn:uuid:bd4f4446-a49d-5a71-93ce-63c526d58f6f</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:55</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 11</title>
+      <link>https://oshoworld.com/guida-spirituale-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2011.mp3" type="audio/mpeg" length="40358317" />
+      <guid isPermaLink="false">urn:uuid:5f8829bb-47a9-55cc-9b5b-49eb078006a4</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:02</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 12</title>
+      <link>https://oshoworld.com/guida-spirituale-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2012.mp3" type="audio/mpeg" length="44140627" />
+      <guid isPermaLink="false">urn:uuid:222f2357-7780-5b10-b95b-1bab50cdc6e1</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:32</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 13</title>
+      <link>https://oshoworld.com/guida-spirituale-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2013.mp3" type="audio/mpeg" length="40988223" />
+      <guid isPermaLink="false">urn:uuid:a97fec16-5583-5f81-90b8-46755011f7b6</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:47</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 14</title>
+      <link>https://oshoworld.com/guida-spirituale-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2014.mp3" type="audio/mpeg" length="37314048" />
+      <guid isPermaLink="false">urn:uuid:fbdcdf62-71ba-57c2-86c4-a63a312052cd</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:34</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 15</title>
+      <link>https://oshoworld.com/guida-spirituale-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2015.mp3" type="audio/mpeg" length="37179726" />
+      <guid isPermaLink="false">urn:uuid:19a4af62-abab-560e-8acf-0d4c8a6589b8</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:12</itunes:duration>
+    </item>
+    <item>
+      <title>Guida Spirituale 16</title>
+      <link>https://oshoworld.com/guida-spirituale-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/guida-spirituale-series/Guida%20Spirituale%2016.mp3" type="audio/mpeg" length="35768487" />
+      <guid isPermaLink="false">urn:uuid:427c0df1-c578-569b-aa71-0dbf86cbf13d</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:17</itunes:duration>
+    </item>
+  </channel>
+</rss>

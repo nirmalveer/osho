@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tao Vol 4: Talking The Three Treasures</title>
+    <link>https://oshoworld.com/tao-vol-4-talking-the-three-treasures-series</link>
+    <description>Osho discourse series: Tao Vol 4: Talking The Three Treasures. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/tao-vol-4-talking-the-three-treasures-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talking Tao 01</title>
+      <link>https://oshoworld.com/talking-tao-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2001.mp3" type="audio/mpeg" length="35422391" />
+      <guid isPermaLink="false">urn:uuid:ed1e87e5-7302-5a2d-ad12-695bc512e4c7</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:35</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 02</title>
+      <link>https://oshoworld.com/talking-tao-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2002.mp3" type="audio/mpeg" length="32943945" />
+      <guid isPermaLink="false">urn:uuid:c96c514d-d04d-5473-8ecc-02f785403576</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:42</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 03</title>
+      <link>https://oshoworld.com/talking-tao-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2003.mp3" type="audio/mpeg" length="27203380" />
+      <guid isPermaLink="false">urn:uuid:d260a30d-bb80-5a6e-a494-e2aaf4a31cf0</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:45</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 04</title>
+      <link>https://oshoworld.com/talking-tao-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2004.mp3" type="audio/mpeg" length="32138642" />
+      <guid isPermaLink="false">urn:uuid:f5ee1f8e-10d0-5841-915a-7e2d72ecd32f</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:28</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 05</title>
+      <link>https://oshoworld.com/talking-tao-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2005.mp3" type="audio/mpeg" length="28341744" />
+      <guid isPermaLink="false">urn:uuid:27a47d4e-5108-5fb4-8357-0cde2a4b019f</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:55</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 06</title>
+      <link>https://oshoworld.com/talking-tao-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2006.mp3" type="audio/mpeg" length="30792604" />
+      <guid isPermaLink="false">urn:uuid:3cb2a2db-937e-5303-bd1c-538ca49178e6</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:43</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 07</title>
+      <link>https://oshoworld.com/talking-tao-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2007.mp3" type="audio/mpeg" length="27637065" />
+      <guid isPermaLink="false">urn:uuid:bb735c3d-aa1b-5bf7-8bdd-cbb536a4c8d7</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:57</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 08</title>
+      <link>https://oshoworld.com/talking-tao-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2008.mp3" type="audio/mpeg" length="32616840" />
+      <guid isPermaLink="false">urn:uuid:6736ca97-36a2-5e17-be61-e900307316fc</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:47</itunes:duration>
+    </item>
+    <item>
+      <title>Talking Tao 09</title>
+      <link>https://oshoworld.com/talking-tao-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-4-talking-the-three-treasures-series/Talking%20Tao%2009.mp3" type="audio/mpeg" length="34101274" />
+      <guid isPermaLink="false">urn:uuid:c8d47c6a-934d-5642-ba4f-6b7ba5dc777d</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:55</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sukh Aur Shanti</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sukh Aur Shanti (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sukh-aur-shanti-by-osho-01-09</link>
+    <description>Osho discourse series: Sukh Aur Shanti. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sukh%20Aur%20Shanti.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sukh Aur Shanti 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 01</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_01.mp3" type="audio/mpeg" length="30251884" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:11</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 02</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_02.mp3" type="audio/mpeg" length="24078664" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:15</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 03</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_03.mp3" type="audio/mpeg" length="29865654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:58</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 04</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_04.mp3" type="audio/mpeg" length="32079769" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:28</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 05</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_05.mp3" type="audio/mpeg" length="26532958" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:13</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 06</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_06.mp3" type="audio/mpeg" length="36983306" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:24</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 07</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_07.mp3" type="audio/mpeg" length="19767686" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:42</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 08</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_08.mp3" type="audio/mpeg" length="36142594" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:06</itunes:duration>
     </item>
     <item>
-      <title>Sukh Aur Shanti 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sukh Aur Shanti 09</title>
+      <link>https://oshoworld.com/sukh-aur-shanti-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sukh_Aur_Shanti_09.mp3" type="audio/mpeg" length="14213732" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/166-Sukh%20Aur%20Shanti%2001-09%20%E2%80%93%20Osho%20World/OSHO-Sukh_Aur_Shanti_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:33:17</itunes:duration>
     </item>
   </channel>
 </rss>

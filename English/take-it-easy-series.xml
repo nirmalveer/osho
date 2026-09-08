@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Take it Easy</title>
+    <link>https://oshoworld.com/take-it-easy-series</link>
+    <description>Osho discourse series: Take it Easy. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/take-it-easy-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take it Easy (Vol 1) 01</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2001.mp3" type="audio/mpeg" length="34497363" />
+      <guid isPermaLink="false">urn:uuid:561c0619-e58a-54cd-a014-2ea9a1eb8710</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:13</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 02</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2002.mp3" type="audio/mpeg" length="33727325" />
+      <guid isPermaLink="false">urn:uuid:f6d376fb-8d3f-58d1-9100-68f506f958f4</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:04</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 03</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2003.mp3" type="audio/mpeg" length="32364517" />
+      <guid isPermaLink="false">urn:uuid:38f2257e-d21b-5268-9e52-ae5feb16e4ac</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:17</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 04</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2004.mp3" type="audio/mpeg" length="33944403" />
+      <guid isPermaLink="false">urn:uuid:a07ef4c8-0d89-5dcd-abab-8cf2b9f3a30a</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:40</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 05</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2005.mp3" type="audio/mpeg" length="34547831" />
+      <guid isPermaLink="false">urn:uuid:0c48376a-e2d9-5f5d-be6b-c1a6a5f47992</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:21</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 06</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2006.mp3" type="audio/mpeg" length="35818323" />
+      <guid isPermaLink="false">urn:uuid:cf597eaf-b42e-5862-b7fa-bc8f0bad6287</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:53</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 07</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2007.mp3" type="audio/mpeg" length="35306741" />
+      <guid isPermaLink="false">urn:uuid:690d085d-1bd2-5cb3-ab81-696ba3d9ad3c</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:27</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 08</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2008.mp3" type="audio/mpeg" length="37501183" />
+      <guid isPermaLink="false">urn:uuid:6ef3dca7-40c6-502f-89f0-6258b2d299c6</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:33</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 09</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2009.mp3" type="audio/mpeg" length="34105683" />
+      <guid isPermaLink="false">urn:uuid:21a25f18-2c4b-5e58-86d7-f3b22ed4a281</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:07</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 10</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2010.mp3" type="audio/mpeg" length="34529493" />
+      <guid isPermaLink="false">urn:uuid:83c6bd98-75a5-5dd9-9ee1-8791bda1b515</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:18</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 11</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2011.mp3" type="audio/mpeg" length="34748295" />
+      <guid isPermaLink="false">urn:uuid:703c858a-5b5b-51ce-961f-e8183ba0f646</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:54</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 12</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2012.mp3" type="audio/mpeg" length="31276308" />
+      <guid isPermaLink="false">urn:uuid:61874f05-b058-5d73-9c0c-b61709ae23bf</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:16</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 13</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2013.mp3" type="audio/mpeg" length="35071325" />
+      <guid isPermaLink="false">urn:uuid:ba8cf94d-7cec-5f36-a113-51960aa3d24e</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:48</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 1) 14</title>
+      <link>https://oshoworld.com/take-it-easy-vol-1-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%201%2014.mp3" type="audio/mpeg" length="34075276" />
+      <guid isPermaLink="false">urn:uuid:b8ec3f33-e132-59d1-b9e8-3994895909bb</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:02</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 01</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2001.mp3" type="audio/mpeg" length="36734750" />
+      <guid isPermaLink="false">urn:uuid:9414a028-d31a-52be-8125-68c9926fe613</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:25</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 02</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2002.mp3" type="audio/mpeg" length="41613588" />
+      <guid isPermaLink="false">urn:uuid:7763957b-12fb-526e-9c75-ce6215d8fd09</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:59</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 03</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2003.mp3" type="audio/mpeg" length="34078568" />
+      <guid isPermaLink="false">urn:uuid:84cf7a53-e492-5764-9364-b19c4a7bb0ef</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:03</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 04</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2004.mp3" type="audio/mpeg" length="32312951" />
+      <guid isPermaLink="false">urn:uuid:0dd9088c-cd74-5865-8f5f-926f9d0779c9</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:08</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 05</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2005.mp3" type="audio/mpeg" length="34237967" />
+      <guid isPermaLink="false">urn:uuid:df9e3383-738b-5f3c-b90d-d76cd88b0d56</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:29</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 06</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2006.mp3" type="audio/mpeg" length="36971263" />
+      <guid isPermaLink="false">urn:uuid:ac32dbb6-270a-5a64-b729-78251f5ded60</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:05</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 07</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2007.mp3" type="audio/mpeg" length="34725412" />
+      <guid isPermaLink="false">urn:uuid:452d96fd-7f03-58ab-ad07-0489a61a42e1</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:51</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 08</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2008.mp3" type="audio/mpeg" length="34545324" />
+      <guid isPermaLink="false">urn:uuid:a3df94f1-6673-5d42-a3d9-8e4285828d49</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:21</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 09</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2009.mp3" type="audio/mpeg" length="33881395" />
+      <guid isPermaLink="false">urn:uuid:d5b6775f-8947-5c22-a70f-232f68b05f52</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:30</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 10</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2010.mp3" type="audio/mpeg" length="38672461" />
+      <guid isPermaLink="false">urn:uuid:7be97de7-a579-57da-90a8-2ba877b608c0</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:48</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 11</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2011.mp3" type="audio/mpeg" length="32590528" />
+      <guid isPermaLink="false">urn:uuid:9ee2ec91-fac0-544c-a25f-2a8b539ad4dc</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:55</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 12</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2012.mp3" type="audio/mpeg" length="34948132" />
+      <guid isPermaLink="false">urn:uuid:dac2193f-7a99-570d-926d-eb4cf41ee657</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:28</itunes:duration>
+    </item>
+    <item>
+      <title>Take it Easy (Vol 2) 13</title>
+      <link>https://oshoworld.com/take-it-easy-vol-2-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/take-it-easy-series/Take%20It%20Easy%20Vol%202%2013.mp3" type="audio/mpeg" length="35756256" />
+      <guid isPermaLink="false">urn:uuid:96290e59-0877-50a1-80bf-1ba3d39376a5</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:42</itunes:duration>
+    </item>
+  </channel>
+</rss>

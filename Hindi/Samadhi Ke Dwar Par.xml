@@ -1,47 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Samadhi Ke Dwar Par</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Samadhi Ke Dwar Par (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/samadhi-ke-dwar-par-by-osho-01-06</link>
+    <description>Osho discourse series: Samadhi Ke Dwar Par. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Samadhi%20Ke%20Dwar%20Par.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Samadhi Ke Dwar Par 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 01</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_01.mp3" type="audio/mpeg" length="28036318" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:29</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Ke Dwar Par 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 02</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_02.mp3" type="audio/mpeg" length="27150028" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:28</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Ke Dwar Par 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 03</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_03.mp3" type="audio/mpeg" length="25191834" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:20</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Ke Dwar Par 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 04</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_04.mp3" type="audio/mpeg" length="22599765" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:41</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Ke Dwar Par 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 05</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_05.mp3" type="audio/mpeg" length="27233667" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:18</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Ke Dwar Par 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Ke Dwar Par 06</title>
+      <link>https://oshoworld.com/samadhi-ke-dwar-par-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Ke_Dwar_Par_06.mp3" type="audio/mpeg" length="29281577" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/157-Samadhi%20Ke%20Dwar%20Par%2001-06%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Ke_Dwar_Par_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:23</itunes:duration>
     </item>
   </channel>
 </rss>

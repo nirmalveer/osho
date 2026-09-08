@@ -1,125 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Saravsar Upanishad</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Saravsar Upanishad (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/saravsar-upanishad-by-osho-01-19</link>
+    <description>Osho discourse series: Saravsar Upanishad. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Saravsar%20Upanishad.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Saravsar Upanishad 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 01</title>
+      <link>https://oshoworld.com/saravsar-upanishad-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_01.mp3" type="audio/mpeg" length="36486585" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:01</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 02</title>
+      <link>https://oshoworld.com/saravsar-upanishad-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_02.mp3" type="audio/mpeg" length="33690776" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:08</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 03</title>
+      <link>https://oshoworld.com/saravsar-upanishad-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_03.mp3" type="audio/mpeg" length="20977299" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:58</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 04</title>
+      <link>https://oshoworld.com/saravsar-upanishad-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_04.mp3" type="audio/mpeg" length="22871945" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:00</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 05</title>
+      <link>https://oshoworld.com/saravsar-upanishad-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_05.mp3" type="audio/mpeg" length="22799472" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:22</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 06</title>
+      <link>https://oshoworld.com/saravsar-upanishad-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_06.mp3" type="audio/mpeg" length="31188786" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:57</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 07</title>
+      <link>https://oshoworld.com/saravsar-upanishad-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_07.mp3" type="audio/mpeg" length="41268676" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:54</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 08</title>
+      <link>https://oshoworld.com/saravsar-upanishad-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_08.mp3" type="audio/mpeg" length="32090724" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:07</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 09</title>
+      <link>https://oshoworld.com/saravsar-upanishad-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_09.mp3" type="audio/mpeg" length="35903214" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:23</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 10</title>
+      <link>https://oshoworld.com/saravsar-upanishad-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_10.mp3" type="audio/mpeg" length="47609322" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:41</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 11</title>
+      <link>https://oshoworld.com/saravsar-upanishad-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_11.mp3" type="audio/mpeg" length="36343453" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:53</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 12</title>
+      <link>https://oshoworld.com/saravsar-upanishad-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_12.mp3" type="audio/mpeg" length="29683709" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:43</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 13</title>
+      <link>https://oshoworld.com/saravsar-upanishad-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_13.mp3" type="audio/mpeg" length="23268756" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:46</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 14</title>
+      <link>https://oshoworld.com/saravsar-upanishad-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_14.mp3" type="audio/mpeg" length="36056016" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:35</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 15</title>
+      <link>https://oshoworld.com/saravsar-upanishad-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_15.mp3" type="audio/mpeg" length="40171263" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:37</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 16</title>
+      <link>https://oshoworld.com/saravsar-upanishad-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_16.mp3" type="audio/mpeg" length="39757247" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:04</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Saravsar Upanishad 17</title>
+      <link>https://oshoworld.com/saravsar-upanishad-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_17.mp3" type="audio/mpeg" length="38969983" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:13</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_18.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_18.mp3</guid>
+      <title>Saravsar Upanishad 18</title>
+      <link>https://oshoworld.com/saravsar-upanishad-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_Dyanamic_18.mp3" type="audio/mpeg" length="18859354" />
+      <guid isPermaLink="false">urn:uuid:d16a5778-1137-5798-a6f3-9fbbbc0cc300</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:56</itunes:duration>
     </item>
     <item>
-      <title>Saravsar Upanishad 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_19.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/140-Saravsar%20Upanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Saravsar_Upanishad_19.mp3</guid>
+      <title>Saravsar Upanishad 19</title>
+      <link>https://oshoworld.com/saravsar-upanishad-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saravsar_Upanishad_Tratak_19.mp3" type="audio/mpeg" length="14623386" />
+      <guid isPermaLink="false">urn:uuid:e1222d09-d8f2-54ba-bcc5-6dff88071ecd</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:34:25</itunes:duration>
     </item>
   </channel>
 </rss>

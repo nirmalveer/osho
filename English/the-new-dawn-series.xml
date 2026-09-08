@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The New Dawn</title>
+    <link>https://oshoworld.com/the-new-dawn-series</link>
+    <description>Osho discourse series: The New Dawn. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-new-dawn-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The New Dawn 01</title>
+      <link>https://oshoworld.com/the-new-dawn-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2001.mp3" type="audio/mpeg" length="31221215" />
+      <guid isPermaLink="false">urn:uuid:9130c893-c28f-5682-b788-bc1dbee13517</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:24</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 02</title>
+      <link>https://oshoworld.com/the-new-dawn-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2002.mp3" type="audio/mpeg" length="35469509" />
+      <guid isPermaLink="false">urn:uuid:22a677cd-223d-506b-be9e-b640455cda0e</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:12</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 03</title>
+      <link>https://oshoworld.com/the-new-dawn-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2003.mp3" type="audio/mpeg" length="31674805" />
+      <guid isPermaLink="false">urn:uuid:c8dbcd97-f53c-5f27-be62-3f85843d90bd</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:39</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 04</title>
+      <link>https://oshoworld.com/the-new-dawn-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2004.mp3" type="audio/mpeg" length="38450133" />
+      <guid isPermaLink="false">urn:uuid:9221b361-a8de-5ec1-a4d1-ffd2f57d07bc</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:28</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 05</title>
+      <link>https://oshoworld.com/the-new-dawn-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2005.mp3" type="audio/mpeg" length="36264311" />
+      <guid isPermaLink="false">urn:uuid:750fc089-f93a-5113-9928-ed954048fc36</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:24</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 06</title>
+      <link>https://oshoworld.com/the-new-dawn-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2006.mp3" type="audio/mpeg" length="32747184" />
+      <guid isPermaLink="false">urn:uuid:9dd44c09-ebb1-5e0a-90e5-d01fd9f7d367</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:38</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 07</title>
+      <link>https://oshoworld.com/the-new-dawn-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2007.mp3" type="audio/mpeg" length="28568794" />
+      <guid isPermaLink="false">urn:uuid:3c617ce5-9efb-5648-82c8-b70cd39d3281</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:01</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 08</title>
+      <link>https://oshoworld.com/the-new-dawn-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2008.mp3" type="audio/mpeg" length="32062410" />
+      <guid isPermaLink="false">urn:uuid:d9db8887-5ce7-5844-b982-abcc6cb763ff</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:44</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 09</title>
+      <link>https://oshoworld.com/the-new-dawn-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2009.mp3" type="audio/mpeg" length="29977369" />
+      <guid isPermaLink="false">urn:uuid:9e58bcc4-872a-561f-9af8-3b12bf1b3bfc</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:56</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 10</title>
+      <link>https://oshoworld.com/the-new-dawn-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2010.mp3" type="audio/mpeg" length="35779217" />
+      <guid isPermaLink="false">urn:uuid:91986a29-27eb-5ebd-bd85-1056a80f1424</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:03</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 11</title>
+      <link>https://oshoworld.com/the-new-dawn-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2011.mp3" type="audio/mpeg" length="28195765" />
+      <guid isPermaLink="false">urn:uuid:097d0d04-901e-598a-989e-8c7f792df809</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:59</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 12</title>
+      <link>https://oshoworld.com/the-new-dawn-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2012.mp3" type="audio/mpeg" length="41020425" />
+      <guid isPermaLink="false">urn:uuid:d7f9709f-c42c-5b87-ae2a-44b16bf75b3e</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:37</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 13</title>
+      <link>https://oshoworld.com/the-new-dawn-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2013.mp3" type="audio/mpeg" length="34524399" />
+      <guid isPermaLink="false">urn:uuid:3ee061e5-1b0f-515a-abd0-1a6706f99851</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:34</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 14</title>
+      <link>https://oshoworld.com/the-new-dawn-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2014.mp3" type="audio/mpeg" length="34022064" />
+      <guid isPermaLink="false">urn:uuid:a6aebe3d-fdae-51d6-adcf-c32bdf24c6fa</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:10</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 15</title>
+      <link>https://oshoworld.com/the-new-dawn-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2015.mp3" type="audio/mpeg" length="41340007" />
+      <guid isPermaLink="false">urn:uuid:b2937f29-7db4-5d78-b97b-2fb9004b0c2c</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:30</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 16</title>
+      <link>https://oshoworld.com/the-new-dawn-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2016.mp3" type="audio/mpeg" length="32034041" />
+      <guid isPermaLink="false">urn:uuid:01feb139-a002-5aab-be1d-3cc6fd007e9d</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:39</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 17</title>
+      <link>https://oshoworld.com/the-new-dawn-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2017.mp3" type="audio/mpeg" length="42508621" />
+      <guid isPermaLink="false">urn:uuid:2bd18b00-ae04-5483-b5ca-b4c307e92bd7</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:45</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 18</title>
+      <link>https://oshoworld.com/the-new-dawn-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2018.mp3" type="audio/mpeg" length="43366743" />
+      <guid isPermaLink="false">urn:uuid:0e64f818-d4b4-5ef4-bd13-bf104629a4d2</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:08</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 19</title>
+      <link>https://oshoworld.com/the-new-dawn-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2019.mp3" type="audio/mpeg" length="56006456" />
+      <guid isPermaLink="false">urn:uuid:add00a00-500c-5eaa-a64f-2a10f93b7b78</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:31:14</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 20</title>
+      <link>https://oshoworld.com/the-new-dawn-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2020.mp3" type="audio/mpeg" length="31215102" />
+      <guid isPermaLink="false">urn:uuid:f37ff046-12e4-5e3d-a927-c5d2771cbf86</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:23</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 21</title>
+      <link>https://oshoworld.com/the-new-dawn-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2021.mp3" type="audio/mpeg" length="37142652" />
+      <guid isPermaLink="false">urn:uuid:b8a258be-1afd-5623-a286-78aa49762cbc</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:50</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 22</title>
+      <link>https://oshoworld.com/the-new-dawn-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2022.mp3" type="audio/mpeg" length="37485901" />
+      <guid isPermaLink="false">urn:uuid:6e2be97e-7efc-5f02-90cf-9593a10bd531</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:48</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 23</title>
+      <link>https://oshoworld.com/the-new-dawn-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2023.mp3" type="audio/mpeg" length="35135351" />
+      <guid isPermaLink="false">urn:uuid:30162be0-2ff5-57ed-a1e1-b3771df684b2</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:16</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 24</title>
+      <link>https://oshoworld.com/the-new-dawn-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2024.mp3" type="audio/mpeg" length="38301235" />
+      <guid isPermaLink="false">urn:uuid:625112d6-8b92-53fa-bfa3-e007a0a630fa</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:04</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 25</title>
+      <link>https://oshoworld.com/the-new-dawn-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2025.mp3" type="audio/mpeg" length="32719285" />
+      <guid isPermaLink="false">urn:uuid:c8818cf8-fca0-5b4b-b144-ee59e8071085</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:33</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 26</title>
+      <link>https://oshoworld.com/the-new-dawn-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2026.mp3" type="audio/mpeg" length="28874270" />
+      <guid isPermaLink="false">urn:uuid:8807efaa-939b-51a2-95d2-eb3bb8547496</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:52</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 27</title>
+      <link>https://oshoworld.com/the-new-dawn-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2027.mp3" type="audio/mpeg" length="35462142" />
+      <guid isPermaLink="false">urn:uuid:180e499a-5ca4-549b-9ee0-16f8f57f1b4a</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:10</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 28</title>
+      <link>https://oshoworld.com/the-new-dawn-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2028.mp3" type="audio/mpeg" length="29172849" />
+      <guid isPermaLink="false">urn:uuid:e275514e-298e-5754-8af7-95eae911a5ea</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:42</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 29</title>
+      <link>https://oshoworld.com/the-new-dawn-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2029.mp3" type="audio/mpeg" length="35270926" />
+      <guid isPermaLink="false">urn:uuid:6976b16a-d7a0-564a-b7bf-9af3b29d0d29</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:38</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 30</title>
+      <link>https://oshoworld.com/the-new-dawn-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2030.mp3" type="audio/mpeg" length="26900196" />
+      <guid isPermaLink="false">urn:uuid:e454a19a-b752-58bd-a28d-64d27ad476ca</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:23</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 31</title>
+      <link>https://oshoworld.com/the-new-dawn-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2031.mp3" type="audio/mpeg" length="37570538" />
+      <guid isPermaLink="false">urn:uuid:17ae583e-6d48-5663-82ff-10f3dd7e7555</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:02</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 32</title>
+      <link>https://oshoworld.com/the-new-dawn-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2032.mp3" type="audio/mpeg" length="27116647" />
+      <guid isPermaLink="false">urn:uuid:1d61b6e5-f910-56a8-b2c0-7bad785c2f32</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:59</itunes:duration>
+    </item>
+    <item>
+      <title>The New Dawn 33</title>
+      <link>https://oshoworld.com/the-new-dawn-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-new-dawn-series/The%20New%20Dawn%2033.mp3" type="audio/mpeg" length="34171589" />
+      <guid isPermaLink="false">urn:uuid:548c1536-6225-588e-bd4c-1ff6c47bbc29</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:35</itunes:duration>
+    </item>
+  </channel>
+</rss>

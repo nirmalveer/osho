@@ -1,107 +1,140 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Preetam Chhabi Nainan Basee</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Preetam Chhabi Nainan Basee (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/preetam-chhabi-nainan-basee-by-osho-01-16</link>
+    <description>Osho discourse series: Preetam Chhabi Nainan Basee. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Preetam%20Chhabi%20Nainan%20Basee.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Preetam Chhabi Nainan Basee 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 01</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_01.mp3" type="audio/mpeg" length="37310735" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:36</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 02</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_02.mp3" type="audio/mpeg" length="37684594" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:33</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 03</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_03.mp3" type="audio/mpeg" length="36183063" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:52</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 04</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_04.mp3" type="audio/mpeg" length="34497711" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:57</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 05</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_05.mp3" type="audio/mpeg" length="39033363" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:28</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 06</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_06.mp3" type="audio/mpeg" length="47201490" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:16</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 07</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_07.mp3" type="audio/mpeg" length="43825356" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:43</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 08</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_08.mp3" type="audio/mpeg" length="45726473" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:03</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 09</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_09.mp3" type="audio/mpeg" length="41506453" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:47</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 10</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_10.mp3" type="audio/mpeg" length="41897910" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:07</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 11</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_11.mp3" type="audio/mpeg" length="45297266" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:41</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 12</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_12.mp3" type="audio/mpeg" length="43844392" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:53</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 13</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_13.mp3" type="audio/mpeg" length="48473766" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:23</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 14</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_14.mp3" type="audio/mpeg" length="41403867" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:47</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 15</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_15.mp3" type="audio/mpeg" length="48303152" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:30</itunes:duration>
     </item>
     <item>
-      <title>Preetam Chhabi Nainan Basee 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Preetam Chhabi Nainan Basee 16</title>
+      <link>https://oshoworld.com/preetam-chhabi-nainan-basee-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Preetam_Chhabi_Nainan_Basee_16.mp3" type="audio/mpeg" length="39207154" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/128-Preetam%20Chhabi%20Nainan%20Basee%2001-16%20%E2%80%93%20Osho%20World/OSHO-Preetam_Chhabi_Nainan_Basee_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:51</itunes:duration>
     </item>
   </channel>
 </rss>

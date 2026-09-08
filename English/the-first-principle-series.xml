@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The First Principle</title>
+    <link>https://oshoworld.com/the-first-principle-series</link>
+    <description>Osho discourse series: The First Principle. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-first-principle-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The First Principle 01</title>
+      <link>https://oshoworld.com/the-first-principle-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2001.mp3" type="audio/mpeg" length="33681013" />
+      <guid isPermaLink="false">urn:uuid:e66de733-6ca5-5c06-894d-3a4874f91c23</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:08</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 02</title>
+      <link>https://oshoworld.com/the-first-principle-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2002.mp3" type="audio/mpeg" length="37861911" />
+      <guid isPermaLink="false">urn:uuid:f16bb20c-709c-5381-8556-b10cb8e5a242</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:45</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 03</title>
+      <link>https://oshoworld.com/the-first-principle-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2003.mp3" type="audio/mpeg" length="35822008" />
+      <guid isPermaLink="false">urn:uuid:2ba12f63-f2b2-556d-9eef-b1a6f726f8f3</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:05</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 04</title>
+      <link>https://oshoworld.com/the-first-principle-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2004.mp3" type="audio/mpeg" length="38375844" />
+      <guid isPermaLink="false">urn:uuid:7852e228-46bf-5373-a1e9-fcf4214f3090</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:10</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 05</title>
+      <link>https://oshoworld.com/the-first-principle-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2005.mp3" type="audio/mpeg" length="38511889" />
+      <guid isPermaLink="false">urn:uuid:5bfaf6e5-b2e7-58e7-b288-bccff35d5efa</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:33</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 06</title>
+      <link>https://oshoworld.com/the-first-principle-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2006.mp3" type="audio/mpeg" length="37266162" />
+      <guid isPermaLink="false">urn:uuid:5a8c2481-3547-5340-8e18-c8bd18eda073</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:05</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 07</title>
+      <link>https://oshoworld.com/the-first-principle-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2007.mp3" type="audio/mpeg" length="34588036" />
+      <guid isPermaLink="false">urn:uuid:9ede23c1-eb31-5956-818c-4425bb34a1ee</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:39</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 08</title>
+      <link>https://oshoworld.com/the-first-principle-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2008.mp3" type="audio/mpeg" length="38106730" />
+      <guid isPermaLink="false">urn:uuid:e07e1098-0bb4-58aa-8a3d-90cd121e5f99</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:25</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 09</title>
+      <link>https://oshoworld.com/the-first-principle-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2009.mp3" type="audio/mpeg" length="36386724" />
+      <guid isPermaLink="false">urn:uuid:183992bf-5089-5fe1-bb57-8bf5e7dc6614</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:39</itunes:duration>
+    </item>
+    <item>
+      <title>The First Principle 10</title>
+      <link>https://oshoworld.com/the-first-principle-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-first-principle-series/The%20First%20Principle%2010.mp3" type="audio/mpeg" length="31806779" />
+      <guid isPermaLink="false">urn:uuid:6544d3ab-576f-57a7-82ec-e05b758b9919</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:55</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,137 +1,180 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Ajhun Chet Ganwar</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ajhun Chet Ganwar (Hindi) — streamed from Internet Archive</description>
+    <title>Ajhun Chet Ganwar (अजहूं चेत गंवार)</title>
+    <link>https://oshoworld.com/ajhun-chet-ganwar-by-osho-1-21</link>
+    <description>Osho discourse series: Ajhun Chet Ganwar (अजहूं चेत गंवार). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ajhun%20Chet%20Ganwar.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ajhun Chet Ganwar 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 01</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_01.mp3" type="audio/mpeg" length="34623862" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:32</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 02</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_02.mp3" type="audio/mpeg" length="36178084" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:53</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 03</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_03.mp3" type="audio/mpeg" length="38969314" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:33</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 04</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_04.mp3" type="audio/mpeg" length="56849052" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:44</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 05</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_05.mp3" type="audio/mpeg" length="34454438" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:20</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 06</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_06.mp3" type="audio/mpeg" length="37799327" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:26</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 07</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_07.mp3" type="audio/mpeg" length="32871741" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:11</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 08</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_08.mp3" type="audio/mpeg" length="32799527" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:02</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 09</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_09.mp3" type="audio/mpeg" length="38418031" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:04</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 10</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_10.mp3" type="audio/mpeg" length="41679568" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:06</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 11</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_11.mp3" type="audio/mpeg" length="33844387" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:24</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 12</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_12.mp3" type="audio/mpeg" length="36297363" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:06</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 13</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_13.mp3" type="audio/mpeg" length="34729918" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:03</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 14</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_14.mp3" type="audio/mpeg" length="36239013" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:55</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 15</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_15.mp3" type="audio/mpeg" length="28949803" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:53</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 16</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_16.mp3" type="audio/mpeg" length="33170541" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:26</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 17</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_17.mp3" type="audio/mpeg" length="31338872" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:22</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 18</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_18.mp3" type="audio/mpeg" length="38890014" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:39</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 19</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_19.mp3" type="audio/mpeg" length="35165289" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:15</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 20</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_20.mp3" type="audio/mpeg" length="32608890" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:12</itunes:duration>
     </item>
     <item>
-      <title>Ajhun Chet Ganwar 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Ajhun Chet Ganwar 21</title>
+      <link>https://oshoworld.com/ajhun-chet-ganwar-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ajhun_Chet_Gawar_21.mp3" type="audio/mpeg" length="27123776" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/003-Ajhun%20Chet%20Ganwar/OSHO-Ajhun_Chet_Gawar_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:45</itunes:duration>
     </item>
   </channel>
 </rss>

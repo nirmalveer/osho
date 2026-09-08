@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Jesus Crucified Again</title>
+    <link>https://oshoworld.com/jesus-crucified-again-series</link>
+    <description>Osho discourse series: Jesus Crucified Again. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/jesus-crucified-again-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jesus Crucified Again This Time in Ronald Reagan's America 18</title>
+      <link>https://oshoworld.com/jesus-crucified-again-this-time-in-ronald-reagans-america-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/jesus-crucified-again-series/Jesus%20Crucified%20Again%20This%20Time%20In%20Ronald%20Reagans%20America%2018.mp3" type="audio/mpeg" length="24673422" />
+      <guid isPermaLink="false">urn:uuid:fdf87032-46a3-5b41-a1e7-fd6671354ed0</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:07</itunes:duration>
+    </item>
+  </channel>
+</rss>

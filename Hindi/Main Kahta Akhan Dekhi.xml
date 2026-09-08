@@ -1,53 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Main Kahta Akhan Dekhi</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Main Kahta Akhan Dekhi (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/main-kahta-akhan-dekhi-by-osho-01-07</link>
+    <description>Osho discourse series: Main Kahta Akhan Dekhi. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Main%20Kahta%20Akhan%20Dekhi.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main Kahta Akhan Dekhi 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 01</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_01.mp3" type="audio/mpeg" length="44601360" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:54</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 02</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_02.mp3" type="audio/mpeg" length="45681791" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:05</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 03</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_03.mp3" type="audio/mpeg" length="46981821" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:10</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 04</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_04.mp3" type="audio/mpeg" length="34509001" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:56</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 05</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_05.mp3" type="audio/mpeg" length="11604358" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:26:48</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 06</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_06.mp3" type="audio/mpeg" length="21707127" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:11</itunes:duration>
     </item>
     <item>
-      <title>Main Kahta Akhan Dekhi 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kahta Akhan Dekhi 07</title>
+      <link>https://oshoworld.com/main-kahta-akhan-dekhi-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kahta_Akhan_Dekhi_07.mp3" type="audio/mpeg" length="4308034" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/107-Main%20Kahta%20Akhan%20Dekhi%2001-07%20%E2%80%93%20Osho%20World/OSHO-Main_Kahta_Akhan_Dekhi_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:09:42</itunes:duration>
     </item>
   </channel>
 </rss>

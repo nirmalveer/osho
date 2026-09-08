@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Goose Is Out</title>
+    <link>https://oshoworld.com/the-goose-is-out-series</link>
+    <description>Osho discourse series: The Goose Is Out. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-goose-is-out-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Goose Is Out 01</title>
+      <link>https://oshoworld.com/the-goose-is-out-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2001.mp3" type="audio/mpeg" length="33480073" />
+      <guid isPermaLink="false">urn:uuid:2b6f20ee-4eed-539d-864e-9e90d8de7a57</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:28</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 02</title>
+      <link>https://oshoworld.com/the-goose-is-out-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2002.mp3" type="audio/mpeg" length="37618966" />
+      <guid isPermaLink="false">urn:uuid:4dc2d561-76a8-5282-aba8-06e45aab8b1f</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 03</title>
+      <link>https://oshoworld.com/the-goose-is-out-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2003.mp3" type="audio/mpeg" length="29599479" />
+      <guid isPermaLink="false">urn:uuid:037c0d61-88e6-5740-a218-4d336c5cde7d</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 04</title>
+      <link>https://oshoworld.com/the-goose-is-out-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2004.mp3" type="audio/mpeg" length="33886643" />
+      <guid isPermaLink="false">urn:uuid:9c50c8f2-4566-5123-9269-cf2d36df2aac</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 05</title>
+      <link>https://oshoworld.com/the-goose-is-out-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2005.mp3" type="audio/mpeg" length="33756397" />
+      <guid isPermaLink="false">urn:uuid:9df5008d-5f16-5ace-b94a-19ac46008b12</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:14</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 06</title>
+      <link>https://oshoworld.com/the-goose-is-out-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2006.mp3" type="audio/mpeg" length="32784014" />
+      <guid isPermaLink="false">urn:uuid:fa23b004-ce8a-5ccd-9e2f-cfdb00e16a6a</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 07</title>
+      <link>https://oshoworld.com/the-goose-is-out-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2007.mp3" type="audio/mpeg" length="36933722" />
+      <guid isPermaLink="false">urn:uuid:86534757-f913-50b4-97a4-d947ef44f538</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:04</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 08</title>
+      <link>https://oshoworld.com/the-goose-is-out-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2008.mp3" type="audio/mpeg" length="35963534" />
+      <guid isPermaLink="false">urn:uuid:5ecdcea0-ad43-5936-8e80-a93c44651d97</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:22</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 09</title>
+      <link>https://oshoworld.com/the-goose-is-out-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2009.mp3" type="audio/mpeg" length="32847022" />
+      <guid isPermaLink="false">urn:uuid:36fba6ef-60b2-597c-ac50-179e719de685</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:43</itunes:duration>
+    </item>
+    <item>
+      <title>The Goose Is Out 10</title>
+      <link>https://oshoworld.com/the-goose-is-out-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-goose-is-out-series/The%20Goose%20Is%20Out%2010.mp3" type="audio/mpeg" length="35788775" />
+      <guid isPermaLink="false">urn:uuid:7ba15687-ecd7-586e-874f-4a8b4fdf269c</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:53</itunes:duration>
+    </item>
+  </channel>
+</rss>

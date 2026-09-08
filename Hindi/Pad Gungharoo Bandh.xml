@@ -1,131 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Pad Gungharoo Bandh</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Pad Gungharoo Bandh (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/pad-gungharoo-bandh-by-osho-01-20</link>
+    <description>Osho discourse series: Pad Gungharoo Bandh. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Pad%20Gungharoo%20Bandh.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pad Gungharoo Bandh 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 01</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_01.mp3" type="audio/mpeg" length="36102581" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:09</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 02</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_02.mp3" type="audio/mpeg" length="42999364" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:12</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 03</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_03.mp3" type="audio/mpeg" length="41214951" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:57</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 04</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_04.mp3" type="audio/mpeg" length="45037801" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:49</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 05</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_05.mp3" type="audio/mpeg" length="44557741" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:09</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 06</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_06.mp3" type="audio/mpeg" length="44935837" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:08</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 07</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_07.mp3" type="audio/mpeg" length="39745621" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:30</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 08</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_08.mp3" type="audio/mpeg" length="35098556" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:24</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 09</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_09.mp3" type="audio/mpeg" length="38656600" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:44</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 10</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_10.mp3" type="audio/mpeg" length="44787855" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:18</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 11</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_11.mp3" type="audio/mpeg" length="43592403" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:08</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 12</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_12.mp3" type="audio/mpeg" length="43486994" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:01</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 13</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_13.mp3" type="audio/mpeg" length="41556489" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:53</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 14</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_14.mp3" type="audio/mpeg" length="42542249" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:33</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 15</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_15.mp3" type="audio/mpeg" length="36464353" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:18</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 16</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_16.mp3" type="audio/mpeg" length="37892096" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:15</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 17</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_17.mp3" type="audio/mpeg" length="47787729" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:06</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 18</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_18.mp3" type="audio/mpeg" length="42589108" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:10</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 19</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_19.mp3" type="audio/mpeg" length="44933909" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:32</itunes:duration>
     </item>
     <item>
-      <title>Pad Gungharoo Bandh 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Pad Gungharoo Bandh 20</title>
+      <link>https://oshoworld.com/pad-gungharoo-bandh-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Pad_Gungharoo_Bandh_20.mp3" type="audio/mpeg" length="45528990" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/122-Pad%20Gungharoo%20Bandh%2001-20%20%E2%80%93%20Osho%20World/OSHO-Pad_Gungharoo_Bandh_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:29</itunes:duration>
     </item>
   </channel>
 </rss>

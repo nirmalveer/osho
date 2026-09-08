@@ -1,89 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jevan Rahasya</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jevan Rahasya (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jevan-rahasya-by-osho-01-13</link>
+    <description>Osho discourse series: Jevan Rahasya. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jevan%20Rahasya.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jevan Rahasya 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 01</title>
+      <link>https://oshoworld.com/jevan-rahasya-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_01.mp3" type="audio/mpeg" length="24051926" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:52:41</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 02</title>
+      <link>https://oshoworld.com/jevan-rahasya-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_02.mp3" type="audio/mpeg" length="26185398" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:44</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 03</title>
+      <link>https://oshoworld.com/jevan-rahasya-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_03.mp3" type="audio/mpeg" length="21904169" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:27</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 04</title>
+      <link>https://oshoworld.com/jevan-rahasya-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_04.mp3" type="audio/mpeg" length="25880533" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:17</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 05</title>
+      <link>https://oshoworld.com/jevan-rahasya-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_05.mp3" type="audio/mpeg" length="37796776" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:34</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 06</title>
+      <link>https://oshoworld.com/jevan-rahasya-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_06.mp3" type="audio/mpeg" length="16002820" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:35:20</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 07</title>
+      <link>https://oshoworld.com/jevan-rahasya-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_07.mp3" type="audio/mpeg" length="17667023" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:40:33</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 08</title>
+      <link>https://oshoworld.com/jevan-rahasya-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_08.mp3" type="audio/mpeg" length="13882991" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:37:17</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 09</title>
+      <link>https://oshoworld.com/jevan-rahasya-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_09.mp3" type="audio/mpeg" length="3029390" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:08:00</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 10</title>
+      <link>https://oshoworld.com/jevan-rahasya-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_10.mp3" type="audio/mpeg" length="12586101" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:28:01</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 11</title>
+      <link>https://oshoworld.com/jevan-rahasya-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_11.mp3" type="audio/mpeg" length="32030526" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:33</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 12</title>
+      <link>https://oshoworld.com/jevan-rahasya-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_12.mp3" type="audio/mpeg" length="26472617" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:00</itunes:duration>
     </item>
     <item>
-      <title>Jevan Rahasya 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Jevan Rahasya 13</title>
+      <link>https://oshoworld.com/jevan-rahasya-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jevan_Rahasya_13.mp3" type="audio/mpeg" length="26949223" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/079-Jevan%20Rahasya/OSHO-Jevan_Rahasya_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:35</itunes:duration>
     </item>
   </channel>
 </rss>

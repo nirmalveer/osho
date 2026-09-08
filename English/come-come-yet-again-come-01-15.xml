@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Come Come Yet Again Come</title>
+    <link>https://oshoworld.com/come-come-yet-again-come-01-15</link>
+    <description>Osho discourse series: Come Come Yet Again Come. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/come-come-yet-again-come-01-15.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come Come Yet Again Come 01</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_01.mp3" type="audio/mpeg" length="35828986" />
+      <guid isPermaLink="false">urn:uuid:6fb12d66-88fa-516b-a334-791489ea2410</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:23</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 02</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_02.mp3" type="audio/mpeg" length="27209832" />
+      <guid isPermaLink="false">urn:uuid:a00a674c-9362-55dd-b3e4-619cceed0a06</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:26</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 03</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_03.mp3" type="audio/mpeg" length="27105290" />
+      <guid isPermaLink="false">urn:uuid:285a5858-bafe-5655-9404-90c3b376bbd8</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:09</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 04</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_04.mp3" type="audio/mpeg" length="26742135" />
+      <guid isPermaLink="false">urn:uuid:05e35985-4092-58e6-a8bd-ac6ae735c48e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:08</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 05</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_05.mp3" type="audio/mpeg" length="27562171" />
+      <guid isPermaLink="false">urn:uuid:f4f0b005-b0f4-56a4-9fb3-f822323f0bcd</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:25</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 06</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_06.mp3" type="audio/mpeg" length="28362615" />
+      <guid isPermaLink="false">urn:uuid:10b8c485-7c2f-5808-957b-745d3fa5983c</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:38</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 07</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_07.mp3" type="audio/mpeg" length="27953068" />
+      <guid isPermaLink="false">urn:uuid:73402428-29c9-59bd-aa06-1b9a60bb8441</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:30</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 08</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_08.mp3" type="audio/mpeg" length="30501887" />
+      <guid isPermaLink="false">urn:uuid:a32bf9fb-d6c4-5336-a5b8-9b2f7e9d0f8e</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:35</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 09</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_09.mp3" type="audio/mpeg" length="21225858" />
+      <guid isPermaLink="false">urn:uuid:d6e7d942-f804-5d9b-bc3f-4e06f3a10ca7</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>58:49</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 10</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_10.mp3" type="audio/mpeg" length="23121409" />
+      <guid isPermaLink="false">urn:uuid:46660fbc-48ea-50ae-9aac-ad63094de79a</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:05</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 11</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_11.mp3" type="audio/mpeg" length="36150921" />
+      <guid isPermaLink="false">urn:uuid:be85f307-92dc-501c-b623-db6fc846ba8a</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:16</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 12</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_12.mp3" type="audio/mpeg" length="23864958" />
+      <guid isPermaLink="false">urn:uuid:9ed305ce-cb4c-5a08-ac5c-a847a0ed495b</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:09</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 13</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_13.mp3" type="audio/mpeg" length="31649030" />
+      <guid isPermaLink="false">urn:uuid:ffe86d86-e45a-5893-85e9-633ca2bf0c2e</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:46</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 14</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_14.mp3" type="audio/mpeg" length="28299767" />
+      <guid isPermaLink="false">urn:uuid:a4538c36-a0a8-5acf-8c48-0d9817d0fb41</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:28</itunes:duration>
+    </item>
+    <item>
+      <title>Come Come Yet Again Come 15</title>
+      <link>https://oshoworld.com/come-come-yet-again-come-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Come_Yet_Again_Come_%2815%29/Come_Come_Yet_Again_Come_15.mp3" type="audio/mpeg" length="25757216" />
+      <guid isPermaLink="false">urn:uuid:2ba6f9e2-1006-5f45-a3e3-269b5974e157</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:24</itunes:duration>
+    </item>
+  </channel>
+</rss>

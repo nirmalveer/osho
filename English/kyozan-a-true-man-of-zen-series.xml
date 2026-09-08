@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Kyozan A True Man of Zen</title>
+    <link>https://oshoworld.com/kyozan-a-true-man-of-zen-series</link>
+    <description>Osho discourse series: Kyozan A True Man of Zen. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/kyozan-a-true-man-of-zen-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyozan A True Man of Zen 01</title>
+      <link>https://oshoworld.com/kyozan-a-true-man-of-zen-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/kyozan-a-true-man-of-zen-series/Kyozan%20A%20True%20Man%20Of%20Zen%2001.mp3" type="audio/mpeg" length="39649536" />
+      <guid isPermaLink="false">urn:uuid:96211db3-3289-59ec-998b-5bcd228d53b2</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:05</itunes:duration>
+    </item>
+    <item>
+      <title>Kyozan A True Man of Zen 02</title>
+      <link>https://oshoworld.com/kyozan-a-true-man-of-zen-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/kyozan-a-true-man-of-zen-series/Kyozan%20A%20True%20Man%20Of%20Zen%2002.mp3" type="audio/mpeg" length="40892598" />
+      <guid isPermaLink="false">urn:uuid:f705f0dc-03a5-5aad-a676-743494749018</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:32</itunes:duration>
+    </item>
+    <item>
+      <title>Kyozan A True Man of Zen 03</title>
+      <link>https://oshoworld.com/kyozan-a-true-man-of-zen-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/kyozan-a-true-man-of-zen-series/Kyozan%20A%20True%20Man%20Of%20Zen%2003.mp3" type="audio/mpeg" length="31953078" />
+      <guid isPermaLink="false">urn:uuid:c6a01930-f716-5c24-9683-b913b4e6c238</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:43</itunes:duration>
+    </item>
+    <item>
+      <title>Kyozan A True Man of Zen 04</title>
+      <link>https://oshoworld.com/kyozan-a-true-man-of-zen-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/kyozan-a-true-man-of-zen-series/Kyozan%20A%20True%20Man%20Of%20Zen%2004.mp3" type="audio/mpeg" length="34667880" />
+      <guid isPermaLink="false">urn:uuid:0d582ea9-8fd6-50d4-a80f-f4cc8ac8db58</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:15</itunes:duration>
+    </item>
+  </channel>
+</rss>

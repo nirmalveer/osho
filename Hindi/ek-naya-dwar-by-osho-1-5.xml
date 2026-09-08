@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ek Naya Dwar (एक नया द्वार)</title>
+    <link>https://oshoworld.com/ek-naya-dwar-by-osho-1-5</link>
+    <description>Osho discourse series: Ek Naya Dwar (एक नया द्वार). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/ek-naya-dwar-by-osho-1-5.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ek Naya Dwar (एक नया द्वार) 01</title>
+      <link>https://oshoworld.com/ek-naya-dwar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Naya_Dwar_01.mp3" type="audio/mpeg" length="33315396" />
+      <guid isPermaLink="false">urn:uuid:7a5e21bf-32a7-58a6-b8e0-042740bceb23</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:39</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Naya Dwar (एक नया द्वार) 02</title>
+      <link>https://oshoworld.com/ek-naya-dwar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Naya_Dwar_02.mp3" type="audio/mpeg" length="22054707" />
+      <guid isPermaLink="false">urn:uuid:6760a3c9-4f43-53cd-b26a-d87b9ebe75c0</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:17</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Naya Dwar (एक नया द्वार) 03</title>
+      <link>https://oshoworld.com/ek-naya-dwar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Naya_Dwar_03.mp3" type="audio/mpeg" length="21062617" />
+      <guid isPermaLink="false">urn:uuid:1f47fd9c-5958-5cc8-9050-0b6811e15364</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:46:59</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Naya Dwar (एक नया द्वार) 04</title>
+      <link>https://oshoworld.com/ek-naya-dwar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Naya_Dwar_04.mp3" type="audio/mpeg" length="25407094" />
+      <guid isPermaLink="false">urn:uuid:02f4d8d0-9d7d-5728-a8ad-af3f3c43bf28</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:24</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Naya Dwar (एक नया द्वार) 05</title>
+      <link>https://oshoworld.com/ek-naya-dwar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Naya_Dwar_05.mp3" type="audio/mpeg" length="23492840" />
+      <guid isPermaLink="false">urn:uuid:086c34fd-3a33-5aff-8629-a0c6b5647415</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:05</itunes:duration>
+    </item>
+  </channel>
+</rss>

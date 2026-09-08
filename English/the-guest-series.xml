@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Guest</title>
+    <link>https://oshoworld.com/the-guest-series</link>
+    <description>Osho discourse series: The Guest. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-guest-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Guest 01</title>
+      <link>https://oshoworld.com/the-guest-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2001.mp3" type="audio/mpeg" length="37537581" />
+      <guid isPermaLink="false">urn:uuid:3244a928-4d6f-5335-9a47-c2a3ce807e37</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:21</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 02</title>
+      <link>https://oshoworld.com/the-guest-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2002.mp3" type="audio/mpeg" length="37676448" />
+      <guid isPermaLink="false">urn:uuid:51f63656-a681-5b42-a05c-7469bcda69b8</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 03</title>
+      <link>https://oshoworld.com/the-guest-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2003.mp3" type="audio/mpeg" length="35904719" />
+      <guid isPermaLink="false">urn:uuid:4875aa1e-43a1-55de-9510-03b677509236</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 04</title>
+      <link>https://oshoworld.com/the-guest-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2004.mp3" type="audio/mpeg" length="33595703" />
+      <guid isPermaLink="false">urn:uuid:8bc74495-05b7-555a-8d33-273d827670ae</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 05</title>
+      <link>https://oshoworld.com/the-guest-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2005.mp3" type="audio/mpeg" length="39512124" />
+      <guid isPermaLink="false">urn:uuid:37d0804d-02cf-5c7a-b95a-e16b67e49357</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 06</title>
+      <link>https://oshoworld.com/the-guest-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2006.mp3" type="audio/mpeg" length="36726165" />
+      <guid isPermaLink="false">urn:uuid:777cd271-15e2-5e8b-8244-d92cdfd68afa</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 07</title>
+      <link>https://oshoworld.com/the-guest-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2007.mp3" type="audio/mpeg" length="35668519" />
+      <guid isPermaLink="false">urn:uuid:0d708afb-2994-548e-a0f2-3527a44e5f75</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 08</title>
+      <link>https://oshoworld.com/the-guest-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2008.mp3" type="audio/mpeg" length="37885845" />
+      <guid isPermaLink="false">urn:uuid:35a07cf2-5198-5e56-9026-d0cd85199874</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 09</title>
+      <link>https://oshoworld.com/the-guest-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2009.mp3" type="audio/mpeg" length="37739455" />
+      <guid isPermaLink="false">urn:uuid:1e805e03-7983-5c15-b9f9-92f539eee4ef</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:55</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 10</title>
+      <link>https://oshoworld.com/the-guest-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2010.mp3" type="audio/mpeg" length="38434417" />
+      <guid isPermaLink="false">urn:uuid:7c7ec6aa-6b38-55e1-b721-1f1ac613cb2a</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:51</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 11</title>
+      <link>https://oshoworld.com/the-guest-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2011.mp3" type="audio/mpeg" length="39022015" />
+      <guid isPermaLink="false">urn:uuid:1145a118-6ab3-5d14-98bb-d5626597ac60</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 12</title>
+      <link>https://oshoworld.com/the-guest-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2012.mp3" type="audio/mpeg" length="39142231" />
+      <guid isPermaLink="false">urn:uuid:319bd638-bc13-5612-ac9f-5ab87bb9da36</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 13</title>
+      <link>https://oshoworld.com/the-guest-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2013.mp3" type="audio/mpeg" length="40142982" />
+      <guid isPermaLink="false">urn:uuid:3a90d9ca-65a4-57e4-9a6a-1980e82dc5cb</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:35</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 14</title>
+      <link>https://oshoworld.com/the-guest-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2014.mp3" type="audio/mpeg" length="39528582" />
+      <guid isPermaLink="false">urn:uuid:949c102d-7bf2-57d3-8ce1-a807cc2a2aa5</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:53</itunes:duration>
+    </item>
+    <item>
+      <title>The Guest 15</title>
+      <link>https://oshoworld.com/the-guest-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-guest-series/The%20Guest%2015.mp3" type="audio/mpeg" length="38621871" />
+      <guid isPermaLink="false">urn:uuid:1dd5d8ee-d0d4-5f25-8a58-3a0add89787c</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:22</itunes:duration>
+    </item>
+  </channel>
+</rss>

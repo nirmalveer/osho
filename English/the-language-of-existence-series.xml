@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Language of Existence</title>
+    <link>https://oshoworld.com/the-language-of-existence-series</link>
+    <description>Osho discourse series: The Language of Existence. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-language-of-existence-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Language of Existence 01</title>
+      <link>https://oshoworld.com/the-language-of-existence-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2001.mp3" type="audio/mpeg" length="32116731" />
+      <guid isPermaLink="false">urn:uuid:dd0a86fc-976b-5385-b404-3bb34e04dbc5</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:04</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 02</title>
+      <link>https://oshoworld.com/the-language-of-existence-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2002.mp3" type="audio/mpeg" length="30455469" />
+      <guid isPermaLink="false">urn:uuid:9b5e0dc3-8522-5c76-aaea-18601473edd5</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 03</title>
+      <link>https://oshoworld.com/the-language-of-existence-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2003.mp3" type="audio/mpeg" length="30954073" />
+      <guid isPermaLink="false">urn:uuid:908473c2-feb2-5e02-b93e-a228bb368d60</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 04</title>
+      <link>https://oshoworld.com/the-language-of-existence-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2004.mp3" type="audio/mpeg" length="30415846" />
+      <guid isPermaLink="false">urn:uuid:fc701b0b-c00a-5466-b61b-32edc3e1b14c</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:20</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 05</title>
+      <link>https://oshoworld.com/the-language-of-existence-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2005.mp3" type="audio/mpeg" length="35867235" />
+      <guid isPermaLink="false">urn:uuid:e2eca8ad-134d-53e0-b682-0311b294f3ee</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 06</title>
+      <link>https://oshoworld.com/the-language-of-existence-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2006.mp3" type="audio/mpeg" length="38093652" />
+      <guid isPermaLink="false">urn:uuid:54a27a6d-2c53-5e5f-b8d9-ed08ed3afc68</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 07</title>
+      <link>https://oshoworld.com/the-language-of-existence-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2007.mp3" type="audio/mpeg" length="40308940" />
+      <guid isPermaLink="false">urn:uuid:8cf8ad70-1d2c-5785-be72-26faf1d16241</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 08</title>
+      <link>https://oshoworld.com/the-language-of-existence-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2008.mp3" type="audio/mpeg" length="41522380" />
+      <guid isPermaLink="false">urn:uuid:54f27245-5736-545d-bfb4-a9a72138953d</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Language of Existence 09</title>
+      <link>https://oshoworld.com/the-language-of-existence-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-language-of-existence-series/The%20Language%20Of%20Existence%2009.mp3" type="audio/mpeg" length="35747960" />
+      <guid isPermaLink="false">urn:uuid:4e2eabd7-8f30-5475-a91d-8c9e29cf3fcb</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:09</itunes:duration>
+    </item>
+  </channel>
+</rss>

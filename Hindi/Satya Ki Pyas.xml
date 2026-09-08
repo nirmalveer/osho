@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Satya Ki Pyas</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Satya Ki Pyas (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/satya-ki-pyas-01-09-by-osho</link>
+    <description>Osho discourse series: Satya Ki Pyas. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Satya%20Ki%20Pyas.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Satya Ki Pyas 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 01</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_01.mp3" type="audio/mpeg" length="26641767" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:24</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 02</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_02.mp3" type="audio/mpeg" length="18474135" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:46:14</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 03</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_03.mp3" type="audio/mpeg" length="18543621" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:15</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 04</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_04.mp3" type="audio/mpeg" length="19940966" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:20</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 05</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_05.mp3" type="audio/mpeg" length="24105302" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:12</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 06</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_06.mp3" type="audio/mpeg" length="23795899" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:48</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 07</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_07.mp3" type="audio/mpeg" length="25780426" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:46</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 08</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_08.mp3" type="audio/mpeg" length="23652896" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:12</itunes:duration>
     </item>
     <item>
-      <title>Satya Ki Pyas 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Satya Ki Pyas 01-09 09</title>
+      <link>https://oshoworld.com/satya-ki-pyas-01-09-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Satya_Ki_Pyas_09.mp3" type="audio/mpeg" length="30425941" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/164-Satya%20Ki%20Pyas%2001-09%20%E2%80%93%20Osho%20World/OSHO-Satya_Ki_Pyas_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:29</itunes:duration>
     </item>
   </channel>
 </rss>

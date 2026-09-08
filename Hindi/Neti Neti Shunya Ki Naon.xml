@@ -1,47 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Neti Neti Shunya Ki Naon</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Neti Neti Shunya Ki Naon (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/neti-neti-shunya-ki-naon-by-osho-01-07</link>
+    <description>Osho discourse series: Neti Neti Shunya Ki Naon. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Neti%20Neti%20Shunya%20Ki%20Naon.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Neti Neti Shunya Ki Naon 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Neti Neti Shunya Ki Naon 01</title>
+      <link>https://oshoworld.com/neti-neti-shunya-ki-naon-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ki_Naon_01.mp3" type="audio/mpeg" length="21399592" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:29</itunes:duration>
     </item>
     <item>
-      <title>Neti Neti Shunya Ki Naon 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Neti Neti Shunya Ki Naon 02</title>
+      <link>https://oshoworld.com/neti-neti-shunya-ki-naon-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ki_Naon_02.mp3" type="audio/mpeg" length="34191483" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:39</itunes:duration>
     </item>
     <item>
-      <title>Neti Neti Shunya Ki Naon 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Neti Neti Shunya Ki Naon 03</title>
+      <link>https://oshoworld.com/neti-neti-shunya-ki-naon-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ki_Naon_03.mp3" type="audio/mpeg" length="32865405" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:27</itunes:duration>
     </item>
     <item>
-      <title>Neti Neti Shunya Ki Naon 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Neti Neti Shunya Ki Naon 05</title>
+      <link>https://oshoworld.com/neti-neti-shunya-ki-naon-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ki_Naon_05.mp3" type="audio/mpeg" length="37046457" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_05.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:18</itunes:duration>
     </item>
     <item>
-      <title>Neti Neti Shunya Ki Naon 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Neti Neti Shunya Ki Naon 06</title>
+      <link>https://oshoworld.com/neti-neti-shunya-ki-naon-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ki_Naon_06.mp3" type="audio/mpeg" length="25811168" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_06.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neti Neti Shunya Ki Naon 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_07.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/115-Neti%20Neti%20Shunya%20Ki%20Naon%2001-07%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ki_Naon_07.mp3</guid>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:48</itunes:duration>
     </item>
   </channel>
 </rss>

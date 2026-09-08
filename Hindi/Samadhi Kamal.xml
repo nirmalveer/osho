@@ -1,101 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Samadhi Kamal</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Samadhi Kamal (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/samadhi-kamal-by-osho-01-15</link>
+    <description>Osho discourse series: Samadhi Kamal. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Samadhi%20Kamal.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Samadhi Kamal 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 01</title>
+      <link>https://oshoworld.com/samadhi-kamal-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_01.mp3" type="audio/mpeg" length="8357582" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:19:17</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 02</title>
+      <link>https://oshoworld.com/samadhi-kamal-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_02.mp3" type="audio/mpeg" length="9020210" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:20:23</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 03</title>
+      <link>https://oshoworld.com/samadhi-kamal-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_03.mp3" type="audio/mpeg" length="15035592" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:34:51</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 04</title>
+      <link>https://oshoworld.com/samadhi-kamal-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_04.mp3" type="audio/mpeg" length="41435731" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:01</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 05</title>
+      <link>https://oshoworld.com/samadhi-kamal-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_05.mp3" type="audio/mpeg" length="16492730" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:38:04</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 06</title>
+      <link>https://oshoworld.com/samadhi-kamal-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_06.mp3" type="audio/mpeg" length="23002003" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:23</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 07</title>
+      <link>https://oshoworld.com/samadhi-kamal-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_07.mp3" type="audio/mpeg" length="27439633" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:11</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 08</title>
+      <link>https://oshoworld.com/samadhi-kamal-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_08.mp3" type="audio/mpeg" length="9083337" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:22:14</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 09</title>
+      <link>https://oshoworld.com/samadhi-kamal-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_09.mp3" type="audio/mpeg" length="17399125" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:40:11</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 10</title>
+      <link>https://oshoworld.com/samadhi-kamal-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_10.mp3" type="audio/mpeg" length="22459098" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:53</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 11</title>
+      <link>https://oshoworld.com/samadhi-kamal-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_11.mp3" type="audio/mpeg" length="16612590" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:13</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 12</title>
+      <link>https://oshoworld.com/samadhi-kamal-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_12.mp3" type="audio/mpeg" length="24005312" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:30</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 13</title>
+      <link>https://oshoworld.com/samadhi-kamal-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_13.mp3" type="audio/mpeg" length="20518088" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:27</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 14</title>
+      <link>https://oshoworld.com/samadhi-kamal-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_14.mp3" type="audio/mpeg" length="21274763" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:52:38</itunes:duration>
     </item>
     <item>
-      <title>Samadhi Kamal 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Samadhi Kamal 15</title>
+      <link>https://oshoworld.com/samadhi-kamal-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Samadhi_Kamal_15.mp3" type="audio/mpeg" length="21228449" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/156-Samadhi%20Kamal%2001-15%20%E2%80%93%20Osho%20World/OSHO-Samadhi_Kamal_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:43</itunes:duration>
     </item>
   </channel>
 </rss>

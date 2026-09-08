@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Come Follow to You Vol 1</title>
+    <link>https://oshoworld.com/come-follow-to-you-vol-01</link>
+    <description>Osho discourse series: Come Follow to You Vol 1. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/come-follow-to-you-vol-01.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come Follow to You Vol 1 01</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-01.mp3" type="audio/mpeg" length="34657682" />
+      <guid isPermaLink="false">urn:uuid:5dd091e4-64f3-5d77-bcdc-377c96084bad</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:51</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 02</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-02.mp3" type="audio/mpeg" length="31526907" />
+      <guid isPermaLink="false">urn:uuid:84eb74c6-357a-5c73-b7e1-7e20f597cc0a</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:09</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 03</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-03.mp3" type="audio/mpeg" length="35065036" />
+      <guid isPermaLink="false">urn:uuid:bfc2e1c5-3926-5782-8638-0b9219631421</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:59</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 04</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-04.mp3" type="audio/mpeg" length="35926293" />
+      <guid isPermaLink="false">urn:uuid:002f15fd-4eac-5a3c-b167-0e6b59db4a59</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:22</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 05</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-05.mp3" type="audio/mpeg" length="32311521" />
+      <guid isPermaLink="false">urn:uuid:5080ea9f-5b32-5f9a-b44b-9b2c249c16a3</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:20</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 06</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-06.mp3" type="audio/mpeg" length="34119769" />
+      <guid isPermaLink="false">urn:uuid:1f64c578-c6d7-553a-b93b-e2c0dc0bf222</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:21</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 07</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-07.mp3" type="audio/mpeg" length="35405150" />
+      <guid isPermaLink="false">urn:uuid:095aa718-f4dc-5e50-815b-86a1047b3fcf</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:56</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 08</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-08.mp3" type="audio/mpeg" length="32746930" />
+      <guid isPermaLink="false">urn:uuid:44a3e6ac-2ade-5a35-a2a8-ae640223daed</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:33</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 09</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-09.mp3" type="audio/mpeg" length="35672540" />
+      <guid isPermaLink="false">urn:uuid:85672cbb-1235-5460-83f2-28e0a800888a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:40</itunes:duration>
+    </item>
+    <item>
+      <title>Come Follow to You Vol 1 10</title>
+      <link>https://oshoworld.com/come-follow-to-you-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Come_Follow_to_You_Vol_1_%2810%29/Come_Follow_to_You_Vol_1-10.mp3" type="audio/mpeg" length="27543651" />
+      <guid isPermaLink="false">urn:uuid:77057184-b218-59c2-a533-8ca95bcc5838</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:05</itunes:duration>
+    </item>
+  </channel>
+</rss>

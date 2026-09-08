@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Nahin Sanjh Nahin Bhor</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Nahin Sanjh Nahin Bhor (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-by-osho-01-10</link>
+    <description>Osho discourse series: Nahin Sanjh Nahin Bhor. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Nahin%20Sanjh%20Nahin%20Bhor.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nahin Sanjh Nahin Bhor 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 01</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_01.mp3" type="audio/mpeg" length="37201225" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:17</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 02</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_02.mp3" type="audio/mpeg" length="35136783" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:47</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 03</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_03.mp3" type="audio/mpeg" length="29802829" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:21</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 04</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_04.mp3" type="audio/mpeg" length="33244218" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:26</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 05</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_05.mp3" type="audio/mpeg" length="35716415" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:23</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 06</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_06.mp3" type="audio/mpeg" length="37549999" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:19</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 07</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_07.mp3" type="audio/mpeg" length="53025070" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:25</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 08</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_08.mp3" type="audio/mpeg" length="49900685" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:45</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 09</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_09.mp3" type="audio/mpeg" length="47113315" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:09</itunes:duration>
     </item>
     <item>
-      <title>Nahin Sanjh Nahin Bhor 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Nahin Sanjh Nahin Bhor 10</title>
+      <link>https://oshoworld.com/nahin-sanjh-nahin-bhor-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nahin_Sanjh_Nahin_Bhor_10.mp3" type="audio/mpeg" length="47464859" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/110-Nahin%20Sanjh%20Nahin%20Bhor%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nahin_Sanjh_Nahin_Bhor_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:19</itunes:duration>
     </item>
   </channel>
 </rss>

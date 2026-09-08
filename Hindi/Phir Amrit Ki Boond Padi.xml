@@ -1,41 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Phir Amrit Ki Boond Padi</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Phir Amrit Ki Boond Padi (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/phir-amrit-ki-boond-padi-by-osho-01-05</link>
+    <description>Osho discourse series: Phir Amrit Ki Boond Padi. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Phir%20Amrit%20Ki%20Boond%20Padi.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Phir Amrit Ki Boond Padi 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Phir Amrit Ki Boond Padi 01</title>
+      <link>https://oshoworld.com/phir-amrit-ki-boond-padi-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_01.mp3" type="audio/mpeg" length="19591855" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:31</itunes:duration>
     </item>
     <item>
-      <title>Phir Amrit Ki Boond Padi 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Phir Amrit Ki Boond Padi 02</title>
+      <link>https://oshoworld.com/phir-amrit-ki-boond-padi-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_02.mp3" type="audio/mpeg" length="37338500" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:08</itunes:duration>
     </item>
     <item>
-      <title>Phir Amrit Ki Boond Padi 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Phir Amrit Ki Boond Padi 03</title>
+      <link>https://oshoworld.com/phir-amrit-ki-boond-padi-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_03.mp3" type="audio/mpeg" length="35544144" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:08</itunes:duration>
     </item>
     <item>
-      <title>Phir Amrit Ki Boond Padi 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Phir Amrit Ki Boond Padi 04</title>
+      <link>https://oshoworld.com/phir-amrit-ki-boond-padi-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_04.mp3" type="audio/mpeg" length="29178482" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:32</itunes:duration>
     </item>
     <item>
-      <title>Phir Amrit Ki Boond Padi 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Phir Amrit Ki Boond Padi 05</title>
+      <link>https://oshoworld.com/phir-amrit-ki-boond-padi-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Phir_Amrit_Ki_Boond_Padi_05.mp3" type="audio/mpeg" length="45225183" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/131-Phir%20Amrit%20Ki%20Boond%20Padi%2001-05%20%E2%80%93%20Osho%20World/OSHO-Phir_Amrit_Ki_Boond_Padi_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:30</itunes:duration>
     </item>
   </channel>
 </rss>

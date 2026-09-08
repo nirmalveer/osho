@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sanch Sanch So Sanch</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sanch Sanch So Sanch (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sanch-sanch-so-sanch-by-osho-01-11</link>
+    <description>Osho discourse series: Sanch Sanch So Sanch. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sanch%20Sanch%20So%20Sanch.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sanch Sanch So Sanch 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 01</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_01.mp3" type="audio/mpeg" length="25597048" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:41</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 02</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_02.mp3" type="audio/mpeg" length="26549025" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:37</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 03</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_03.mp3" type="audio/mpeg" length="23517280" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:07</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 04</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_04.mp3" type="audio/mpeg" length="40546123" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:32</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 05</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_05.mp3" type="audio/mpeg" length="42492927" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:21</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 06</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_06.mp3" type="audio/mpeg" length="22829503" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:30</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 07</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_07.mp3" type="audio/mpeg" length="25242944" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:20</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 08</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_08.mp3" type="audio/mpeg" length="25329703" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:34</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 09</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_09.mp3" type="audio/mpeg" length="20824652" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:53</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 10</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_10.mp3" type="audio/mpeg" length="27764451" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:06</itunes:duration>
     </item>
     <item>
-      <title>Sanch Sanch So Sanch 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Sanch Sanch So Sanch 11</title>
+      <link>https://oshoworld.com/sanch-sanch-so-sanch-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sanch_Sanch_So_Sanch_11.mp3" type="audio/mpeg" length="24057879" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/152-Sanch%20Sanch%20So%20Sanch%2001-11%20%E2%80%93%20Osho%20World/OSHO-Sanch_Sanch_So_Sanch_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:27</itunes:duration>
     </item>
   </channel>
 </rss>

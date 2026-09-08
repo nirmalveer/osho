@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Sword and the Lotus</title>
+    <link>https://oshoworld.com/the-sword-and-the-lotus-series</link>
+    <description>Osho discourse series: The Sword and the Lotus. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-sword-and-the-lotus-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sword and the Lotus 01</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2001.mp3" type="audio/mpeg" length="49338186" />
+      <guid isPermaLink="false">urn:uuid:47ec1f91-c261-5939-bea1-8d2efae2001d</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 03</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2003.mp3" type="audio/mpeg" length="47369128" />
+      <guid isPermaLink="false">urn:uuid:2d930aa1-6b60-5e8a-b852-05da1538f8af</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 04</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2004.mp3" type="audio/mpeg" length="41525745" />
+      <guid isPermaLink="false">urn:uuid:fd971f1c-028c-53be-9701-c8d9c539b122</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:18</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 05</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2005.mp3" type="audio/mpeg" length="42832442" />
+      <guid isPermaLink="false">urn:uuid:b328cdd4-86ae-5d9a-964e-aba4e3e7ffa1</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:55</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 06</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2006.mp3" type="audio/mpeg" length="43957170" />
+      <guid isPermaLink="false">urn:uuid:82425154-6a3d-537a-a73b-4e04c2c56f85</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 07</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2007.mp3" type="audio/mpeg" length="27968664" />
+      <guid isPermaLink="false">urn:uuid:42f62d01-29c1-5ac4-82d7-60a627164760</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 08</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2008.mp3" type="audio/mpeg" length="41407567" />
+      <guid isPermaLink="false">urn:uuid:df49ec0d-6b7d-58ed-b202-5028c0e0596b</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 09</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2009.mp3" type="audio/mpeg" length="44561853" />
+      <guid isPermaLink="false">urn:uuid:d083221b-eb0c-504a-b44f-b92dd7d7fe78</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 10</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2010.mp3" type="audio/mpeg" length="47742783" />
+      <guid isPermaLink="false">urn:uuid:edff7a3e-a1fe-529c-8b95-3b2df399017a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:34</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 11</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2011.mp3" type="audio/mpeg" length="39520951" />
+      <guid isPermaLink="false">urn:uuid:7cc84933-087c-580e-8fa1-cb80952a7d19</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:43</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 12</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2012.mp3" type="audio/mpeg" length="45237066" />
+      <guid isPermaLink="false">urn:uuid:7d669a30-554d-5815-9090-26b749b0f8dc</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 13</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2013.mp3" type="audio/mpeg" length="44760279" />
+      <guid isPermaLink="false">urn:uuid:cc7990ca-486c-57ec-9cc1-b639d6630caa</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 14</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2014.mp3" type="audio/mpeg" length="42615190" />
+      <guid isPermaLink="false">urn:uuid:515a711b-f295-5c7f-8047-7a271c61f548</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:55</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 15</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2015.mp3" type="audio/mpeg" length="34759351" />
+      <guid isPermaLink="false">urn:uuid:e7283546-0cc8-549e-a047-65e82e3de428</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:30</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 16</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2016.mp3" type="audio/mpeg" length="46421980" />
+      <guid isPermaLink="false">urn:uuid:e89e2c39-6558-58c2-95ae-1f7e3fab0d9d</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:54</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 17</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2017.mp3" type="audio/mpeg" length="47039201" />
+      <guid isPermaLink="false">urn:uuid:ea6bf85e-a404-55e4-be05-3f8751fd8bd1</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 18</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2018.mp3" type="audio/mpeg" length="43191051" />
+      <guid isPermaLink="false">urn:uuid:bd3d0f28-5c90-5df9-9173-4737378e91ce</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:55</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 19</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2019.mp3" type="audio/mpeg" length="50855064" />
+      <guid isPermaLink="false">urn:uuid:070583e9-9ae2-59d9-a65e-08c082827d92</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 20</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2020.mp3" type="audio/mpeg" length="40012315" />
+      <guid isPermaLink="false">urn:uuid:6362c143-540e-541b-9050-07cfa5085579</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 21</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2021.mp3" type="audio/mpeg" length="53361565" />
+      <guid isPermaLink="false">urn:uuid:4e19f12a-bb86-5248-8e6f-08ba16bbb5f1</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:17:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 22</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2022.mp3" type="audio/mpeg" length="50884530" />
+      <guid isPermaLink="false">urn:uuid:241f964a-80f0-5c35-8a32-78b6d35e78ce</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 23</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2023.mp3" type="audio/mpeg" length="36285947" />
+      <guid isPermaLink="false">urn:uuid:2ed5978a-4bcc-59a8-b6b4-1889c9f407fd</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 24</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2024.mp3" type="audio/mpeg" length="36233911" />
+      <guid isPermaLink="false">urn:uuid:20cc7598-2bed-5eed-949b-3ea380eab159</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Sword and the Lotus 25</title>
+      <link>https://oshoworld.com/the-sword-and-the-lotus-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-sword-and-the-lotus-series/The%20Sword%20And%20The%20Lotus%2025.mp3" type="audio/mpeg" length="44374398" />
+      <guid isPermaLink="false">urn:uuid:bbb3ef6b-dc4b-572f-b1de-fb03b58ec3d4</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:12</itunes:duration>
+    </item>
+  </channel>
+</rss>

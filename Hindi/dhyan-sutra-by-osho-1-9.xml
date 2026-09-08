@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Dhyan-Sutra (ध्यान-सूत्र)</title>
+    <link>https://oshoworld.com/dhyan-sutra-by-osho-1-9</link>
+    <description>Osho discourse series: Dhyan-Sutra (ध्यान-सूत्र). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/dhyan-sutra-by-osho-1-9.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 01</title>
+      <link>https://oshoworld.com/dhyan-sutra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_01.mp3" type="audio/mpeg" length="22432524" />
+      <guid isPermaLink="false">urn:uuid:270f3cb8-6a2d-52ac-ad34-989c40430230</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 02</title>
+      <link>https://oshoworld.com/dhyan-sutra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_02.mp3" type="audio/mpeg" length="30440845" />
+      <guid isPermaLink="false">urn:uuid:96aed118-ac36-5b90-817c-50334379553d</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:08</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 03</title>
+      <link>https://oshoworld.com/dhyan-sutra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_03.mp3" type="audio/mpeg" length="26919989" />
+      <guid isPermaLink="false">urn:uuid:b6fed657-77dd-5797-8191-ba09bbdc8835</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:30</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 04</title>
+      <link>https://oshoworld.com/dhyan-sutra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_04.mp3" type="audio/mpeg" length="19075171" />
+      <guid isPermaLink="false">urn:uuid:70c62395-7dcc-5613-bf87-d61a6d2812fc</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:47:00</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 05</title>
+      <link>https://oshoworld.com/dhyan-sutra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_05.mp3" type="audio/mpeg" length="22895001" />
+      <guid isPermaLink="false">urn:uuid:561593d1-6b38-5f00-8e98-07ae25cebdc0</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:43</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 06</title>
+      <link>https://oshoworld.com/dhyan-sutra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_06.mp3" type="audio/mpeg" length="30153252" />
+      <guid isPermaLink="false">urn:uuid:2181ad33-97e2-5be8-917e-a3565a26b403</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:40</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 07</title>
+      <link>https://oshoworld.com/dhyan-sutra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_07.mp3" type="audio/mpeg" length="20009709" />
+      <guid isPermaLink="false">urn:uuid:6b7478fb-8ab2-574b-9407-1897de5ee66d</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:06</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 08</title>
+      <link>https://oshoworld.com/dhyan-sutra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_08.mp3" type="audio/mpeg" length="24301552" />
+      <guid isPermaLink="false">urn:uuid:fa968c8f-e83c-527e-8e34-4ca9e8bc9c41</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:57</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan-Sutra (ध्यान-सूत्र) 09</title>
+      <link>https://oshoworld.com/dhyan-sutra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Sutra_09.mp3" type="audio/mpeg" length="21642616" />
+      <guid isPermaLink="false">urn:uuid:2e2f2f28-0c61-5716-94b9-21e805ee1925</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:45:22</itunes:duration>
+    </item>
+  </channel>
+</rss>

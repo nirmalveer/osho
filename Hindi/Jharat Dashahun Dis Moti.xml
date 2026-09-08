@@ -1,137 +1,180 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jharat Dashahun Dis Moti</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jharat Dashahun Dis Moti (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jharat-dashahun-dis-moti-by-osho-01-21</link>
+    <description>Osho discourse series: Jharat Dashahun Dis Moti. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jharat%20Dashahun%20Dis%20Moti.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jharat Dashahun Dis Moti 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 01</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_01.mp3" type="audio/mpeg" length="43898012" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:55</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 02</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_02.mp3" type="audio/mpeg" length="43122633" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:20</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 03</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_03.mp3" type="audio/mpeg" length="45718417" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:57</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 04</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_04.mp3" type="audio/mpeg" length="41239982" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:47</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 05</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_05.mp3" type="audio/mpeg" length="34034001" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:31</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 06</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_06.mp3" type="audio/mpeg" length="35673917" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:14</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 07</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_07.mp3" type="audio/mpeg" length="35292212" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:06</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 08</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_08.mp3" type="audio/mpeg" length="36781384" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:42</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 09</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_09.mp3" type="audio/mpeg" length="47484088" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:17</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 10</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_10.mp3" type="audio/mpeg" length="46487339" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:30</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 11</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_11.mp3" type="audio/mpeg" length="42635080" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:14</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 12</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_12.mp3" type="audio/mpeg" length="41455303" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:32</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 13</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_13.mp3" type="audio/mpeg" length="46258862" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:40</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 14</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_14.mp3" type="audio/mpeg" length="47583675" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:44</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 15</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_15.mp3" type="audio/mpeg" length="47125150" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:21</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 16</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_16.mp3" type="audio/mpeg" length="46107800" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:24</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 17</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_17.mp3" type="audio/mpeg" length="39545808" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:41</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 18</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_18.mp3" type="audio/mpeg" length="41398382" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:12</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 19</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_19.mp3" type="audio/mpeg" length="40651593" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:21</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 20</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_20.mp3" type="audio/mpeg" length="45369546" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:00</itunes:duration>
     </item>
     <item>
-      <title>Jharat Dashahun Dis Moti 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Jharat Dashahun Dis Moti 21</title>
+      <link>https://oshoworld.com/jharat-dashahun-dis-moti-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jharat_Dashahun_Dis_Moti_21.mp3" type="audio/mpeg" length="42356038" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/065-Jharat%20Dashahun%20Dis%20Moti/OSHO-Jharat_Dashahun_Dis_Moti_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:38</itunes:duration>
     </item>
   </channel>
 </rss>

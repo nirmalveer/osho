@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Christianity and Zen</title>
+    <link>https://oshoworld.com/christianity-and-zen-01-08</link>
+    <description>Osho discourse series: Christianity and Zen. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/christianity-and-zen-01-08.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christianity and Zen 01</title>
+      <link>https://oshoworld.com/christianity-and-zen-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_01.mp3" type="audio/mpeg" length="54223742" />
+      <guid isPermaLink="false">urn:uuid:dc0f97a0-f713-5026-bf04-769974723648</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:30:28</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 02</title>
+      <link>https://oshoworld.com/christianity-and-zen-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_02.mp3" type="audio/mpeg" length="53154655" />
+      <guid isPermaLink="false">urn:uuid:6c1e8101-7aff-55ed-8a71-c5fe70eeaaa9</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:27:30</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 03</title>
+      <link>https://oshoworld.com/christianity-and-zen-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_03.mp3" type="audio/mpeg" length="74390168" />
+      <guid isPermaLink="false">urn:uuid:018ba1ac-aac8-50ec-8f5c-e02059b31f16</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:26:29</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 04</title>
+      <link>https://oshoworld.com/christianity-and-zen-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_04.mp3" type="audio/mpeg" length="53789744" />
+      <guid isPermaLink="false">urn:uuid:d217f4df-ca43-525d-9afe-3a4a6f26426c</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:29:16</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 05</title>
+      <link>https://oshoworld.com/christianity-and-zen-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_05.mp3" type="audio/mpeg" length="73571700" />
+      <guid isPermaLink="false">urn:uuid:1b83debd-ae04-5176-9e75-dbaf7fafce50</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:24:13</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 06</title>
+      <link>https://oshoworld.com/christianity-and-zen-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_06.mp3" type="audio/mpeg" length="64632336" />
+      <guid isPermaLink="false">urn:uuid:ff0ef104-6e88-5ed8-a542-1dcaea1b8c8c</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:59:23</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 07</title>
+      <link>https://oshoworld.com/christianity-and-zen-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_07.mp3" type="audio/mpeg" length="47874420" />
+      <guid isPermaLink="false">urn:uuid:cee4a2bf-14bf-5616-8361-42761d2f9ecd</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:50</itunes:duration>
+    </item>
+    <item>
+      <title>Christianity and Zen 08</title>
+      <link>https://oshoworld.com/christianity-and-zen-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Christianity_and_Zen_%288%29/Christianity_and_Zen_08.mp3" type="audio/mpeg" length="67547132" />
+      <guid isPermaLink="false">urn:uuid:22a45dd7-4d58-5a0b-959a-c0c8b65f8db3</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:07:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

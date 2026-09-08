@@ -1,41 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Prem Ganga</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Prem Ganga (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/prem-ganga-by-osho-01-05</link>
+    <description>Osho discourse series: Prem Ganga. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Prem%20Ganga.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prem Ganga 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Ganga 01</title>
+      <link>https://oshoworld.com/prem-ganga-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Ganga_01.mp3" type="audio/mpeg" length="21227242" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:07</itunes:duration>
     </item>
     <item>
-      <title>Prem Ganga 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Ganga 02</title>
+      <link>https://oshoworld.com/prem-ganga-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Ganga_02.mp3" type="audio/mpeg" length="21432609" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:55</itunes:duration>
     </item>
     <item>
-      <title>Prem Ganga 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Ganga 03</title>
+      <link>https://oshoworld.com/prem-ganga-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Ganga_03.mp3" type="audio/mpeg" length="22399886" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:40</itunes:duration>
     </item>
     <item>
-      <title>Prem Ganga 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Ganga 04</title>
+      <link>https://oshoworld.com/prem-ganga-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Ganga_04.mp3" type="audio/mpeg" length="20348292" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:51</itunes:duration>
     </item>
     <item>
-      <title>Prem Ganga 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Ganga 05</title>
+      <link>https://oshoworld.com/prem-ganga-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Ganga_05.mp3" type="audio/mpeg" length="19878137" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/133-Prem%20Ganga%2001-05%20%E2%80%93%20Osho%20World/OSHO-Prem_Ganga_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:57</itunes:duration>
     </item>
   </channel>
 </rss>

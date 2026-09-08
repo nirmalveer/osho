@@ -1,131 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Na Kano Suna</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Na Kano Suna (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/na-kano-suna-by-osho-01-20</link>
+    <description>Osho discourse series: Na Kano Suna. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Na%20Kano%20Suna.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Na Kano Suna 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 01</title>
+      <link>https://oshoworld.com/na-kano-suna-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_01.mp3" type="audio/mpeg" length="37665034" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:53</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 02</title>
+      <link>https://oshoworld.com/na-kano-suna-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_02.mp3" type="audio/mpeg" length="40004812" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:10</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 03</title>
+      <link>https://oshoworld.com/na-kano-suna-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_03.mp3" type="audio/mpeg" length="39124703" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:15</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 04</title>
+      <link>https://oshoworld.com/na-kano-suna-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_04.mp3" type="audio/mpeg" length="34650427" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:54</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 05</title>
+      <link>https://oshoworld.com/na-kano-suna-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_05.mp3" type="audio/mpeg" length="44140883" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:52</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 06</title>
+      <link>https://oshoworld.com/na-kano-suna-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_06.mp3" type="audio/mpeg" length="36552216" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:40</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 07</title>
+      <link>https://oshoworld.com/na-kano-suna-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_07.mp3" type="audio/mpeg" length="32254640" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:21</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 08</title>
+      <link>https://oshoworld.com/na-kano-suna-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_08.mp3" type="audio/mpeg" length="41965428" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:20</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 09</title>
+      <link>https://oshoworld.com/na-kano-suna-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_09.mp3" type="audio/mpeg" length="35458388" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:47</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 10</title>
+      <link>https://oshoworld.com/na-kano-suna-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_10.mp3" type="audio/mpeg" length="45777987" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:39</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 11</title>
+      <link>https://oshoworld.com/na-kano-suna-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_11.mp3" type="audio/mpeg" length="35010016" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:21</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 12</title>
+      <link>https://oshoworld.com/na-kano-suna-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_12.mp3" type="audio/mpeg" length="33886396" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:12</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 13</title>
+      <link>https://oshoworld.com/na-kano-suna-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_13.mp3" type="audio/mpeg" length="32199547" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:16</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 14</title>
+      <link>https://oshoworld.com/na-kano-suna-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_14.mp3" type="audio/mpeg" length="32471572" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:30</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 15</title>
+      <link>https://oshoworld.com/na-kano-suna-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_15.mp3" type="audio/mpeg" length="37059381" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:38</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 16</title>
+      <link>https://oshoworld.com/na-kano-suna-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_16.mp3" type="audio/mpeg" length="41715118" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:44</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 17</title>
+      <link>https://oshoworld.com/na-kano-suna-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_17.mp3" type="audio/mpeg" length="38988362" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:19</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 18</title>
+      <link>https://oshoworld.com/na-kano-suna-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_18.mp3" type="audio/mpeg" length="43676595" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:51</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 19</title>
+      <link>https://oshoworld.com/na-kano-suna-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_19.mp3" type="audio/mpeg" length="36640816" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:04</itunes:duration>
     </item>
     <item>
-      <title>Na Kano Suna 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Na Kano Suna 20</title>
+      <link>https://oshoworld.com/na-kano-suna-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Na_Kano_Suna_20.mp3" type="audio/mpeg" length="34214449" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/109-Na%20Kano%20Suna%2001-20%20%E2%80%93%20Osho%20World/OSHO-Na_Kano_Suna_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:30</itunes:duration>
     </item>
   </channel>
 </rss>

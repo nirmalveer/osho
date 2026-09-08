@@ -1,53 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jeevan Darshan</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jeevan Darshan (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jeevan-darshan-by-osho-01-07</link>
+    <description>Osho discourse series: Jeevan Darshan. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jeevan%20Darshan.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jeevan Darshan 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 01</title>
+      <link>https://oshoworld.com/jeevan-darshan-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_01.mp3" type="audio/mpeg" length="22849656" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:56</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 02</title>
+      <link>https://oshoworld.com/jeevan-darshan-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_02.mp3" type="audio/mpeg" length="26464813" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:01</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 03</title>
+      <link>https://oshoworld.com/jeevan-darshan-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_03.mp3" type="audio/mpeg" length="31129811" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:04</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 04</title>
+      <link>https://oshoworld.com/jeevan-darshan-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_04.mp3" type="audio/mpeg" length="23066419" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:51</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 05</title>
+      <link>https://oshoworld.com/jeevan-darshan-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_05.mp3" type="audio/mpeg" length="35149439" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:12</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 06</title>
+      <link>https://oshoworld.com/jeevan-darshan-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_06.mp3" type="audio/mpeg" length="20043461" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:55</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Darshan 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Darshan 07</title>
+      <link>https://oshoworld.com/jeevan-darshan-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Darshan_07.mp3" type="audio/mpeg" length="20284919" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/076-Jeevan%20Darshan/OSHO-Jeevan_Darshan_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:52</itunes:duration>
     </item>
   </channel>
 </rss>

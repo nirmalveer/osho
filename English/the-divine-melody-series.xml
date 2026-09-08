@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Divine Melody</title>
+    <link>https://oshoworld.com/the-divine-melody-series</link>
+    <description>Osho discourse series: The Divine Melody. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-divine-melody-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Divine Melody 01</title>
+      <link>https://oshoworld.com/the-divine-melody-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2001.mp3" type="audio/mpeg" length="27014222" />
+      <guid isPermaLink="false">urn:uuid:f136923f-48d7-53d2-b16d-defe5183070f</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:37</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 02</title>
+      <link>https://oshoworld.com/the-divine-melody-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2002.mp3" type="audio/mpeg" length="33422791" />
+      <guid isPermaLink="false">urn:uuid:f6cc37d5-e007-53df-92f2-59d3442fbb79</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 03</title>
+      <link>https://oshoworld.com/the-divine-melody-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2003.mp3" type="audio/mpeg" length="35321161" />
+      <guid isPermaLink="false">urn:uuid:5023d93f-5876-5b3a-862d-ec09a800c58d</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 04</title>
+      <link>https://oshoworld.com/the-divine-melody-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2004.mp3" type="audio/mpeg" length="32735666" />
+      <guid isPermaLink="false">urn:uuid:1badf0ef-60dd-5d01-bb78-350fd8d6439d</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 05</title>
+      <link>https://oshoworld.com/the-divine-melody-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2005.mp3" type="audio/mpeg" length="39858160" />
+      <guid isPermaLink="false">urn:uuid:5381e209-9dfb-548b-a3a3-1fb699fa9742</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:18</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 06</title>
+      <link>https://oshoworld.com/the-divine-melody-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2006.mp3" type="audio/mpeg" length="31515956" />
+      <guid isPermaLink="false">urn:uuid:3102022e-8003-5a2c-a3f1-40625d918841</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 07</title>
+      <link>https://oshoworld.com/the-divine-melody-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2007.mp3" type="audio/mpeg" length="36901204" />
+      <guid isPermaLink="false">urn:uuid:0bf3a2a2-14a1-5212-9b16-75d194c3555d</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 08</title>
+      <link>https://oshoworld.com/the-divine-melody-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2008.mp3" type="audio/mpeg" length="37445230" />
+      <guid isPermaLink="false">urn:uuid:2bff9838-4878-534c-9f13-c3fe46a916a3</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 09</title>
+      <link>https://oshoworld.com/the-divine-melody-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2009.mp3" type="audio/mpeg" length="33410879" />
+      <guid isPermaLink="false">urn:uuid:e9597db7-19e5-5220-a3e8-9a8c1844d5bf</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Divine Melody 10</title>
+      <link>https://oshoworld.com/the-divine-melody-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-divine-melody-series/The%20Divine%20Melody%2010.mp3" type="audio/mpeg" length="32728769" />
+      <guid isPermaLink="false">urn:uuid:ed6130a3-5ea3-5cac-9d8a-a2a2dddc7fa1</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:30</itunes:duration>
+    </item>
+  </channel>
+</rss>

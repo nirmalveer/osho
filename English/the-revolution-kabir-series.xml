@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Revolution Kabir</title>
+    <link>https://oshoworld.com/the-revolution-kabir-series</link>
+    <description>Osho discourse series: The Revolution Kabir. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-revolution-kabir-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Revolution 01</title>
+      <link>https://oshoworld.com/the-revolution-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2001.mp3" type="audio/mpeg" length="36975473" />
+      <guid isPermaLink="false">urn:uuid:1fd99829-23cb-5a95-b2d6-93207ff9e047</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 02</title>
+      <link>https://oshoworld.com/the-revolution-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2002.mp3" type="audio/mpeg" length="33594549" />
+      <guid isPermaLink="false">urn:uuid:21fc6df4-a18c-53a7-bab8-da2391a8b035</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:54</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 03</title>
+      <link>https://oshoworld.com/the-revolution-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2003.mp3" type="audio/mpeg" length="34353771" />
+      <guid isPermaLink="false">urn:uuid:0f85b09e-db98-52e0-b8a4-7d8764147948</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 04</title>
+      <link>https://oshoworld.com/the-revolution-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2004.mp3" type="audio/mpeg" length="30991342" />
+      <guid isPermaLink="false">urn:uuid:d0a2ae44-850c-5f99-b925-dd8c44e69dc2</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 05</title>
+      <link>https://oshoworld.com/the-revolution-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2005.mp3" type="audio/mpeg" length="36913876" />
+      <guid isPermaLink="false">urn:uuid:7340e9bd-e184-5633-b85b-201ab171402b</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:07</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 06</title>
+      <link>https://oshoworld.com/the-revolution-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2006.mp3" type="audio/mpeg" length="31673295" />
+      <guid isPermaLink="false">urn:uuid:6749a407-309d-569b-9b0e-72c27ff3a6e4</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:33</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 07</title>
+      <link>https://oshoworld.com/the-revolution-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2007.mp3" type="audio/mpeg" length="38605984" />
+      <guid isPermaLink="false">urn:uuid:e2432c9e-7bc9-5042-9d4e-15a1b89f6166</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 08</title>
+      <link>https://oshoworld.com/the-revolution-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2008.mp3" type="audio/mpeg" length="37740495" />
+      <guid isPermaLink="false">urn:uuid:b954d00b-fd59-5b74-990f-66f01cb3e672</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 09</title>
+      <link>https://oshoworld.com/the-revolution-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2009.mp3" type="audio/mpeg" length="38563665" />
+      <guid isPermaLink="false">urn:uuid:acad7b27-438b-57f2-ab90-85c349f926d0</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Revolution 10</title>
+      <link>https://oshoworld.com/the-revolution-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-revolution-kabir-series/The%20Revolution%2010.mp3" type="audio/mpeg" length="37610248" />
+      <guid isPermaLink="false">urn:uuid:93da6aca-8731-5c7f-a3c0-547d5c608a5f</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:03</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,131 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Suno Bhai Sadho</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Suno Bhai Sadho (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/suno-bhai-sadho-by-osho-01-20</link>
+    <description>Osho discourse series: Suno Bhai Sadho. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Suno%20Bhai%20Sadho.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Suno Bhai Sadho 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 01</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_01.mp3" type="audio/mpeg" length="43385533" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:46</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 02</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_02.mp3" type="audio/mpeg" length="36768888" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:19</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 03</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_03.mp3" type="audio/mpeg" length="27618701" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:25</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 04</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_04.mp3" type="audio/mpeg" length="44251274" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:04</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 05</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_05.mp3" type="audio/mpeg" length="31512235" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:51</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 06</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_06.mp3" type="audio/mpeg" length="39332393" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:55</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 07</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_07.mp3" type="audio/mpeg" length="32837345" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:31</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 08</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_08.mp3" type="audio/mpeg" length="33546278" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:08</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 09</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_09.mp3" type="audio/mpeg" length="26792782" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:49</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 10</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_10.mp3" type="audio/mpeg" length="32446009" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:48</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 11</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_11.mp3" type="audio/mpeg" length="46203393" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:25</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 12</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_12.mp3" type="audio/mpeg" length="37998028" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:46</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 13</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_13.mp3" type="audio/mpeg" length="34567472" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:23</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 14</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_14.mp3" type="audio/mpeg" length="36565458" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:47</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 15</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_15.mp3" type="audio/mpeg" length="34740712" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:18</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 16</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_16.mp3" type="audio/mpeg" length="34961543" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:28</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 17</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_17.mp3" type="audio/mpeg" length="33533610" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:32</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 18</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_18.mp3" type="audio/mpeg" length="31704885" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:19</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 19</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_19.mp3" type="audio/mpeg" length="36668095" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:46</itunes:duration>
     </item>
     <item>
-      <title>Suno Bhai Sadho 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Suno Bhai Sadho 20</title>
+      <link>https://oshoworld.com/suno-bhai-sadho-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Suno_Bhai_Sadho_20.mp3" type="audio/mpeg" length="33452794" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/141-Suno%20Bhai%20Sadho%2001-20%20%E2%80%93%20Osho%20World/OSHO-Suno_Bhai_Sadho_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:11</itunes:duration>
     </item>
   </channel>
 </rss>

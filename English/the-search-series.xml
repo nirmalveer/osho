@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Search</title>
+    <link>https://oshoworld.com/the-search-series</link>
+    <description>Osho discourse series: The Search. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-search-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Search 01</title>
+      <link>https://oshoworld.com/the-search-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2001.mp3" type="audio/mpeg" length="35654425" />
+      <guid isPermaLink="false">urn:uuid:0eb6d998-0d77-5b2b-9ca7-5850ed3daace</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 03</title>
+      <link>https://oshoworld.com/the-search-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2003.mp3" type="audio/mpeg" length="28542275" />
+      <guid isPermaLink="false">urn:uuid:0a3f22e6-bc3a-509f-91b1-c24240778fe4</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:04</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 04</title>
+      <link>https://oshoworld.com/the-search-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2004.mp3" type="audio/mpeg" length="37221615" />
+      <guid isPermaLink="false">urn:uuid:d854a063-c9f9-519a-9ee7-48c82c42fde8</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 05</title>
+      <link>https://oshoworld.com/the-search-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2005.mp3" type="audio/mpeg" length="36694673" />
+      <guid isPermaLink="false">urn:uuid:1b68718a-0c16-508e-8a51-174ad28f5ff1</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 06</title>
+      <link>https://oshoworld.com/the-search-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2006.mp3" type="audio/mpeg" length="33818278" />
+      <guid isPermaLink="false">urn:uuid:cb02e0f0-f8e2-5b8f-9425-6a12b2db5948</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:43</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 07</title>
+      <link>https://oshoworld.com/the-search-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2007.mp3" type="audio/mpeg" length="33588505" />
+      <guid isPermaLink="false">urn:uuid:0a1c917e-3e72-5177-915b-a0fa718b5883</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 08</title>
+      <link>https://oshoworld.com/the-search-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2008.mp3" type="audio/mpeg" length="32074761" />
+      <guid isPermaLink="false">urn:uuid:373ae7ed-d9de-5f00-8ef2-61f48fccec3f</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 09</title>
+      <link>https://oshoworld.com/the-search-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%2009.mp3" type="audio/mpeg" length="30469015" />
+      <guid isPermaLink="false">urn:uuid:2bc645c4-e6ec-5d51-af46-2bca20300fad</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Search 010</title>
+      <link>https://oshoworld.com/the-search-010</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-search-series/The%20Search%20010.mp3" type="audio/mpeg" length="31243599" />
+      <guid isPermaLink="false">urn:uuid:2c0b947c-6fa6-5af7-b520-f927dc166498</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:34</itunes:duration>
+    </item>
+  </channel>
+</rss>

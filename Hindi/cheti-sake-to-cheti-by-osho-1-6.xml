@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Cheti Sake To Cheti (चेति सकै तो चेति)</title>
+    <link>https://oshoworld.com/cheti-sake-to-cheti-by-osho-1-6</link>
+    <description>Osho discourse series: Cheti Sake To Cheti (चेति सकै तो चेति). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/cheti-sake-to-cheti-by-osho-1-6.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 01</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_01.mp3" type="audio/mpeg" length="24060874" />
+      <guid isPermaLink="false">urn:uuid:7cc05c98-3295-561f-affe-a17cf1e3914a</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:04</itunes:duration>
+    </item>
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 02</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_02.mp3" type="audio/mpeg" length="7436871" />
+      <guid isPermaLink="false">urn:uuid:19912de3-b96d-5bda-91ef-11c652104c3f</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:20:29</itunes:duration>
+    </item>
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 03</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_03.mp3" type="audio/mpeg" length="32709294" />
+      <guid isPermaLink="false">urn:uuid:7f409bea-9ff9-5163-857e-5cf873bb4c16</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:33</itunes:duration>
+    </item>
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 04</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_04.mp3" type="audio/mpeg" length="26378707" />
+      <guid isPermaLink="false">urn:uuid:c246ead9-f172-5b23-8140-3f8da9377068</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:41</itunes:duration>
+    </item>
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 05</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_05.mp3" type="audio/mpeg" length="17762235" />
+      <guid isPermaLink="false">urn:uuid:2f691492-0138-5153-80bb-5f1667d3bb41</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:48</itunes:duration>
+    </item>
+    <item>
+      <title>Cheti Sake To Cheti (चेति सकै तो चेति) 06</title>
+      <link>https://oshoworld.com/cheti-sake-to-cheti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Cheti_Sake_To_Chet_06.mp3" type="audio/mpeg" length="32914808" />
+      <guid isPermaLink="false">urn:uuid:e0a92ff8-b1c9-5f5f-a071-67e00f06c566</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:31</itunes:duration>
+    </item>
+  </channel>
+</rss>

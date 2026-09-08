@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>When the Shoe Fits</title>
+    <link>https://oshoworld.com/when-the-shoe-fits-series</link>
+    <description>Osho discourse series: When the Shoe Fits. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/when-the-shoe-fits-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When the Shoe Fits 01</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2001.mp3" type="audio/mpeg" length="42555305" />
+      <guid isPermaLink="false">urn:uuid:859d49ed-26ef-51a6-91a2-5278067391cf</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:16</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 02</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2002.mp3" type="audio/mpeg" length="30504097" />
+      <guid isPermaLink="false">urn:uuid:14ebae0b-5eff-529d-8e80-41a8597a6e70</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:47</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 03</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2003.mp3" type="audio/mpeg" length="28454825" />
+      <guid isPermaLink="false">urn:uuid:03d502ec-0fa6-5fc4-81d4-4b5e5336ed9a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:06</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 04</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2004.mp3" type="audio/mpeg" length="33623935" />
+      <guid isPermaLink="false">urn:uuid:c63baad5-4bab-592c-af33-3434f891d65f</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:27</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 05</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2005.mp3" type="audio/mpeg" length="38128647" />
+      <guid isPermaLink="false">urn:uuid:7fd624ee-fb1a-57d8-a361-87331ef2ed78</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:58</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 06</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2006.mp3" type="audio/mpeg" length="30945339" />
+      <guid isPermaLink="false">urn:uuid:7295d0c5-70b9-56ad-a364-f23e3e0a5a71</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:01</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 07</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2007.mp3" type="audio/mpeg" length="33399491" />
+      <guid isPermaLink="false">urn:uuid:5ed53e64-12c6-5e10-b6c9-c00a068a56af</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:50</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 08</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2008.mp3" type="audio/mpeg" length="32170534" />
+      <guid isPermaLink="false">urn:uuid:f41f10cd-f4c1-5650-bfdf-85b3e3ba76cd</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:25</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 09</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2009.mp3" type="audio/mpeg" length="35684369" />
+      <guid isPermaLink="false">urn:uuid:e8704739-0e7e-5fce-b1d4-5e0d5e79ffa9</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:10</itunes:duration>
+    </item>
+    <item>
+      <title>When the Shoe Fits 10</title>
+      <link>https://oshoworld.com/when-the-shoe-fits-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/when-the-shoe-fits-series/When%20The%20Shoe%20Fits%2010.mp3" type="audio/mpeg" length="37207360" />
+      <guid isPermaLink="false">urn:uuid:a8393b2d-c485-5d84-9974-6e076d9027f8</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:24</itunes:duration>
+    </item>
+  </channel>
+</rss>

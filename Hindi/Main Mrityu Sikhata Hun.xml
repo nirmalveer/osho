@@ -1,101 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Main Mrityu Sikhata Hun</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Main Mrityu Sikhata Hun (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/main-mrityu-sikhata-hun-by-osho-01-15</link>
+    <description>Osho discourse series: Main Mrityu Sikhata Hun. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Main%20Mrityu%20Sikhata%20Hun.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main Mrityu Sikhata Hun 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 01</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_01.mp3" type="audio/mpeg" length="26588746" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:20</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 02</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_02.mp3" type="audio/mpeg" length="23623200" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:53</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 03</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_03.mp3" type="audio/mpeg" length="32078978" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:52</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 04</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_04.mp3" type="audio/mpeg" length="45237584" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:59</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 05</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_05.mp3" type="audio/mpeg" length="40757562" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:52</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 06</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_06.mp3" type="audio/mpeg" length="29098658" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:04</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 07</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_07.mp3" type="audio/mpeg" length="30068518" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:03</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 08</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_08.mp3" type="audio/mpeg" length="30179543" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:02</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 09</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_09.mp3" type="audio/mpeg" length="38131678" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:02</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 10</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_10.mp3" type="audio/mpeg" length="41347028" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:39</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 11</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_11.mp3" type="audio/mpeg" length="36794295" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:23</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 12</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_12.mp3" type="audio/mpeg" length="30034566" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:23</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 13</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_13.mp3" type="audio/mpeg" length="43058028" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:55</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 14</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_14.mp3" type="audio/mpeg" length="37424824" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:17</itunes:duration>
     </item>
     <item>
-      <title>Main Mrityu Sikhata Hun 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Mrityu Sikhata Hun 15</title>
+      <link>https://oshoworld.com/main-mrityu-sikhata-hun-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Mrityu_Sikhata_Hun_15.mp3" type="audio/mpeg" length="35609928" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/106-Main%20Mrityu%20Sikhata%20Hun%2001-15%20%E2%80%93%20Osho%20World/OSHO-Main_Mrityu_Sikhata_Hun_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:45</itunes:duration>
     </item>
   </channel>
 </rss>

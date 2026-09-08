@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Bahuri Na Aiso Daon</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Bahuri Na Aiso Daon (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/bahuri-na-aiso-daon-by-osho-1-10</link>
+    <description>Osho discourse series: Bahuri Na Aiso Daon. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Bahuri%20Na%20Aiso%20Daon.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bahuri Na Aiso Daon 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 01</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_01.mp3" type="audio/mpeg" length="36525556" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:55</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 02</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_02.mp3" type="audio/mpeg" length="40880026" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:37</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 03</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_03.mp3" type="audio/mpeg" length="45357053" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:53</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 04</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_04.mp3" type="audio/mpeg" length="38980668" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:13</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 05</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_05.mp3" type="audio/mpeg" length="44355249" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:14</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 06</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_06.mp3" type="audio/mpeg" length="50078220" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:03:01</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 07</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_07.mp3" type="audio/mpeg" length="47537237" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:03</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 08</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_08.mp3" type="audio/mpeg" length="51446838" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:25</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 09</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_09.mp3" type="audio/mpeg" length="45581457" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:55</itunes:duration>
     </item>
     <item>
-      <title>Bahuri Na Aiso Daon 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Bahuri Na Aiso Daon 10</title>
+      <link>https://oshoworld.com/bahuri-na-aiso-daon-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahuri_Na_Aiso_Daon_10.mp3" type="audio/mpeg" length="42315697" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/021-Bahuri%20Na%20Aiso%20Daon/OSHO-Bahuri_Na_Aiso_Daon_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:57</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kahe Vajid Pukar</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kahe Vajid Pukar (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kahe-vajid-pukar-by-osho-01-10</link>
+    <description>Osho discourse series: Kahe Vajid Pukar. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kahe%20Vajid%20Pukar.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kahe Vajid Pukar 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 01</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_01.mp3" type="audio/mpeg" length="42841887" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:46</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 02</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_02.mp3" type="audio/mpeg" length="40482324" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:46</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 03</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_03.mp3" type="audio/mpeg" length="40334796" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:17</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 04</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_04.mp3" type="audio/mpeg" length="44026233" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:38</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 05</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_05.mp3" type="audio/mpeg" length="37168647" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:34</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 06</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_06.mp3" type="audio/mpeg" length="44289732" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:06</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 07</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_07.mp3" type="audio/mpeg" length="39797732" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:40</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 08</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_08.mp3" type="audio/mpeg" length="46440863" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:04</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 09</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_09.mp3" type="audio/mpeg" length="45245768" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:02</itunes:duration>
     </item>
     <item>
-      <title>Kahe Vajid Pukar 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Vajid Pukar 10</title>
+      <link>https://oshoworld.com/kahe-vajid-pukar-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Vajid_Pukar_10.mp3" type="audio/mpeg" length="48991103" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/090-Kahe%20Vajid%20Pukar%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kahe_Vajid_Pukar_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:58</itunes:duration>
     </item>
   </channel>
 </rss>

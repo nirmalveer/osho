@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Zen Zest Zip Zap and Zing</title>
+    <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-series</link>
+    <description>Osho discourse series: Zen Zest Zip Zap and Zing. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/zen-zest-zip-zap-and-zing-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen Zest Zip Zap and Zing 01</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2001.mp3" type="audio/mpeg" length="31580100" />
+      <guid isPermaLink="false">urn:uuid:a21d0c47-e817-507e-bd77-71e98383ccff</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:23</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 02</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2002.mp3" type="audio/mpeg" length="26055359" />
+      <guid isPermaLink="false">urn:uuid:6f405d96-ec15-5c0a-8236-5e5064cc44be</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:02</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 03</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2003.mp3" type="audio/mpeg" length="28150902" />
+      <guid isPermaLink="false">urn:uuid:44fe3004-a340-54b3-a68f-9276baa61330</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:52</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 04</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2004.mp3" type="audio/mpeg" length="18828166" />
+      <guid isPermaLink="false">urn:uuid:4e6e90e2-be60-5434-a7f7-d1101a75551e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>48:58</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 05</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2005.mp3" type="audio/mpeg" length="31154096" />
+      <guid isPermaLink="false">urn:uuid:9926ee8c-2b6d-5366-a16f-6098d1c36e11</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:12</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 06</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2006.mp3" type="audio/mpeg" length="21666318" />
+      <guid isPermaLink="false">urn:uuid:d9f8ff0d-7d49-5685-ae7e-773af3d0663d</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>56:51</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 07</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2007.mp3" type="audio/mpeg" length="24289429" />
+      <guid isPermaLink="false">urn:uuid:aa4948b0-be0e-574b-8f23-12041cfa8c3a</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:08</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 08</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2008.mp3" type="audio/mpeg" length="23633338" />
+      <guid isPermaLink="false">urn:uuid:1a558756-b7e5-58b5-ae10-05b0b01ef73d</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:19</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 09</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2009.mp3" type="audio/mpeg" length="32276629" />
+      <guid isPermaLink="false">urn:uuid:6fecd245-4d13-5b77-a68e-00244b5e05b7</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:19</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 10</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2010.mp3" type="audio/mpeg" length="21960822" />
+      <guid isPermaLink="false">urn:uuid:26e207e5-12cd-5f28-8b4c-111e02321f0b</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>57:40</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 11</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2011.mp3" type="audio/mpeg" length="35821498" />
+      <guid isPermaLink="false">urn:uuid:a8690cc4-fbc3-541a-86dd-67d3271327ac</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:10</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 12</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2012.mp3" type="audio/mpeg" length="19204956" />
+      <guid isPermaLink="false">urn:uuid:125700c8-9c58-5b4c-ad3a-7ff66d5c1736</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>50:01</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 13</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2013.mp3" type="audio/mpeg" length="29718406" />
+      <guid isPermaLink="false">urn:uuid:3751f878-e41d-5174-bee8-ef9924bd0a9e</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:13</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 14</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2014.mp3" type="audio/mpeg" length="25735307" />
+      <guid isPermaLink="false">urn:uuid:f73cb70f-e1d8-5874-a864-aeaefc673a95</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:09</itunes:duration>
+    </item>
+    <item>
+      <title>Zen Zest Zip Zap and Zing 15</title>
+      <link>https://oshoworld.com/zen-zest-zip-zap-and-zing-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/zen-zest-zip-zap-and-zing-series/Zen%20Zest%20Zip%20Zap%20And%20Zing%2015.mp3" type="audio/mpeg" length="19941452" />
+      <guid isPermaLink="false">urn:uuid:a7f53628-c52a-5496-93e6-626b05a0cc8a</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>52:03</itunes:duration>
+    </item>
+  </channel>
+</rss>

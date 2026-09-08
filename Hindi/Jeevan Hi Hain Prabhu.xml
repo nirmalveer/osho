@@ -1,53 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jeevan Hi Hain Prabhu</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jeevan Hi Hain Prabhu (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jeevan-hi-hain-prabhu-by-osho-01-07</link>
+    <description>Osho discourse series: Jeevan Hi Hain Prabhu. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jeevan%20Hi%20Hain%20Prabhu.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jeevan Hi Hain Prabhu 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 01</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_01.mp3" type="audio/mpeg" length="25084780" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:28</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 02</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_02.mp3" type="audio/mpeg" length="26444643" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:17</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 03</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_03.mp3" type="audio/mpeg" length="27780801" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:11</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 04</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_04.mp3" type="audio/mpeg" length="21061476" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:27</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 05</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_05.mp3" type="audio/mpeg" length="20477748" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:04</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 06</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_06.mp3" type="audio/mpeg" length="19671295" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:59</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Hi Hain Prabhu 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Hi Hain Prabhu 07</title>
+      <link>https://oshoworld.com/jeevan-hi-hain-prabhu-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Hi_Hain_Prabhu_07.mp3" type="audio/mpeg" length="18006893" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/074-Jeevan%20Hi%20Hain%20Prabhu/OSHO-Jeevan_Hi_Hain_Prabhu_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:14</itunes:duration>
     </item>
   </channel>
 </rss>

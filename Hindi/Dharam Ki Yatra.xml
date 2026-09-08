@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Dharam Ki Yatra</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Dharam Ki Yatra (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/dharam-ki-yatra-by-osho-01-10</link>
+    <description>Osho discourse series: Dharam Ki Yatra. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Dharam%20Ki%20Yatra.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dharam Ki Yatra 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 01</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_01.mp3" type="audio/mpeg" length="22716371" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:19</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 02</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_02.mp3" type="audio/mpeg" length="27813187" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:31</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 03</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_03.mp3" type="audio/mpeg" length="19787944" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:09</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 04</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_04.mp3" type="audio/mpeg" length="29221321" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:03</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 05</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_05.mp3" type="audio/mpeg" length="24752826" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:45</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 06</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_06.mp3" type="audio/mpeg" length="25908231" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:13</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 07</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_07.mp3" type="audio/mpeg" length="11811427" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:29:24</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 08</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_08.mp3" type="audio/mpeg" length="6827170" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:16:11</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 09</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_09.mp3" type="audio/mpeg" length="24036315" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:43</itunes:duration>
     </item>
     <item>
-      <title>Dharam Ki Yatra 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Ki Yatra 10</title>
+      <link>https://oshoworld.com/dharam-ki-yatra-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Ki_Yatra_10.mp3" type="audio/mpeg" length="25693763" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/035-Dharam%20Ki%20Yatra/OSHO-Dharam_Ki_Yatra_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:56</itunes:duration>
     </item>
   </channel>
 </rss>

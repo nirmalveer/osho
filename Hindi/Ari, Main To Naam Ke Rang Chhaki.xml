@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Ari, Main To Naam Ke Rang Chhaki</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ari, Main To Naam Ke Rang Chhaki (Hindi) — streamed from Internet Archive</description>
+    <title>Ari, Main To Naam Ke Rang Chhaki (अरी, मैं तो नाम के रंग छकी)</title>
+    <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-by-osho-1-10</link>
+    <description>Osho discourse series: Ari, Main To Naam Ke Rang Chhaki (अरी, मैं तो नाम के रंग छकी). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 01</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_01.mp3" type="audio/mpeg" length="48496095" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:24</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 02</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_02.mp3" type="audio/mpeg" length="44323173" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:42</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 03</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_03.mp3" type="audio/mpeg" length="42992733" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:34</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 04</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_04.mp3" type="audio/mpeg" length="50953068" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:47</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 05</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_05.mp3" type="audio/mpeg" length="44159742" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:09</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 06</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_06.mp3" type="audio/mpeg" length="42314273" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:38</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 07</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_07.mp3" type="audio/mpeg" length="48729385" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:04</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 08</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_08.mp3" type="audio/mpeg" length="45143704" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:03</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 09</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_09.mp3" type="audio/mpeg" length="44039657" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:30</itunes:duration>
     </item>
     <item>
-      <title>Ari, Main To Naam Ke Rang Chhaki 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Ari, Main To Naam Ke Rang Chhaki 10</title>
+      <link>https://oshoworld.com/ari-main-to-naam-ke-rang-chhaki-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ari_Main_To_Namke_10.mp3" type="audio/mpeg" length="41575739" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/004-Ari%2C%20Main%20To%20Naam%20Ke%20Rang%20Chhaki/OSHO-Ari_Main_To_Namke_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:09</itunes:duration>
     </item>
   </channel>
 </rss>

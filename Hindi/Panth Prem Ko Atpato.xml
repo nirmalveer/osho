@@ -1,29 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Panth Prem Ko Atpato</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Panth Prem Ko Atpato (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/panth-prem-ko-atpato-by-osho-01-03</link>
+    <description>Osho discourse series: Panth Prem Ko Atpato. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Panth%20Prem%20Ko%20Atpato.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Panth Prem Ko Atpato 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Panth Prem Ko Atpato 01</title>
+      <link>https://oshoworld.com/panth-prem-ko-atpato-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_01.mp3" type="audio/mpeg" length="19367821" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:40:45</itunes:duration>
     </item>
     <item>
-      <title>Panth Prem Ko Atpato 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Panth Prem Ko Atpato 02</title>
+      <link>https://oshoworld.com/panth-prem-ko-atpato-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_02.mp3" type="audio/mpeg" length="22332717" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:44</itunes:duration>
     </item>
     <item>
-      <title>Panth Prem Ko Atpato 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Panth Prem Ko Atpato 03</title>
+      <link>https://oshoworld.com/panth-prem-ko-atpato-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Panth_Prem_Ko_Atpato_03.mp3" type="audio/mpeg" length="32066925" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/125-Panth%20Prem%20Ko%20Atpato%2001-03%20%E2%80%93%20Osho%20World/OSHO-Panth_Prem_Ko_Atpato_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:02</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Bahutere Hain Ghat (बहुतेरे हैं घाट)</title>
+    <link>https://oshoworld.com/bahutere-hain-ghat-by-osho-1-4</link>
+    <description>Osho discourse series: Bahutere Hain Ghat (बहुतेरे हैं घाट). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/bahutere-hain-ghat-by-osho-1-4.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bahutere Hain Ghat (बहुतेरे हैं घाट) 01</title>
+      <link>https://oshoworld.com/bahutere-hain-ghat-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_01.mp3" type="audio/mpeg" length="48435806" />
+      <guid isPermaLink="false">urn:uuid:24181405-d106-5113-9e44-1d45464a66e1</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:21</itunes:duration>
+    </item>
+    <item>
+      <title>Bahutere Hain Ghat (बहुतेरे हैं घाट) 02</title>
+      <link>https://oshoworld.com/bahutere-hain-ghat-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_02.mp3" type="audio/mpeg" length="41874813" />
+      <guid isPermaLink="false">urn:uuid:b87c14a8-ec89-5372-83a9-1ff59f2759f5</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:49</itunes:duration>
+    </item>
+    <item>
+      <title>Bahutere Hain Ghat (बहुतेरे हैं घाट) 03</title>
+      <link>https://oshoworld.com/bahutere-hain-ghat-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_03.mp3" type="audio/mpeg" length="42239070" />
+      <guid isPermaLink="false">urn:uuid:d9a6b4d1-9911-5492-a7b2-4f5b87421828</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:56</itunes:duration>
+    </item>
+    <item>
+      <title>Bahutere Hain Ghat (बहुतेरे हैं घाट) 04</title>
+      <link>https://oshoworld.com/bahutere-hain-ghat-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Bahutere_Hain_Ghat_04.mp3" type="audio/mpeg" length="38994215" />
+      <guid isPermaLink="false">urn:uuid:e184bec6-3fce-51c2-b2de-30bff7e8683f</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:01</itunes:duration>
+    </item>
+  </channel>
+</rss>

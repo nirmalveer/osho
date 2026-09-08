@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Transmission of the Lamp</title>
+    <link>https://oshoworld.com/the-transmission-of-the-lamp-series</link>
+    <description>Osho discourse series: The Transmission of the Lamp. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-transmission-of-the-lamp-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transmission of the Lamp 01</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2001.mp3" type="audio/mpeg" length="30430499" />
+      <guid isPermaLink="false">urn:uuid:ba91c668-7b38-593b-ac8a-89b0783da8ac</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:52</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 02</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2002.mp3" type="audio/mpeg" length="34914992" />
+      <guid isPermaLink="false">urn:uuid:49405cf2-93ef-5234-83fc-f6fbe37f4ecd</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:20</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 03</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2003.mp3" type="audio/mpeg" length="33746848" />
+      <guid isPermaLink="false">urn:uuid:b7c88663-aba6-5e8c-b422-1417a08dd8ec</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:05</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 04</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2004.mp3" type="audio/mpeg" length="29977692" />
+      <guid isPermaLink="false">urn:uuid:d7b45961-c913-5fee-80bc-7886c0523313</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:37</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 05</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2005.mp3" type="audio/mpeg" length="32709421" />
+      <guid isPermaLink="false">urn:uuid:e40f9fb4-7f61-5e07-84fc-007308d80954</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:12</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 06</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2006.mp3" type="audio/mpeg" length="30728922" />
+      <guid isPermaLink="false">urn:uuid:a5623743-0779-58dc-b7ea-9eb40aeb3966</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:42</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 07</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2007.mp3" type="audio/mpeg" length="32234045" />
+      <guid isPermaLink="false">urn:uuid:6cb93bea-9950-514e-b685-0df2838e68f8</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:53</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 08</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2008.mp3" type="audio/mpeg" length="31191602" />
+      <guid isPermaLink="false">urn:uuid:9f92a81e-b181-5ae7-8826-e830c0babc9d</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:59</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 09</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2009.mp3" type="audio/mpeg" length="28343263" />
+      <guid isPermaLink="false">urn:uuid:918349e6-2725-5ecf-8631-7df41589fd9a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:04</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 10</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2010.mp3" type="audio/mpeg" length="31310094" />
+      <guid isPermaLink="false">urn:uuid:fd172503-31a1-5655-b155-7a76f7c5cd0f</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:19</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 11</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2011.mp3" type="audio/mpeg" length="36645970" />
+      <guid isPermaLink="false">urn:uuid:c049a8fe-54c7-5c4b-b5b1-dcb20a3a06b3</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:08</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 12</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2012.mp3" type="audio/mpeg" length="39620324" />
+      <guid isPermaLink="false">urn:uuid:7a51b997-aae9-59ea-be1e-cf7cac986127</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:24</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 13</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2013.mp3" type="audio/mpeg" length="29071922" />
+      <guid isPermaLink="false">urn:uuid:7ee3b8c5-7b6c-55aa-8f68-4ecf54d9bc9a</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:06</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 14</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2014.mp3" type="audio/mpeg" length="36785307" />
+      <guid isPermaLink="false">urn:uuid:c23ebe7a-99f9-54e5-ab65-bc417d2c2073</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:31</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 15</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2015.mp3" type="audio/mpeg" length="29294329" />
+      <guid isPermaLink="false">urn:uuid:6437783d-e48a-5045-83b8-70d65b09e51d</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:43</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 16</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2016.mp3" type="audio/mpeg" length="39134760" />
+      <guid isPermaLink="false">urn:uuid:90d881b0-138c-5954-9069-22b6662b1aef</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:03</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 17</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2017.mp3" type="audio/mpeg" length="37103478" />
+      <guid isPermaLink="false">urn:uuid:8f0c1548-6bb8-51b4-8613-b33fa439d8b9</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:24</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 18</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2018.mp3" type="audio/mpeg" length="37997180" />
+      <guid isPermaLink="false">urn:uuid:e765215f-1843-58a3-93c5-4f8fa12ab7fd</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:53</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 19</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2019.mp3" type="audio/mpeg" length="32134362" />
+      <guid isPermaLink="false">urn:uuid:701952df-dad9-5820-b188-450188c910c4</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:36</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 20</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2020.mp3" type="audio/mpeg" length="37253787" />
+      <guid isPermaLink="false">urn:uuid:5e19c282-f68d-5c3b-b2b8-09375b11215c</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:49</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 21</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2021.mp3" type="audio/mpeg" length="31568706" />
+      <guid isPermaLink="false">urn:uuid:9945a34f-440c-5486-941e-afd495f7a3d8</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:02</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 22</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2022.mp3" type="audio/mpeg" length="24509219" />
+      <guid isPermaLink="false">urn:uuid:a92fe7a8-abd1-5c31-8d64-7ff5a0e56124</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:25</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 23</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2023.mp3" type="audio/mpeg" length="25310760" />
+      <guid isPermaLink="false">urn:uuid:feab6227-aa91-52df-8382-fdec17665e79</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:39</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 24</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2024.mp3" type="audio/mpeg" length="22491260" />
+      <guid isPermaLink="false">urn:uuid:c821db3a-4ea9-56f9-9691-d125cf569999</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>59:49</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 25</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2025.mp3" type="audio/mpeg" length="34929411" />
+      <guid isPermaLink="false">urn:uuid:d38e1e75-fe45-586a-9f77-22a38c714945</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:22</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 26</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2026.mp3" type="audio/mpeg" length="36313849" />
+      <guid isPermaLink="false">urn:uuid:7c74ad7f-652a-5feb-ba7b-9ac5f56b95ba</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:13</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 27</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2027.mp3" type="audio/mpeg" length="33562685" />
+      <guid isPermaLink="false">urn:uuid:55435668-ca31-5dbd-8526-781cdbcaad6d</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:34</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 28</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2028.mp3" type="audio/mpeg" length="30175648" />
+      <guid isPermaLink="false">urn:uuid:609fa027-dfda-5361-95c9-376cee1b488b</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:10</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 29</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2029.mp3" type="audio/mpeg" length="30779704" />
+      <guid isPermaLink="false">urn:uuid:cef88a97-1f4a-5c7a-941d-54437c966a77</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:50</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 30</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2030.mp3" type="audio/mpeg" length="34332722" />
+      <guid isPermaLink="false">urn:uuid:51d77a96-e85d-5183-9b9c-87927875ffd9</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:43</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 31</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2031.mp3" type="audio/mpeg" length="32513503" />
+      <guid isPermaLink="false">urn:uuid:6b45dccb-dcf6-5468-8e62-7081c0a26f16</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:39</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 32</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2032.mp3" type="audio/mpeg" length="43490887" />
+      <guid isPermaLink="false">urn:uuid:f6781289-1964-5559-9db4-fb811178af4d</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:58:09</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 33</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2033.mp3" type="audio/mpeg" length="33616915" />
+      <guid isPermaLink="false">urn:uuid:0534910d-7a8d-5a14-a29f-7d05eb8a4f8b</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:43</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 34</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2034.mp3" type="audio/mpeg" length="31583282" />
+      <guid isPermaLink="false">urn:uuid:39d17366-8631-5e5f-be09-8d32a2eff124</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:04</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 35</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2035.mp3" type="audio/mpeg" length="25536771" />
+      <guid isPermaLink="false">urn:uuid:5acc5f9b-2826-5eee-aecb-b4a7505216ac</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:17</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 36</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2036.mp3" type="audio/mpeg" length="42017895" />
+      <guid isPermaLink="false">urn:uuid:dfc486f3-4fea-5072-b15b-65c1a9ca1b77</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:03</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 37</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2037.mp3" type="audio/mpeg" length="35237552" />
+      <guid isPermaLink="false">urn:uuid:0148b4c3-cb82-5eeb-97ca-6e7f5445c281</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:13</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 38</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2038.mp3" type="audio/mpeg" length="30719831" />
+      <guid isPermaLink="false">urn:uuid:be8e8adb-cebd-5b13-8e23-a0cbec5801df</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:40</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 39</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2039.mp3" type="audio/mpeg" length="33919570" />
+      <guid isPermaLink="false">urn:uuid:23bab94d-1deb-5b7c-ac7e-8dac7cea35f9</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:34</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 40</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2040.mp3" type="audio/mpeg" length="31312602" />
+      <guid isPermaLink="false">urn:uuid:7ef6dd17-0fb8-5420-80f3-594ace75ca18</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:19</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 41</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-41</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2041.mp3" type="audio/mpeg" length="29219566" />
+      <guid isPermaLink="false">urn:uuid:0d62d6f6-4f2a-553b-80f2-697b4ad52152</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:30</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 42</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-42</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2042.mp3" type="audio/mpeg" length="31815250" />
+      <guid isPermaLink="false">urn:uuid:697737b8-29c9-5c54-94ba-145b476cd182</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:43</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 43</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-43</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2043.mp3" type="audio/mpeg" length="32163671" />
+      <guid isPermaLink="false">urn:uuid:06c1406a-e946-5c03-9af9-e8388aa15156</guid>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:41</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 44</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-44</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2044.mp3" type="audio/mpeg" length="27345333" />
+      <guid isPermaLink="false">urn:uuid:6a2c2d75-f1b0-5a74-9fce-4ebf8911a3ca</guid>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:18</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 45</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-45</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2045.mp3" type="audio/mpeg" length="34918753" />
+      <guid isPermaLink="false">urn:uuid:623437db-63c7-51b1-8f18-fce4814994c1</guid>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:20</itunes:duration>
+    </item>
+    <item>
+      <title>Transmission of the Lamp 46</title>
+      <link>https://oshoworld.com/transmission-of-the-lamp-46</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-transmission-of-the-lamp-series/Transmission%20Of%20The%20Lamp%2046.mp3" type="audio/mpeg" length="41628409" />
+      <guid isPermaLink="false">urn:uuid:1208678e-819a-517f-a986-9042191e9584</guid>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:58</itunes:duration>
+    </item>
+  </channel>
+</rss>

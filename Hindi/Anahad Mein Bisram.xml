@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Anahad Mein Bisram</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Anahad Mein Bisram (Hindi) — streamed from Internet Archive</description>
+    <title>Anahad Mein Bisram (अनहद में बिसराम)</title>
+    <link>https://oshoworld.com/anahad-mein-bisram-by-osho-1-10</link>
+    <description>Osho discourse series: Anahad Mein Bisram (अनहद में बिसराम). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Anahad%20Mein%20Bisram.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anahad Mein Bisram 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 01</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_01.mp3" type="audio/mpeg" length="46862674" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:50</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 02</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_02.mp3" type="audio/mpeg" length="41104959" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:52</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 03</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_03.mp3" type="audio/mpeg" length="32164842" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:45</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 04</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_04.mp3" type="audio/mpeg" length="37492032" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:27</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 05</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_05.mp3" type="audio/mpeg" length="59274375" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:23</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 06</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_06.mp3" type="audio/mpeg" length="35219822" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:01</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 07</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_07.mp3" type="audio/mpeg" length="36642460" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:33</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 08</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_08.mp3" type="audio/mpeg" length="27555532" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:43</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 09</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_09.mp3" type="audio/mpeg" length="37163324" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:47</itunes:duration>
     </item>
     <item>
-      <title>Anahad Mein Bisram 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Anahad Mein Bisram 10</title>
+      <link>https://oshoworld.com/anahad-mein-bisram-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Anhad_Main_Bisram_10.mp3" type="audio/mpeg" length="40737148" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/006-Anahad%20Mein%20Bisram%20%231-10%20%E2%80%93%20Osho%20World/OSHO-Anhad_Main_Bisram_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:46</itunes:duration>
     </item>
   </channel>
 </rss>

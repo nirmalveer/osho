@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Path of the Mystic</title>
+    <link>https://oshoworld.com/the-path-of-the-mystic-series</link>
+    <description>Osho discourse series: The Path of the Mystic. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-path-of-the-mystic-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Path of the Mystic 01</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2001.mp3" type="audio/mpeg" length="42655544" />
+      <guid isPermaLink="false">urn:uuid:912b8f85-9e38-53cb-836c-f8adf64615ea</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:33</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 02</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2002.mp3" type="audio/mpeg" length="30558133" />
+      <guid isPermaLink="false">urn:uuid:deb2c0b6-a422-57a2-a96a-cdba1719c3d7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:57</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 03</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2003.mp3" type="audio/mpeg" length="37186600" />
+      <guid isPermaLink="false">urn:uuid:69063521-7cdd-5d2c-ac68-806697282c1e</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:22</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 04</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2004.mp3" type="audio/mpeg" length="31712641" />
+      <guid isPermaLink="false">urn:uuid:5714a19c-e13a-515c-bc8d-11aeefbb0063</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 05</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2005.mp3" type="audio/mpeg" length="33562424" />
+      <guid isPermaLink="false">urn:uuid:b8588e99-1c00-5c11-a978-2ed2247e3e5e</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:18</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 06</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2006.mp3" type="audio/mpeg" length="37966669" />
+      <guid isPermaLink="false">urn:uuid:ca3d8e01-3376-57b1-ae58-508a9b1d2554</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 07</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2007.mp3" type="audio/mpeg" length="29450489" />
+      <guid isPermaLink="false">urn:uuid:1c3c7dbe-7a74-5ab7-a5c6-54e23542c3da</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 08</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2008.mp3" type="audio/mpeg" length="31155136" />
+      <guid isPermaLink="false">urn:uuid:b6aca23b-27dd-5f0d-9242-2287b68605c1</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 09</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2009.mp3" type="audio/mpeg" length="37624360" />
+      <guid isPermaLink="false">urn:uuid:9206f48d-2d7d-573c-9cc9-170e25192c00</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:35</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 10</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2010.mp3" type="audio/mpeg" length="33250522" />
+      <guid isPermaLink="false">urn:uuid:cb589715-7d27-5f7c-b651-8b8e6a2c5fd1</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 11</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2011.mp3" type="audio/mpeg" length="42460879" />
+      <guid isPermaLink="false">urn:uuid:6ee6288e-a285-5fdf-b9d0-514e2ed18932</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:01</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 12</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2012.mp3" type="audio/mpeg" length="37787364" />
+      <guid isPermaLink="false">urn:uuid:cc542641-b031-50a2-8c08-db6e1d5c9269</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:02</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 13</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2013.mp3" type="audio/mpeg" length="36673764" />
+      <guid isPermaLink="false">urn:uuid:dc9beb39-0f06-5b21-a3f7-3dbd672fb0e8</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 14</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2014.mp3" type="audio/mpeg" length="39162398" />
+      <guid isPermaLink="false">urn:uuid:d3f33669-c752-5b70-8f79-f25da1eeaad4</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:51</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 15</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2015.mp3" type="audio/mpeg" length="34124161" />
+      <guid isPermaLink="false">urn:uuid:4a0e036a-9826-53b4-92c4-2c8bcb803cf8</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:51</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 16</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2016.mp3" type="audio/mpeg" length="33977457" />
+      <guid isPermaLink="false">urn:uuid:d3da3928-1342-5c4e-b72f-5d2a5bcafa26</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 17</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2017.mp3" type="audio/mpeg" length="34251586" />
+      <guid isPermaLink="false">urn:uuid:54fe968d-8fae-56c5-913b-e0d1931ba451</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:13</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 18</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2018.mp3" type="audio/mpeg" length="38297222" />
+      <guid isPermaLink="false">urn:uuid:0ee893b5-f361-54ab-897a-012b08482406</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 19</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2019.mp3" type="audio/mpeg" length="32377980" />
+      <guid isPermaLink="false">urn:uuid:ff638a55-c301-53a1-9412-8a6eb83dea5c</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 20</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2020.mp3" type="audio/mpeg" length="38779495" />
+      <guid isPermaLink="false">urn:uuid:c126c892-9cc1-5cf9-a7b7-e67eda1ee7a3</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:47</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 21</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2021.mp3" type="audio/mpeg" length="52328896" />
+      <guid isPermaLink="false">urn:uuid:7cc6dc1e-1d4e-5956-bd7b-47cd62f0631f</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:22:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 22</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2022.mp3" type="audio/mpeg" length="35054225" />
+      <guid isPermaLink="false">urn:uuid:258b9fe7-0d55-5b0c-9db6-2f3b3b2050a5</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 23</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2023.mp3" type="audio/mpeg" length="40285245" />
+      <guid isPermaLink="false">urn:uuid:26ae8a1b-e36c-5ddf-9d54-7508faaceae2</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 24</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2024.mp3" type="audio/mpeg" length="29857843" />
+      <guid isPermaLink="false">urn:uuid:062258ac-321f-5c5f-9066-da960b6d0d81</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 25</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2025.mp3" type="audio/mpeg" length="29212879" />
+      <guid isPermaLink="false">urn:uuid:eb77e71d-331b-5512-872b-a914d9cf6852</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:13</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 26</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2026.mp3" type="audio/mpeg" length="37029865" />
+      <guid isPermaLink="false">urn:uuid:c0f535ea-b5c6-57f0-9d78-f78a6388fb3c</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 27</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2027.mp3" type="audio/mpeg" length="29311152" />
+      <guid isPermaLink="false">urn:uuid:244d1bad-ad91-5237-af2a-1a9aba2ba964</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 28</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2028.mp3" type="audio/mpeg" length="36795234" />
+      <guid isPermaLink="false">urn:uuid:a72a0683-f76f-5a61-b3f5-17ae19ba1d60</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 29</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2029.mp3" type="audio/mpeg" length="39481980" />
+      <guid isPermaLink="false">urn:uuid:e2bc8aa7-eb75-58e2-9ced-570e079b8199</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:44</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 30</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2030.mp3" type="audio/mpeg" length="30953888" />
+      <guid isPermaLink="false">urn:uuid:f88be360-61c8-5d83-9ffd-d7cfd02da087</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 31</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2031.mp3" type="audio/mpeg" length="28842358" />
+      <guid isPermaLink="false">urn:uuid:1eb8b93b-2305-5645-903f-fad5a5c125c5</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 32</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2032.mp3" type="audio/mpeg" length="39996383" />
+      <guid isPermaLink="false">urn:uuid:e5923ad2-3ab1-5d1c-88a1-08929220c379</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:10</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 33</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2033.mp3" type="audio/mpeg" length="36149016" />
+      <guid isPermaLink="false">urn:uuid:1f908ee0-3dc1-5eb0-9b4e-48ff84b96809</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 34</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2034.mp3" type="audio/mpeg" length="39902185" />
+      <guid isPermaLink="false">urn:uuid:129ca96b-7a6e-5932-821d-2517d9229e69</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:54</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 35</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2035.mp3" type="audio/mpeg" length="35822852" />
+      <guid isPermaLink="false">urn:uuid:ee9aa2b0-cc31-5e7e-88e4-10a4ba628a0c</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:34</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 36</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2036.mp3" type="audio/mpeg" length="31750884" />
+      <guid isPermaLink="false">urn:uuid:c0626d49-6ffe-5048-ae99-583fedfc2a0b</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 37</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2037.mp3" type="audio/mpeg" length="35168954" />
+      <guid isPermaLink="false">urn:uuid:fe8d9f4c-bcc3-54f4-ad16-8513c72dad9b</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:45</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 38</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2038.mp3" type="audio/mpeg" length="34313183" />
+      <guid isPermaLink="false">urn:uuid:0becf0f3-f73d-5dbf-8317-333db1c67f44</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:23</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 39</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2039.mp3" type="audio/mpeg" length="33664615" />
+      <guid isPermaLink="false">urn:uuid:1607ad20-5c37-5e2a-b54c-99b6a9c431ff</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:35</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 40</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2040.mp3" type="audio/mpeg" length="37982342" />
+      <guid isPermaLink="false">urn:uuid:2be16b46-dbf6-5132-a618-9b8082fa8ee7</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:34</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 41</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-41</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2041.mp3" type="audio/mpeg" length="29653774" />
+      <guid isPermaLink="false">urn:uuid:137cca89-4184-5e62-a59e-79047f7e6315</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 42</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-42</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2042.mp3" type="audio/mpeg" length="37750375" />
+      <guid isPermaLink="false">urn:uuid:d511ccf8-bf73-5776-ae59-b2f21abab82b</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 43</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-43</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2043.mp3" type="audio/mpeg" length="35447785" />
+      <guid isPermaLink="false">urn:uuid:dbf03e6e-99aa-5fd8-beda-abdcc0b2267e</guid>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of the Mystic 44</title>
+      <link>https://oshoworld.com/the-path-of-the-mystic-44</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-path-of-the-mystic-series/The%20Path%20Of%20The%20Mystic%2044.mp3" type="audio/mpeg" length="31183505" />
+      <guid isPermaLink="false">urn:uuid:9fa8b5f6-163a-5c04-bc62-16c5ab52796b</guid>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:41</itunes:duration>
+    </item>
+  </channel>
+</rss>

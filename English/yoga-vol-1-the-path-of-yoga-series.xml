@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Yoga Vol 1: The Path of Yoga</title>
+    <link>https://oshoworld.com/yoga-vol-1-the-path-of-yoga-series</link>
+    <description>Osho discourse series: Yoga Vol 1: The Path of Yoga. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/yoga-vol-1-the-path-of-yoga-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Path of Yoga 01</title>
+      <link>https://oshoworld.com/the-path-of-yoga-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2001.mp3" type="audio/mpeg" length="37352824" />
+      <guid isPermaLink="false">urn:uuid:585b366c-8943-5e19-b17c-e09c27534e96</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 02</title>
+      <link>https://oshoworld.com/the-path-of-yoga-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2002.mp3" type="audio/mpeg" length="31527779" />
+      <guid isPermaLink="false">urn:uuid:2d735709-9bef-5965-8dc3-b2f16a5802f6</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 03</title>
+      <link>https://oshoworld.com/the-path-of-yoga-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2003.mp3" type="audio/mpeg" length="37001268" />
+      <guid isPermaLink="false">urn:uuid:4f9f1079-4cfe-5ffa-a1d1-da8bdc459ad6</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 04</title>
+      <link>https://oshoworld.com/the-path-of-yoga-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2004.mp3" type="audio/mpeg" length="27274156" />
+      <guid isPermaLink="false">urn:uuid:663a424a-da93-53bf-b611-b0f925c730e2</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 05</title>
+      <link>https://oshoworld.com/the-path-of-yoga-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2005.mp3" type="audio/mpeg" length="37647955" />
+      <guid isPermaLink="false">urn:uuid:c0694b7b-5c07-5487-a6c2-14e99335d68a</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 06</title>
+      <link>https://oshoworld.com/the-path-of-yoga-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2006.mp3" type="audio/mpeg" length="30361359" />
+      <guid isPermaLink="false">urn:uuid:98795522-b1f7-5fb9-b4d7-0acee69d8f6c</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 07</title>
+      <link>https://oshoworld.com/the-path-of-yoga-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2007.mp3" type="audio/mpeg" length="33655609" />
+      <guid isPermaLink="false">urn:uuid:184d55e4-7938-5dd3-950c-eaf53388ce95</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:59</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 08</title>
+      <link>https://oshoworld.com/the-path-of-yoga-08</link>
+      <enclosure url="https://oshoworld.com/uploads/music/008-Yoga_The_Alpha___Omega_01_08.mp3" type="audio/mpeg" length="31889804" />
+      <guid isPermaLink="false">urn:uuid:529734e1-c42f-557a-9425-d566e254ae80</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 09</title>
+      <link>https://oshoworld.com/the-path-of-yoga-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2009.mp3" type="audio/mpeg" length="32325558" />
+      <guid isPermaLink="false">urn:uuid:cc08f830-b5b7-59ae-9ffc-64f917681b44</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:18</itunes:duration>
+    </item>
+    <item>
+      <title>The Path of Yoga 10</title>
+      <link>https://oshoworld.com/the-path-of-yoga-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-1-the-path-of-yoga-series/The%20Path%20Of%20Yoga%2010.mp3" type="audio/mpeg" length="32704856" />
+      <guid isPermaLink="false">urn:uuid:6fdd5369-8af4-5293-adc3-8871d7a89380</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:21</itunes:duration>
+    </item>
+  </channel>
+</rss>

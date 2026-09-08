@@ -1,131 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kahe Kabir Main Pura Paya</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kahe Kabir Main Pura Paya (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kahe-kabir-main-pura-paya-by-osho-01-20</link>
+    <description>Osho discourse series: Kahe Kabir Main Pura Paya. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kahe%20Kabir%20Main%20Pura%20Paya.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kahe Kabir Main Pura Paya 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 01</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_01.mp3" type="audio/mpeg" length="39890929" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:16</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 02</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_02.mp3" type="audio/mpeg" length="31669323" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:20</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 03</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_03.mp3" type="audio/mpeg" length="28941704" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:23</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 04</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_04.mp3" type="audio/mpeg" length="26041077" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:02</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 05</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_05.mp3" type="audio/mpeg" length="30209079" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:56</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 06</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_06.mp3" type="audio/mpeg" length="42896194" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:44</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 07</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_07.mp3" type="audio/mpeg" length="32785644" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:32</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 08</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_08.mp3" type="audio/mpeg" length="38304247" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:32</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 09</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_09.mp3" type="audio/mpeg" length="33884757" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:03</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 10</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_10.mp3" type="audio/mpeg" length="28357669" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:03</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 11</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_11.mp3" type="audio/mpeg" length="45352969" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:42</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 12</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_12.mp3" type="audio/mpeg" length="38349263" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:53</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 13</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_13.mp3" type="audio/mpeg" length="40182487" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:44</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 14</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_14.mp3" type="audio/mpeg" length="33651307" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:05</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 15</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_15.mp3" type="audio/mpeg" length="43120408" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:25</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 16</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_16.mp3" type="audio/mpeg" length="37131121" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:04</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 17</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_17.mp3" type="audio/mpeg" length="38532479" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:47</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 18</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_18.mp3" type="audio/mpeg" length="41523883" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:58</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 19</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_19.mp3" type="audio/mpeg" length="40813944" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:13</itunes:duration>
     </item>
     <item>
-      <title>Kahe Kabir Main Pura Paya 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Kabir Main Pura Paya 20</title>
+      <link>https://oshoworld.com/kahe-kabir-main-pura-paya-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Kabir_Main_Pura_Paya_20.mp3" type="audio/mpeg" length="43792826" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/084-Kahe%20Kabir%20Main%20Pura%20Paya%2001-20%20%E2%80%93%20Osho%20World/OSHO-Kahe_Kabir_Main_Pura_Paya_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:25</itunes:duration>
     </item>
   </channel>
 </rss>

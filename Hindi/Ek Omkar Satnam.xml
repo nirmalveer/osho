@@ -1,131 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ek Omkar Satnam</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ek Omkar Satnam (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/ek-omkar-satnam-by-osho-01-20</link>
+    <description>Osho discourse series: Ek Omkar Satnam. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ek%20Omkar%20Satnam.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ek Omkar Satnam 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 01</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_01.mp3" type="audio/mpeg" length="38497581" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:15</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 02</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_02.mp3" type="audio/mpeg" length="36595112" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:59</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 03</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_03.mp3" type="audio/mpeg" length="37617859" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:38</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 04</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_04.mp3" type="audio/mpeg" length="34027560" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:37</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 05</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_05.mp3" type="audio/mpeg" length="35678376" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:41</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 06</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_06.mp3" type="audio/mpeg" length="39844263" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:41</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 07</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_07.mp3" type="audio/mpeg" length="30461562" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:34</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 08</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_08.mp3" type="audio/mpeg" length="26436577" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:14</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 09</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_09.mp3" type="audio/mpeg" length="31788560" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:51</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 10</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_10.mp3" type="audio/mpeg" length="29768948" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:32</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 11</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_11.mp3" type="audio/mpeg" length="41989003" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:25</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 12</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_12.mp3" type="audio/mpeg" length="32027321" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:15</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 13</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_13.mp3" type="audio/mpeg" length="28112224" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:55</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 14</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_14.mp3" type="audio/mpeg" length="33295799" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:54</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 15</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_15.mp3" type="audio/mpeg" length="29669189" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:41</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 16</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_16.mp3" type="audio/mpeg" length="32703110" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:01</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 17</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_17.mp3" type="audio/mpeg" length="34915774" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:03</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 18</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_18.mp3" type="audio/mpeg" length="40591113" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:52</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 19</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_19.mp3" type="audio/mpeg" length="35580732" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:23</itunes:duration>
     </item>
     <item>
-      <title>Ek Omkar Satnam 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Ek Omkar Satnam 20</title>
+      <link>https://oshoworld.com/ek-omkar-satnam-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Omkar_Satnam_20.mp3" type="audio/mpeg" length="38699455" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/037-Ek%20Omkar%20Satnam/OSHO-Ek_Omkar_Satnam_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:17</itunes:duration>
     </item>
   </channel>
 </rss>

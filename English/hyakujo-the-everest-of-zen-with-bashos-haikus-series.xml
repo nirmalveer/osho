@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Hyakujo The Everest of Zen with Basho's Haikus</title>
+    <link>https://oshoworld.com/hyakujo-the-everest-of-zen-with-bashos-haikus-series</link>
+    <description>Osho discourse series: Hyakujo The Everest of Zen with Basho's Haikus. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/hyakujo-the-everest-of-zen-with-bashos-haikus-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyakujo The Everest of Zen 01</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2001.mp3" type="audio/mpeg" length="36331597" />
+      <guid isPermaLink="false">urn:uuid:8f1024c2-2e0e-51ec-bcfa-3386bc65a6a5</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:42</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 02</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2002.mp3" type="audio/mpeg" length="48512704" />
+      <guid isPermaLink="false">urn:uuid:70ca7053-2e37-50ab-bdd8-1c50b3663b64</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:11:32</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 03</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2003.mp3" type="audio/mpeg" length="50978925" />
+      <guid isPermaLink="false">urn:uuid:1c15e8f9-1f24-5e66-a2ca-576b5476b321</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:18:23</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 04</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2004.mp3" type="audio/mpeg" length="56118412" />
+      <guid isPermaLink="false">urn:uuid:340ec7e9-1622-5791-81a0-0479c3004f0b</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:32:40</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 05</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2005.mp3" type="audio/mpeg" length="35378807" />
+      <guid isPermaLink="false">urn:uuid:869ea274-ed50-5ff7-8ae2-0ceaccd12074</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:03</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 06</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2006.mp3" type="audio/mpeg" length="24693106" />
+      <guid isPermaLink="false">urn:uuid:28ebfb09-b5ce-5263-9c08-9ab731db5baa</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:22</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 07</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2007.mp3" type="audio/mpeg" length="30679431" />
+      <guid isPermaLink="false">urn:uuid:e59b34d1-6b16-5ea5-9ee0-510225ad1391</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:00</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 08</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2008.mp3" type="audio/mpeg" length="31447588" />
+      <guid isPermaLink="false">urn:uuid:14d94352-773a-5003-a998-b74f1bd76b08</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:08</itunes:duration>
+    </item>
+    <item>
+      <title>Hyakujo The Everest of Zen 09</title>
+      <link>https://oshoworld.com/hyakujo-the-everest-of-zen-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/hyakujo-the-everest-of-zen-with-bashos-haikus-series/Hyakujo%20The%20Everest%20Of%20Zen%2009.mp3" type="audio/mpeg" length="26904789" />
+      <guid isPermaLink="false">urn:uuid:062d9dcb-056d-5ef0-89b1-289ccc338d56</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:31</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tao Vol 3: Undone The Three Treasures</title>
+    <link>https://oshoworld.com/tao-vol-3-undone-the-three-treasures-series</link>
+    <description>Osho discourse series: Tao Vol 3: Undone The Three Treasures. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/tao-vol-3-undone-the-three-treasures-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undone Tao 01</title>
+      <link>https://oshoworld.com/undone-tao-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2001.mp3" type="audio/mpeg" length="29068345" />
+      <guid isPermaLink="false">urn:uuid:634add20-e8e9-5a8c-a2de-c5a4757d721b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:50</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 02</title>
+      <link>https://oshoworld.com/undone-tao-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2002.mp3" type="audio/mpeg" length="28315549" />
+      <guid isPermaLink="false">urn:uuid:7b872553-2dd6-546e-8627-fa89303695b6</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:45</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 03</title>
+      <link>https://oshoworld.com/undone-tao-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2003.mp3" type="audio/mpeg" length="29289498" />
+      <guid isPermaLink="false">urn:uuid:be3cd45d-9622-52d8-9f62-11de56eef0dc</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:27</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 04</title>
+      <link>https://oshoworld.com/undone-tao-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2004.mp3" type="audio/mpeg" length="31156992" />
+      <guid isPermaLink="false">urn:uuid:55f11b88-0aef-565b-9a9c-0ed5440c8d9e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:39</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 05</title>
+      <link>https://oshoworld.com/undone-tao-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2005.mp3" type="audio/mpeg" length="30315953" />
+      <guid isPermaLink="false">urn:uuid:3ccf8d13-ce7d-5724-b5db-8e90f497f9e7</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:18</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 06</title>
+      <link>https://oshoworld.com/undone-tao-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2006.mp3" type="audio/mpeg" length="31233635" />
+      <guid isPermaLink="false">urn:uuid:baa9a885-56b0-5de7-a709-1cd40af2bd02</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:51</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 07</title>
+      <link>https://oshoworld.com/undone-tao-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2007.mp3" type="audio/mpeg" length="28133580" />
+      <guid isPermaLink="false">urn:uuid:89fb36d6-8d23-5e55-95e7-34a3117a8607</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:15</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 08</title>
+      <link>https://oshoworld.com/undone-tao-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2008.mp3" type="audio/mpeg" length="30713589" />
+      <guid isPermaLink="false">urn:uuid:dc6dcb60-7e28-509c-bbda-f8fc84d2294c</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:25</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 09</title>
+      <link>https://oshoworld.com/undone-tao-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2009.mp3" type="audio/mpeg" length="33361779" />
+      <guid isPermaLink="false">urn:uuid:d4e98453-d851-5798-a4f7-63d87bb51ae5</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:46</itunes:duration>
+    </item>
+    <item>
+      <title>Undone Tao 10</title>
+      <link>https://oshoworld.com/undone-tao-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-3-undone-the-three-treasures-series/Undone%20Tao%2010.mp3" type="audio/mpeg" length="35811229" />
+      <guid isPermaLink="false">urn:uuid:360d8f7a-ac21-52da-9e36-bb8388bf6d63</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:34</itunes:duration>
+    </item>
+  </channel>
+</rss>

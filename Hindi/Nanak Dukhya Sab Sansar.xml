@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Nanak Dukhya Sab Sansar</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Nanak Dukhya Sab Sansar (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/nanak-dukhya-sab-sansar-by-osho-01-08</link>
+    <description>Osho discourse series: Nanak Dukhya Sab Sansar. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Nanak%20Dukhya%20Sab%20Sansar.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nanak Dukhya Sab Sansar 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 01</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_01.mp3" type="audio/mpeg" length="25095267" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:40</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 02</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_02.mp3" type="audio/mpeg" length="32485306" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:52</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 03</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_03.mp3" type="audio/mpeg" length="23343816" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:14</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 04</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_04.mp3" type="audio/mpeg" length="18600506" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:48</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 05</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_05.mp3" type="audio/mpeg" length="3507876" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:10:52</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 06</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_06.mp3" type="audio/mpeg" length="16325182" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:34:50</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 07</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_07.mp3" type="audio/mpeg" length="27022136" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:46</itunes:duration>
     </item>
     <item>
-      <title>Nanak Dukhya Sab Sansar 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Nanak Dukhya Sab Sansar 08</title>
+      <link>https://oshoworld.com/nanak-dukhya-sab-sansar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nanak_Dukhya_Sab_Sansar_08.mp3" type="audio/mpeg" length="32951451" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/120-Nanak%20Dukhya%20Sab%20Sansar%2001-08%20%E2%80%93%20Osho%20World/OSHO-Nanak_Dukhya_Sab_Sansar_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:05</itunes:duration>
     </item>
   </channel>
 </rss>

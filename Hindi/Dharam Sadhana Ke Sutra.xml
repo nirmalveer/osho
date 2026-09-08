@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Dharam Sadhana Ke Sutra</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Dharam Sadhana Ke Sutra (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/dharam-sadhana-ke-sutra-by-osho-01-10</link>
+    <description>Osho discourse series: Dharam Sadhana Ke Sutra. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Dharam%20Sadhana%20Ke%20Sutra.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dharam Sadhana Ke Sutra 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 01</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_01.mp3" type="audio/mpeg" length="21154474" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:13</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 02</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_02.mp3" type="audio/mpeg" length="27655052" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:14</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 03</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_03.mp3" type="audio/mpeg" length="18874351" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:46:47</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 04</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_04.mp3" type="audio/mpeg" length="31339829" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:33</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 05</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_05.mp3" type="audio/mpeg" length="3202714" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:07:33</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 06</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_06.mp3" type="audio/mpeg" length="27047067" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:57</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 07</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_07.mp3" type="audio/mpeg" length="27131215" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:06</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 08</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_08.mp3" type="audio/mpeg" length="19218888" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:16</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 09</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_09.mp3" type="audio/mpeg" length="21791477" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:58</itunes:duration>
     </item>
     <item>
-      <title>Dharam Sadhana Ke Sutra 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Sadhana Ke Sutra 10</title>
+      <link>https://oshoworld.com/dharam-sadhana-ke-sutra-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Sadhana_Ke_Sutra_10.mp3" type="audio/mpeg" length="9345301" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/029-Dharam%20Sadhana%20Ke%20Sutra/OSHO-Dharam_Sadhana_Ke_Sutra_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:23:57</itunes:duration>
     </item>
   </channel>
 </rss>

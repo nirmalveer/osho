@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tantra The Supreme Understanding</title>
+    <link>https://oshoworld.com/tantra-the-supreme-understanding-series</link>
+    <description>Osho discourse series: Tantra The Supreme Understanding. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/tantra-the-supreme-understanding-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tantra The Supreme Understanding 01</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2001.mp3" type="audio/mpeg" length="37871907" />
+      <guid isPermaLink="false">urn:uuid:c1ee08fb-f232-50a4-90dc-d0d526a2b0d7</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:02</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 02</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2002.mp3" type="audio/mpeg" length="33646967" />
+      <guid isPermaLink="false">urn:uuid:0fdffbe6-ff95-5c44-a4b6-65800a12f9c6</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:17</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 03</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2003.mp3" type="audio/mpeg" length="27985239" />
+      <guid isPermaLink="false">urn:uuid:dcd1d2a2-a158-5041-833d-cbaa60657011</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:34</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 04</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2004.mp3" type="audio/mpeg" length="31142973" />
+      <guid isPermaLink="false">urn:uuid:9fbf433f-44b9-5585-865c-f0a8d984d1e4</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:20</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 05</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2005.mp3" type="audio/mpeg" length="41745605" />
+      <guid isPermaLink="false">urn:uuid:b36784f6-20be-594a-8aa5-b874f22fe9b3</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:47</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 06</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2006.mp3" type="audio/mpeg" length="38547434" />
+      <guid isPermaLink="false">urn:uuid:4289b484-d992-5328-8c75-6f1ab0b7ae6f</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:54</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 07</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2007.mp3" type="audio/mpeg" length="36760188" />
+      <guid isPermaLink="false">urn:uuid:d997572f-a1e0-558f-b2e3-63111519521d</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:56</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 08</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2008.mp3" type="audio/mpeg" length="33503554" />
+      <guid isPermaLink="false">urn:uuid:66dbbc31-0654-5e90-b62b-1a4048988b46</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:54</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 09</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2009.mp3" type="audio/mpeg" length="33662640" />
+      <guid isPermaLink="false">urn:uuid:d51429c3-8868-5d52-b0cd-2b82d13d5c21</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:20</itunes:duration>
+    </item>
+    <item>
+      <title>Tantra The Supreme Understanding 10</title>
+      <link>https://oshoworld.com/tantra-the-supreme-understanding-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tantra-the-supreme-understanding-series/Tantra%20The%20Supreme%20Understanding%2010.mp3" type="audio/mpeg" length="45619773" />
+      <guid isPermaLink="false">urn:uuid:9854533c-de0e-5e67-ae2e-38b6090dd196</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:04:33</itunes:duration>
+    </item>
+  </channel>
+</rss>

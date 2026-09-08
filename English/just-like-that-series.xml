@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Just Like That</title>
+    <link>https://oshoworld.com/just-like-that-series</link>
+    <description>Osho discourse series: Just Like That. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/just-like-that-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just Like That 01</title>
+      <link>https://oshoworld.com/just-like-that-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2001.mp3" type="audio/mpeg" length="31717904" />
+      <guid isPermaLink="false">urn:uuid:bb15b65d-d59f-5ddd-90dc-a32d42fc6395</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:47</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 02</title>
+      <link>https://oshoworld.com/just-like-that-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2002.mp3" type="audio/mpeg" length="37035756" />
+      <guid isPermaLink="false">urn:uuid:c93b2bde-207a-5d23-a353-472178a0d82d</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:33</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 03</title>
+      <link>https://oshoworld.com/just-like-that-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2003.mp3" type="audio/mpeg" length="32108174" />
+      <guid isPermaLink="false">urn:uuid:c3340621-5512-5668-9e6f-1a9a9c374e7d</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:52</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 04</title>
+      <link>https://oshoworld.com/just-like-that-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2004.mp3" type="audio/mpeg" length="35152745" />
+      <guid isPermaLink="false">urn:uuid:e1e7ca9e-d939-525f-92db-24f4b1aff7e1</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:20</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 05</title>
+      <link>https://oshoworld.com/just-like-that-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2005.mp3" type="audio/mpeg" length="28863295" />
+      <guid isPermaLink="false">urn:uuid:ff0a69a9-a0db-5373-b3a1-99137857f960</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:51</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 06</title>
+      <link>https://oshoworld.com/just-like-that-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2006.mp3" type="audio/mpeg" length="28294819" />
+      <guid isPermaLink="false">urn:uuid:9a643f26-429d-5e3c-b5e5-65c6e5cb33f5</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:17</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 07</title>
+      <link>https://oshoworld.com/just-like-that-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2007.mp3" type="audio/mpeg" length="27330744" />
+      <guid isPermaLink="false">urn:uuid:2e7588a4-a228-5d50-83db-7571198c6cda</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:36</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 08</title>
+      <link>https://oshoworld.com/just-like-that-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2008.mp3" type="audio/mpeg" length="30480014" />
+      <guid isPermaLink="false">urn:uuid:c5dc5ebb-41cb-5faa-82d3-25ba93869dca</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:21</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 09</title>
+      <link>https://oshoworld.com/just-like-that-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2009.mp3" type="audio/mpeg" length="29086642" />
+      <guid isPermaLink="false">urn:uuid:c6928754-00dd-54e0-9525-ca36fbdc9d61</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:28</itunes:duration>
+    </item>
+    <item>
+      <title>Just Like That 10</title>
+      <link>https://oshoworld.com/just-like-that-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/just-like-that-series/Just%20Like%20That%2010.mp3" type="audio/mpeg" length="37746861" />
+      <guid isPermaLink="false">urn:uuid:f67a840d-a882-5d2d-b9f4-a71e0ea490b4</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:32</itunes:duration>
+    </item>
+  </channel>
+</rss>

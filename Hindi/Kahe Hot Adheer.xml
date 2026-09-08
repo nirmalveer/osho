@@ -1,125 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kahe Hot Adheer</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kahe Hot Adheer (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kahe-hot-adheer-by-osho-01-19</link>
+    <description>Osho discourse series: Kahe Hot Adheer. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kahe%20Hot%20Adheer.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kahe Hot Adheer 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 01</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_01.mp3" type="audio/mpeg" length="43300077" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:47</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 02</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_02.mp3" type="audio/mpeg" length="42361398" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:41</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 03</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_03.mp3" type="audio/mpeg" length="38817247" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:32</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 04</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_04.mp3" type="audio/mpeg" length="40348303" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:34</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 05</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_05.mp3" type="audio/mpeg" length="36968941" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:06</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 06</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_06.mp3" type="audio/mpeg" length="43121279" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:21</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 07</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_07.mp3" type="audio/mpeg" length="51359779" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:51</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 08</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_08.mp3" type="audio/mpeg" length="46449130" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:40</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 09</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_09.mp3" type="audio/mpeg" length="52790767" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:58:22</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 10</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_10.mp3" type="audio/mpeg" length="33243053" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:53</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 11</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_11.mp3" type="audio/mpeg" length="34675206" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:28</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 12</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_12.mp3" type="audio/mpeg" length="47758283" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:44</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 13</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_13.mp3" type="audio/mpeg" length="44745156" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:57</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 14</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_14.mp3" type="audio/mpeg" length="39676289" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:35</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 15</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_15.mp3" type="audio/mpeg" length="37053626" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:40</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 16</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_16.mp3" type="audio/mpeg" length="39137254" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:08</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 17</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_17.mp3" type="audio/mpeg" length="37403383" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:02</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 18</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_18.mp3" type="audio/mpeg" length="39985310" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:49</itunes:duration>
     </item>
     <item>
-      <title>Kahe Hot Adheer 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Kahe Hot Adheer 19</title>
+      <link>https://oshoworld.com/kahe-hot-adheer-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kahe_Hot_Adheer_19.mp3" type="audio/mpeg" length="46483198" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/088-Kahe%20Hot%20Adheer%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kahe_Hot_Adheer_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:05</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Prophet</title>
+    <link>https://oshoworld.com/the-prophet-series</link>
+    <description>Osho discourse series: The Prophet. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-prophet-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 01</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2001.mp3" type="audio/mpeg" length="44360132" />
+      <guid isPermaLink="false">urn:uuid:3578389b-4404-5032-a85d-29a156525f3e</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:13</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 02</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2002.mp3" type="audio/mpeg" length="45333924" />
+      <guid isPermaLink="false">urn:uuid:f67b5f3f-9588-5e8b-b9b5-6ce338c061f9</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:55</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 03</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2003.mp3" type="audio/mpeg" length="41545333" />
+      <guid isPermaLink="false">urn:uuid:88935891-fc51-58cd-80db-c557bb054955</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:23</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 04</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2004.mp3" type="audio/mpeg" length="44548840" />
+      <guid isPermaLink="false">urn:uuid:252aa5ae-3d7c-5969-90dc-eaf764d40615</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:44</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 05</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2005.mp3" type="audio/mpeg" length="49676416" />
+      <guid isPermaLink="false">urn:uuid:27592dd3-9f19-5e39-84f0-96ac0fdd4e14</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:14:59</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 06</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2006.mp3" type="audio/mpeg" length="46189696" />
+      <guid isPermaLink="false">urn:uuid:e11b7aab-f71e-5898-8c89-ce6a3ad6bcb6</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:18</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 07</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2007.mp3" type="audio/mpeg" length="28936654" />
+      <guid isPermaLink="false">urn:uuid:93b4d92a-d78d-5064-bde8-0f0ef7400d60</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:22</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 08</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2008.mp3" type="audio/mpeg" length="42327283" />
+      <guid isPermaLink="false">urn:uuid:247d98fa-8e53-56d5-9e77-c5b6118c6dab</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:34</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 09</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2009.mp3" type="audio/mpeg" length="52648732" />
+      <guid isPermaLink="false">urn:uuid:c1dab759-53cd-55df-94d9-b32297e6db3c</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:23:14</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 10</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2010.mp3" type="audio/mpeg" length="47885095" />
+      <guid isPermaLink="false">urn:uuid:5bb0de23-31d9-580e-a0f6-2d869130178f</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:00</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 11</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2011.mp3" type="audio/mpeg" length="44890522" />
+      <guid isPermaLink="false">urn:uuid:08ee83c1-209c-5701-8f6f-06a210f9ad9b</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:41</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 12</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2012.mp3" type="audio/mpeg" length="58805585" />
+      <guid isPermaLink="false">urn:uuid:1efcbc6a-ca4d-5a35-a869-a3392381124f</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:40:20</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 13</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2013.mp3" type="audio/mpeg" length="42445931" />
+      <guid isPermaLink="false">urn:uuid:132d0bfe-7eb6-5f21-b75e-7c0269fa53cd</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:54</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 14</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2014.mp3" type="audio/mpeg" length="42807988" />
+      <guid isPermaLink="false">urn:uuid:ebf63b66-40c4-5c30-b752-4e7d93d4ee21</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:54</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 15</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2015.mp3" type="audio/mpeg" length="53528014" />
+      <guid isPermaLink="false">urn:uuid:ddf40e81-56fd-5e43-a7a3-839b4774bfcc</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:25:41</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 16</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2016.mp3" type="audio/mpeg" length="52789323" />
+      <guid isPermaLink="false">urn:uuid:09051e6c-b333-55f3-a60a-648cdcd80f5c</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:23:37</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 17</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2017.mp3" type="audio/mpeg" length="53099031" />
+      <guid isPermaLink="false">urn:uuid:9d698aa7-aff0-54d8-9934-f7329f658580</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:24:29</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 18</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2018.mp3" type="audio/mpeg" length="56021350" />
+      <guid isPermaLink="false">urn:uuid:0df67852-6f43-51ce-97b1-e04c5f5b8409</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:32:36</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 19</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2019.mp3" type="audio/mpeg" length="56268207" />
+      <guid isPermaLink="false">urn:uuid:6ec1c9a4-dbf3-5f55-a5f9-68fa40dadfcd</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:33:17</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 20</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2020.mp3" type="audio/mpeg" length="47921927" />
+      <guid isPermaLink="false">urn:uuid:4c06bc8e-c4d1-5650-a093-2ddf90f6af71</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:06</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 21</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2021.mp3" type="audio/mpeg" length="39859652" />
+      <guid isPermaLink="false">urn:uuid:2bf95e00-f2a3-5e5a-9180-71e5fe783db5</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:42</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 22</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2022.mp3" type="audio/mpeg" length="48673470" />
+      <guid isPermaLink="false">urn:uuid:be1c4528-9890-5404-9b07-506bf1cba0cc</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:11</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 1) 23</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-1-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%201%2023.mp3" type="audio/mpeg" length="51910669" />
+      <guid isPermaLink="false">urn:uuid:0853b20e-5ed9-5f0f-ac67-53fca308e9d1</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:21:11</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 01</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2001.mp3" type="audio/mpeg" length="57463779" />
+      <guid isPermaLink="false">urn:uuid:984043b0-74fa-5dd7-a7ae-abcba09c184c</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:36:37</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 02</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2002.mp3" type="audio/mpeg" length="59456661" />
+      <guid isPermaLink="false">urn:uuid:4dc8483f-586a-5fbd-a8cd-1d660fc5a73d</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:42:09</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 03</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2003.mp3" type="audio/mpeg" length="39097921" />
+      <guid isPermaLink="false">urn:uuid:5acc1ca1-b5e1-5976-81b8-c2679e418e0c</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:36</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 04</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2004.mp3" type="audio/mpeg" length="47571782" />
+      <guid isPermaLink="false">urn:uuid:e1a823da-d223-5844-8e0f-34ea70590d3e</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:08</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 05</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2005.mp3" type="audio/mpeg" length="46904406" />
+      <guid isPermaLink="false">urn:uuid:525c6ffa-005a-5fc2-a60b-29eae7843dfc</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:17</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 06</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2006.mp3" type="audio/mpeg" length="41643449" />
+      <guid isPermaLink="false">urn:uuid:422d316d-83cf-51f3-954a-a68a87868bb1</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:40</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 07</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2007.mp3" type="audio/mpeg" length="57400301" />
+      <guid isPermaLink="false">urn:uuid:41f7f680-d3eb-548f-b000-0fb55c9cef84</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:36:26</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 08</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2008.mp3" type="audio/mpeg" length="45161986" />
+      <guid isPermaLink="false">urn:uuid:322a2168-7c1d-5299-ae21-82bf67bf00d9</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:26</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 09</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2009.mp3" type="audio/mpeg" length="40944256" />
+      <guid isPermaLink="false">urn:uuid:e6b4fda0-c8a4-5044-974b-b83c4be68737</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:43</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 10</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2010.mp3" type="audio/mpeg" length="57666750" />
+      <guid isPermaLink="false">urn:uuid:759e3011-d800-5ea1-8d69-aa8e878a1cc0</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:37:10</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 11</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2011.mp3" type="audio/mpeg" length="45276716" />
+      <guid isPermaLink="false">urn:uuid:37409198-7f33-5ca4-8bfb-0b80ff296447</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:45</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 12</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2012.mp3" type="audio/mpeg" length="58869532" />
+      <guid isPermaLink="false">urn:uuid:fdca7ed6-535b-5345-bf1b-7783fa15be9a</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:40:31</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 13</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2013.mp3" type="audio/mpeg" length="42431198" />
+      <guid isPermaLink="false">urn:uuid:da8bc7fc-68b5-59cf-a60a-09887cebcd8d</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:51</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 14</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2014.mp3" type="audio/mpeg" length="57655936" />
+      <guid isPermaLink="false">urn:uuid:a11a4114-1ccf-50f3-a2c0-b173a8a30c63</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:37:09</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 15</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2015.mp3" type="audio/mpeg" length="47586829" />
+      <guid isPermaLink="false">urn:uuid:78d55692-0b24-5005-82c5-8bf891fac157</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:10</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 16</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2016.mp3" type="audio/mpeg" length="48950421" />
+      <guid isPermaLink="false">urn:uuid:cedfe196-5498-53e7-8c7b-964fb13fd529</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:58</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 17</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2017.mp3" type="audio/mpeg" length="40776863" />
+      <guid isPermaLink="false">urn:uuid:204f5461-3fa7-52b6-845a-376af1a5aa4e</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:15</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 18</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2018.mp3" type="audio/mpeg" length="42864726" />
+      <guid isPermaLink="false">urn:uuid:617930ca-94d1-55c5-8645-b9d286f6077c</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:03</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 19</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2019.mp3" type="audio/mpeg" length="36664458" />
+      <guid isPermaLink="false">urn:uuid:5b915177-66ed-5776-8a7c-23d20790ca47</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:50</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 20</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2020.mp3" type="audio/mpeg" length="41976981" />
+      <guid isPermaLink="false">urn:uuid:3dd66056-8efa-5450-9a29-e19d763ac0b6</guid>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:35</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 21</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2021.mp3" type="audio/mpeg" length="48057816" />
+      <guid isPermaLink="false">urn:uuid:5bf0eb4a-c32b-5f14-89a3-51029c81ec01</guid>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:29</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 22</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2022.mp3" type="audio/mpeg" length="47194522" />
+      <guid isPermaLink="false">urn:uuid:96a5ab8a-a917-511f-be5d-3a9b47d3b01e</guid>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:05</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 23</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2023.mp3" type="audio/mpeg" length="27977124" />
+      <guid isPermaLink="false">urn:uuid:08c4d2b6-18cc-56b3-babe-caa121b68027</guid>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:42</itunes:duration>
+    </item>
+    <item>
+      <title>Reflections on Kahlil Gibran's The Prophet (Vol 2) 24</title>
+      <link>https://oshoworld.com/reflections-on-kahlil-gibrans-the-prophet-vol-2-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-prophet-series/Reflections%20On%20Kahlil%20Gibrans%20The%20Prophet%20Vol%202%2024.mp3" type="audio/mpeg" length="34913732" />
+      <guid isPermaLink="false">urn:uuid:ab1fc248-72d6-5a37-aca0-3523d8864dcb</guid>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:58</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,125 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kathopanishad</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kathopanishad (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kathopanishad-by-osho-01-19</link>
+    <description>Osho discourse series: Kathopanishad. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kathopanishad.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kathopanishad 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 01</title>
+      <link>https://oshoworld.com/kathopanishad-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_01.mp3" type="audio/mpeg" length="47342867" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:23</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 02</title>
+      <link>https://oshoworld.com/kathopanishad-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_02.mp3" type="audio/mpeg" length="33408899" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:02</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 03</title>
+      <link>https://oshoworld.com/kathopanishad-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_03.mp3" type="audio/mpeg" length="23327494" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:34</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 04</title>
+      <link>https://oshoworld.com/kathopanishad-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_04.mp3" type="audio/mpeg" length="33938991" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:52</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 05</title>
+      <link>https://oshoworld.com/kathopanishad-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_05.mp3" type="audio/mpeg" length="20342914" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:42</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 06</title>
+      <link>https://oshoworld.com/kathopanishad-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_06.mp3" type="audio/mpeg" length="25335214" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:05</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 07</title>
+      <link>https://oshoworld.com/kathopanishad-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_07.mp3" type="audio/mpeg" length="20353476" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:46</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 08</title>
+      <link>https://oshoworld.com/kathopanishad-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_08.mp3" type="audio/mpeg" length="29021362" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:34</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 09</title>
+      <link>https://oshoworld.com/kathopanishad-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_09.mp3" type="audio/mpeg" length="23321889" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:54</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 10</title>
+      <link>https://oshoworld.com/kathopanishad-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_10.mp3" type="audio/mpeg" length="17155670" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:22</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 11</title>
+      <link>https://oshoworld.com/kathopanishad-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_11.mp3" type="audio/mpeg" length="29287044" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:42</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 12</title>
+      <link>https://oshoworld.com/kathopanishad-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_12.mp3" type="audio/mpeg" length="28144632" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:05</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 13</title>
+      <link>https://oshoworld.com/kathopanishad-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_13.mp3" type="audio/mpeg" length="27180866" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:03</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 14</title>
+      <link>https://oshoworld.com/kathopanishad-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_14.mp3" type="audio/mpeg" length="28008315" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:25</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 15</title>
+      <link>https://oshoworld.com/kathopanishad-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_15.mp3" type="audio/mpeg" length="26407729" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:12</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 16</title>
+      <link>https://oshoworld.com/kathopanishad-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_16.mp3" type="audio/mpeg" length="29258621" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:35</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Kathopanishad 17</title>
+      <link>https://oshoworld.com/kathopanishad-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_17.mp3" type="audio/mpeg" length="19876503" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:36</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_18.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_18.mp3</guid>
+      <title>Kathopanishad 18</title>
+      <link>https://oshoworld.com/kathopanishad-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_Dyanamic_18.mp3" type="audio/mpeg" length="11429430" />
+      <guid isPermaLink="false">urn:uuid:6331f32d-7dad-55f8-96c3-abc4ff8c9f86</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:36:37</itunes:duration>
     </item>
     <item>
-      <title>Kathopanishad 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_19.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/081-Kathopanishad%2001-19%20%E2%80%93%20Osho%20World/OSHO-Kathopanishad_19.mp3</guid>
+      <title>Kathopanishad 19</title>
+      <link>https://oshoworld.com/kathopanishad-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kathopanishad_Tratak_19.mp3" type="audio/mpeg" length="15551163" />
+      <guid isPermaLink="false">urn:uuid:23a9170a-986c-51d4-847f-4476d3f1c89c</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:32:23</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ma Tzu The Empty Mirror</title>
+    <link>https://oshoworld.com/ma-tzu-the-empty-mirror-series</link>
+    <description>Osho discourse series: Ma Tzu The Empty Mirror. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/ma-tzu-the-empty-mirror-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ma Tzu The Empty Mirror 01</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2001.mp3" type="audio/mpeg" length="33110797" />
+      <guid isPermaLink="false">urn:uuid:4950620a-959c-5df5-999e-a2d0005a2426</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:37</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 02</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2002.mp3" type="audio/mpeg" length="26599407" />
+      <guid isPermaLink="false">urn:uuid:40738105-804b-5a88-abb3-7f4007043427</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:32</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 03</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2003.mp3" type="audio/mpeg" length="27571322" />
+      <guid isPermaLink="false">urn:uuid:0bd682bb-95a4-5b95-91c0-a7f3459d6a47</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:14</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 04</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2004.mp3" type="audio/mpeg" length="22880410" />
+      <guid isPermaLink="false">urn:uuid:1181e50b-1741-56c2-8ecc-c374f092c73f</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:12</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 05</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2005.mp3" type="audio/mpeg" length="30466369" />
+      <guid isPermaLink="false">urn:uuid:73235ace-0ac7-5cc1-9a75-57b492987696</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:17</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 06</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2006.mp3" type="audio/mpeg" length="29000429" />
+      <guid isPermaLink="false">urn:uuid:139f1cfb-7db5-5787-ba35-fb42c1ca1b4f</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:12</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 07</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2007.mp3" type="audio/mpeg" length="46575247" />
+      <guid isPermaLink="false">urn:uuid:bc42caf3-c7c9-52a5-a929-92e02bde9558</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:01</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 08</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2008.mp3" type="audio/mpeg" length="42546068" />
+      <guid isPermaLink="false">urn:uuid:5f9e2d9d-f6c1-541f-8e73-80a4b834e44a</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:50</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 09</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2009.mp3" type="audio/mpeg" length="35165902" />
+      <guid isPermaLink="false">urn:uuid:27cff6ae-898a-5793-84e5-f6e870191863</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:20</itunes:duration>
+    </item>
+    <item>
+      <title>Ma Tzu The Empty Mirror 10</title>
+      <link>https://oshoworld.com/ma-tzu-the-empty-mirror-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/ma-tzu-the-empty-mirror-series/Ma%20Tzu%20The%20Empty%20Mirror%2010.mp3" type="audio/mpeg" length="31192521" />
+      <guid isPermaLink="false">urn:uuid:ccd5f317-f74e-5137-8e90-6709e1bd45e4</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:18</itunes:duration>
+    </item>
+  </channel>
+</rss>

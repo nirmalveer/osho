@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Piya KoKhojan Main Chali</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Piya KoKhojan Main Chali (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/piya-kokhojan-main-chali-by-osho-01-10</link>
+    <description>Osho discourse series: Piya KoKhojan Main Chali. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Piya%20KoKhojan%20Main%20Chali.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Piya KoKhojan Main Chali 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 01</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_01.mp3" type="audio/mpeg" length="44341958" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:30</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 02</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_02.mp3" type="audio/mpeg" length="40824828" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:22</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 03</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_03.mp3" type="audio/mpeg" length="45310347" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:26</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 04</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_04.mp3" type="audio/mpeg" length="43089161" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:39</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 05</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_05.mp3" type="audio/mpeg" length="40670467" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:08</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 06</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_06.mp3" type="audio/mpeg" length="42521466" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:25</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 07</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_07.mp3" type="audio/mpeg" length="40382480" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:56</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 08</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_08.mp3" type="audio/mpeg" length="42137681" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:37</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 09</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_09.mp3" type="audio/mpeg" length="42233590" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:35</itunes:duration>
     </item>
     <item>
-      <title>Piya KoKhojan Main Chali 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Piya KoKhojan Main Chali 10</title>
+      <link>https://oshoworld.com/piya-kokhojan-main-chali-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Piya_Ko_Khojan_Main_Chali_10.mp3" type="audio/mpeg" length="43054133" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/127-Piya%20KoKhojan%20Main%20Chali%2001-10%20%E2%80%93%20Osho%20World/OSHO-Piya_Ko_Khojan_Main_Chali_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:11</itunes:duration>
     </item>
   </channel>
 </rss>

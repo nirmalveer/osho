@@ -1,47 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Amrit Dwar</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Amrit Dwar (Hindi) — streamed from Internet Archive</description>
+    <title>Amrit Dwar (अमृत द्वार)</title>
+    <link>https://oshoworld.com/011-amrit-dwar-1-6</link>
+    <description>Osho discourse series: Amrit Dwar (अमृत द्वार). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Amrit%20Dwar.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amrit Dwar 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_01</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_01.mp3" type="audio/mpeg" length="20168567" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:53</itunes:duration>
     </item>
     <item>
-      <title>Amrit Dwar 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_02</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_02.mp3" type="audio/mpeg" length="22019961" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:04</itunes:duration>
     </item>
     <item>
-      <title>Amrit Dwar 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_03</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_03.mp3" type="audio/mpeg" length="19440287" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:52:30</itunes:duration>
     </item>
     <item>
-      <title>Amrit Dwar 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_04</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_04.mp3" type="audio/mpeg" length="25823820" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:16</itunes:duration>
     </item>
     <item>
-      <title>Amrit Dwar 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_05</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_05.mp3" type="audio/mpeg" length="23319514" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:07</itunes:duration>
     </item>
     <item>
-      <title>Amrit Dwar 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_06.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Amrit_Dwar_06</title>
+      <link>https://oshoworld.com/osho-amrit_dwar_06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Amrit_Dwar_06.mp3" type="audio/mpeg" length="26903581" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/011-Amrit%20Dwar/OSHO-Amrit_Dwar_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:26</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Tamso Ma Jyotirgamaya</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Tamso Ma Jyotirgamaya (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/tamso-ma-jyotirgamaya-by-osho-01-08</link>
+    <description>Osho discourse series: Tamso Ma Jyotirgamaya. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Tamso%20Ma%20Jyotirgamaya.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tamso Ma Jyotirgamaya 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 01</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_01.mp3" type="audio/mpeg" length="29352733" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:56</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 02</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_02.mp3" type="audio/mpeg" length="27977943" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:29</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 03</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_03.mp3" type="audio/mpeg" length="28248869" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:18</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 04</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_04.mp3" type="audio/mpeg" length="25029822" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:00</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 05</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_05.mp3" type="audio/mpeg" length="20446461" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:51</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 06</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_06.mp3" type="audio/mpeg" length="23080058" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:29</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 07</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_07.mp3" type="audio/mpeg" length="19397686" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:52:22</itunes:duration>
     </item>
     <item>
-      <title>Tamso Ma Jyotirgamaya 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Tamso Ma Jyotirgamaya 08</title>
+      <link>https://oshoworld.com/tamso-ma-jyotirgamaya-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Tamso_Ma_Jyotirgamaya_08.mp3" type="audio/mpeg" length="26859427" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/172-Tamso%20Ma%20Jyotirgamaya%2001-08%20%E2%80%93%20Osho%20World/OSHO-Tamso_Ma_Jyotirgamaya_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:31</itunes:duration>
     </item>
   </channel>
 </rss>

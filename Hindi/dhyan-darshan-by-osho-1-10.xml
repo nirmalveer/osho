@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Dhyan Darshan (ध्यान दर्शन)</title>
+    <link>https://oshoworld.com/dhyan-darshan-by-osho-1-10</link>
+    <description>Osho discourse series: Dhyan Darshan (ध्यान दर्शन). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/dhyan-darshan-by-osho-1-10.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 01</title>
+      <link>https://oshoworld.com/dhyan-darshan-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_01.mp3" type="audio/mpeg" length="23039387" />
+      <guid isPermaLink="false">urn:uuid:9a0c6d63-f791-57c8-ad65-438189a5105a</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:08</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 02</title>
+      <link>https://oshoworld.com/dhyan-darshan-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_02.mp3" type="audio/mpeg" length="13441832" />
+      <guid isPermaLink="false">urn:uuid:6d0a2c8a-833b-54f5-aa84-4b62fbcf1e91</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:58</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 03</title>
+      <link>https://oshoworld.com/dhyan-darshan-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_03.mp3" type="audio/mpeg" length="18623900" />
+      <guid isPermaLink="false">urn:uuid:076d59e5-b80b-5a05-853c-ea319f035192</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:49</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 04</title>
+      <link>https://oshoworld.com/dhyan-darshan-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_04.mp3" type="audio/mpeg" length="13197048" />
+      <guid isPermaLink="false">urn:uuid:349499fb-e6ee-5c47-bf25-7c57c5cb225b</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:32:30</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 05</title>
+      <link>https://oshoworld.com/dhyan-darshan-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_05.mp3" type="audio/mpeg" length="20815998" />
+      <guid isPermaLink="false">urn:uuid:da37633d-ce7f-5b69-b85e-6dcb2c171053</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:31</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 06</title>
+      <link>https://oshoworld.com/dhyan-darshan-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_06.mp3" type="audio/mpeg" length="3214900" />
+      <guid isPermaLink="false">urn:uuid:5268b45f-ab8a-52eb-a72a-21f0f4d317fa</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:08:32</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 07</title>
+      <link>https://oshoworld.com/dhyan-darshan-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_07.mp3" type="audio/mpeg" length="16569777" />
+      <guid isPermaLink="false">urn:uuid:0f3e9460-28be-5698-a62e-258c1b51b952</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:54</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 08</title>
+      <link>https://oshoworld.com/dhyan-darshan-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_08.mp3" type="audio/mpeg" length="13637652" />
+      <guid isPermaLink="false">urn:uuid:d4cd0abe-a535-5265-bb20-215413ebcfe9</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:29:16</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 09</title>
+      <link>https://oshoworld.com/dhyan-darshan-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_09.mp3" type="audio/mpeg" length="27968509" />
+      <guid isPermaLink="false">urn:uuid:52ad00d4-dade-5549-9b95-7557a457cdd9</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:29</itunes:duration>
+    </item>
+    <item>
+      <title>Dhyan Darshan (ध्यान दर्शन) 10</title>
+      <link>https://oshoworld.com/dhyan-darshan-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dhyan_Darshan_10.mp3" type="audio/mpeg" length="12173788" />
+      <guid isPermaLink="false">urn:uuid:1ee041e2-2a05-5037-aced-6c4dc2ff3e32</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:28:13</itunes:duration>
+    </item>
+  </channel>
+</rss>

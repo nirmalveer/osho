@@ -1,89 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sakshi Ki Sadhana</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sakshi Ki Sadhana (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sakshi-ki-sadhana-by-osho-01-13</link>
+    <description>Osho discourse series: Sakshi Ki Sadhana. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sakshi%20Ki%20Sadhana.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sakshi Ki Sadhana 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 01</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_01.mp3" type="audio/mpeg" length="16391530" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:40:46</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 02</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_02.mp3" type="audio/mpeg" length="15867819" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:57</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 03</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_03.mp3" type="audio/mpeg" length="20930019" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:48</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 04</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_04.mp3" type="audio/mpeg" length="25147858" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:18</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 05</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_05.mp3" type="audio/mpeg" length="24693010" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:58</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 06</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_06.mp3" type="audio/mpeg" length="26474369" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:02</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 07</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_07.mp3" type="audio/mpeg" length="20062691" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:33</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 08</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_08.mp3" type="audio/mpeg" length="27146243" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:19</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 09</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_09.mp3" type="audio/mpeg" length="7175069" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:17:12</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 10</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_10.mp3" type="audio/mpeg" length="25252197" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:10</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 11</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_11.mp3" type="audio/mpeg" length="17638504" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:21</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 12</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_12.mp3" type="audio/mpeg" length="15809496" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:36:44</itunes:duration>
     </item>
     <item>
-      <title>Sakshi Ki Sadhana 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Sakshi Ki Sadhana 13</title>
+      <link>https://oshoworld.com/sakshi-ki-sadhana-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sakshi_Ki_Sadhana_13.mp3" type="audio/mpeg" length="15061106" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/155-Sakshi%20Ki%20Sadhana%2001-13%20%E2%80%93%20Osho%20World/OSHO-Sakshi_Ki_Sadhana_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:36:01</itunes:duration>
     </item>
   </channel>
 </rss>

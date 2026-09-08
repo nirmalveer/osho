@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ek Ek Kadam (एक एक कदम)</title>
+    <link>https://oshoworld.com/ek-ek-kadam-by-osho-1-7</link>
+    <description>Osho discourse series: Ek Ek Kadam (एक एक कदम). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/ek-ek-kadam-by-osho-1-7.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 01</title>
+      <link>https://oshoworld.com/ek-ek-kadam-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_01.mp3" type="audio/mpeg" length="21193228" />
+      <guid isPermaLink="false">urn:uuid:a65d9f2b-670a-5e7b-b001-c4f7c4bb9b80</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:54</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 02</title>
+      <link>https://oshoworld.com/ek-ek-kadam-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_02.mp3" type="audio/mpeg" length="22670157" />
+      <guid isPermaLink="false">urn:uuid:7056e914-faf3-55ff-83e1-d16da44643ed</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:09</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 03</title>
+      <link>https://oshoworld.com/ek-ek-kadam-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_03.mp3" type="audio/mpeg" length="25028543" />
+      <guid isPermaLink="false">urn:uuid:01cf4156-2e42-5a79-8073-6706d9c59a90</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:33</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 04</title>
+      <link>https://oshoworld.com/ek-ek-kadam-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_04.mp3" type="audio/mpeg" length="25863446" />
+      <guid isPermaLink="false">urn:uuid:f47675f2-624a-593e-9595-584c5324c2d9</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:07</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 05</title>
+      <link>https://oshoworld.com/ek-ek-kadam-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_05.mp3" type="audio/mpeg" length="16592326" />
+      <guid isPermaLink="false">urn:uuid:1563a6d4-ee25-54b7-9a82-f9b5bf3865e1</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:36:27</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 06</title>
+      <link>https://oshoworld.com/ek-ek-kadam-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_06.mp3" type="audio/mpeg" length="23434629" />
+      <guid isPermaLink="false">urn:uuid:4cc1a7ee-6213-59fd-9489-644c790aa969</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:38</itunes:duration>
+    </item>
+    <item>
+      <title>Ek Ek Kadam (एक एक कदम) 07</title>
+      <link>https://oshoworld.com/ek-ek-kadam-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ek_Ek_Kadam_07.mp3" type="audio/mpeg" length="27435736" />
+      <guid isPermaLink="false">urn:uuid:677c7472-5e2d-5935-97cb-43f77cc39983</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

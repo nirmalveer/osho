@@ -1,35 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Shunya Ke Par</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Shunya Ke Par (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/shunya-ke-par-by-osho-01-04</link>
+    <description>Osho discourse series: Shunya Ke Par. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Shunya%20Ke%20Par.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shunya Ke Par 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Ke Par 01</title>
+      <link>https://oshoworld.com/shunya-ke-par-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ke_Par_01.mp3" type="audio/mpeg" length="25507795" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:06</itunes:duration>
     </item>
     <item>
-      <title>Shunya Ke Par 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Ke Par 02</title>
+      <link>https://oshoworld.com/shunya-ke-par-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ke_Par_02.mp3" type="audio/mpeg" length="27297019" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:32</itunes:duration>
     </item>
     <item>
-      <title>Shunya Ke Par 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Ke Par 03</title>
+      <link>https://oshoworld.com/shunya-ke-par-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ke_Par_03.mp3" type="audio/mpeg" length="21293478" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:20</itunes:duration>
     </item>
     <item>
-      <title>Shunya Ke Par 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Shunya Ke Par 04</title>
+      <link>https://oshoworld.com/shunya-ke-par-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shunya_Ke_Par_04.mp3" type="audio/mpeg" length="18493209" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/158-Shunya%20Ke%20Par%2001-04%20%E2%80%93%20Osho%20World/OSHO-Shunya_Ke_Par_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:23</itunes:duration>
     </item>
   </channel>
 </rss>

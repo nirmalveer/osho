@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>That Art Thou</title>
+    <link>https://oshoworld.com/that-art-thou-series</link>
+    <description>Osho discourse series: That Art Thou. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/that-art-thou-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>That Art Thou 01</title>
+      <link>https://oshoworld.com/that-art-thou-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2001.mp3" type="audio/mpeg" length="7409761" />
+      <guid isPermaLink="false">urn:uuid:5a4e30aa-7920-54cf-8b2a-61e0e44205d1</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>18:40</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 02</title>
+      <link>https://oshoworld.com/that-art-thou-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2002.mp3" type="audio/mpeg" length="7155169" />
+      <guid isPermaLink="false">urn:uuid:6ed7f6c4-701e-529d-8033-fb0f655624c0</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>17:58</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 03</title>
+      <link>https://oshoworld.com/that-art-thou-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2003.mp3" type="audio/mpeg" length="11794273" />
+      <guid isPermaLink="false">urn:uuid:9e3a2b3d-5331-5d66-9a36-705958e3e71a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>30:51</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 05</title>
+      <link>https://oshoworld.com/that-art-thou-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2005.mp3" type="audio/mpeg" length="9516625" />
+      <guid isPermaLink="false">urn:uuid:df6d6418-8bc5-51f9-8f11-3f79b9d287d0</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>24:31</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 06</title>
+      <link>https://oshoworld.com/that-art-thou-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2006.mp3" type="audio/mpeg" length="15153793" />
+      <guid isPermaLink="false">urn:uuid:0a9c977e-08d7-5da7-aff9-664f7ccde6d4</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>40:11</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 07</title>
+      <link>https://oshoworld.com/that-art-thou-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2007.mp3" type="audio/mpeg" length="11724865" />
+      <guid isPermaLink="false">urn:uuid:35718141-1cb6-576b-8d46-c26c55518691</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>30:39</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 08</title>
+      <link>https://oshoworld.com/that-art-thou-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2008.mp3" type="audio/mpeg" length="16312417" />
+      <guid isPermaLink="false">urn:uuid:25c14a29-fd66-5afe-bd99-65200554f0d0</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>43:24</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 09</title>
+      <link>https://oshoworld.com/that-art-thou-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2009.mp3" type="audio/mpeg" length="13516081" />
+      <guid isPermaLink="false">urn:uuid:76d3609a-64f2-53d7-9211-e33508e86717</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>35:38</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 10</title>
+      <link>https://oshoworld.com/that-art-thou-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2010.mp3" type="audio/mpeg" length="17903223" />
+      <guid isPermaLink="false">urn:uuid:c9d28d52-d3e4-5aac-92a5-478e2bfc3295</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>47:49</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 11</title>
+      <link>https://oshoworld.com/that-art-thou-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2011.mp3" type="audio/mpeg" length="12414531" />
+      <guid isPermaLink="false">urn:uuid:3d555bb1-06f6-5aaf-bd11-35d184a1662e</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>32:34</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 12</title>
+      <link>https://oshoworld.com/that-art-thou-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2012.mp3" type="audio/mpeg" length="12467350" />
+      <guid isPermaLink="false">urn:uuid:064cd488-b4ef-588d-836f-55137989547d</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>32:43</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 13</title>
+      <link>https://oshoworld.com/that-art-thou-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2013.mp3" type="audio/mpeg" length="13635337" />
+      <guid isPermaLink="false">urn:uuid:0395c9a6-fe63-5d4e-97a7-a987ec348ab9</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>35:58</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 14</title>
+      <link>https://oshoworld.com/that-art-thou-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2014.mp3" type="audio/mpeg" length="5183419" />
+      <guid isPermaLink="false">urn:uuid:d05dd3ec-7b05-5d9e-84a8-0f25df1490da</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>12:29</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 15</title>
+      <link>https://oshoworld.com/that-art-thou-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2015.mp3" type="audio/mpeg" length="14405531" />
+      <guid isPermaLink="false">urn:uuid:918fd6be-bd07-5662-8758-423e00b3d2d5</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>38:06</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 16</title>
+      <link>https://oshoworld.com/that-art-thou-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2016.mp3" type="audio/mpeg" length="8358393" />
+      <guid isPermaLink="false">urn:uuid:7a47f62d-c985-5b3e-bda2-fc3bcd5c05ce</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>21:18</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 17</title>
+      <link>https://oshoworld.com/that-art-thou-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2017.mp3" type="audio/mpeg" length="16072248" />
+      <guid isPermaLink="false">urn:uuid:cd475e9a-a6cf-5e6c-9ac4-f86aae50e23c</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>42:44</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 18</title>
+      <link>https://oshoworld.com/that-art-thou-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2018.mp3" type="audio/mpeg" length="10939500" />
+      <guid isPermaLink="false">urn:uuid:9822c198-b62f-5da7-91e9-ef9bc242a641</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>28:29</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 19</title>
+      <link>https://oshoworld.com/that-art-thou-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2019.mp3" type="audio/mpeg" length="14504117" />
+      <guid isPermaLink="false">urn:uuid:615d270e-93ea-5805-8e15-7042356ee99e</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>38:23</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 20</title>
+      <link>https://oshoworld.com/that-art-thou-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2020.mp3" type="audio/mpeg" length="11491363" />
+      <guid isPermaLink="false">urn:uuid:439deb20-3899-5558-ac8e-255a99ec6076</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>30:01</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 21</title>
+      <link>https://oshoworld.com/that-art-thou-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2021.mp3" type="audio/mpeg" length="10881352" />
+      <guid isPermaLink="false">urn:uuid:258ce3fd-cbb6-59d6-8f3c-8cae42ad277b</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>28:19</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 22</title>
+      <link>https://oshoworld.com/that-art-thou-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2022.mp3" type="audio/mpeg" length="10783393" />
+      <guid isPermaLink="false">urn:uuid:c452542a-90c4-5233-ba49-8d8000a81a3c</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>28:03</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 23</title>
+      <link>https://oshoworld.com/that-art-thou-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2023.mp3" type="audio/mpeg" length="15396878" />
+      <guid isPermaLink="false">urn:uuid:096f9273-4f09-5aff-9b36-eabd8d573a30</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>40:51</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 24</title>
+      <link>https://oshoworld.com/that-art-thou-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2024.mp3" type="audio/mpeg" length="10558948" />
+      <guid isPermaLink="false">urn:uuid:d04fd4b9-27ef-5e8a-9145-1fea3e9be40f</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>27:25</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 25</title>
+      <link>https://oshoworld.com/that-art-thou-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2025.mp3" type="audio/mpeg" length="11475219" />
+      <guid isPermaLink="false">urn:uuid:394ba47d-c6c8-591d-a934-32f3d120b71a</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>29:58</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 26</title>
+      <link>https://oshoworld.com/that-art-thou-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2026.mp3" type="audio/mpeg" length="12164695" />
+      <guid isPermaLink="false">urn:uuid:dd8afaaf-bcf6-5a42-af3e-be9f86f0bced</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>31:53</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 27</title>
+      <link>https://oshoworld.com/that-art-thou-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2027.mp3" type="audio/mpeg" length="10657691" />
+      <guid isPermaLink="false">urn:uuid:accbab3d-d885-5054-81e6-cf5b8bb4f9cd</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>27:42</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 28</title>
+      <link>https://oshoworld.com/that-art-thou-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2028.mp3" type="audio/mpeg" length="7779415" />
+      <guid isPermaLink="false">urn:uuid:8c3950ea-68d8-5dc7-a99d-216f8082725c</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>19:42</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 29</title>
+      <link>https://oshoworld.com/that-art-thou-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2029.mp3" type="audio/mpeg" length="8824522" />
+      <guid isPermaLink="false">urn:uuid:9b0eb193-f14f-586b-b0c8-3e85aca4d82b</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>22:36</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 30</title>
+      <link>https://oshoworld.com/that-art-thou-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2030.mp3" type="audio/mpeg" length="12555122" />
+      <guid isPermaLink="false">urn:uuid:7a7a1e62-3d20-550b-a44b-80dc5b29c448</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>32:58</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 31</title>
+      <link>https://oshoworld.com/that-art-thou-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2031.mp3" type="audio/mpeg" length="11369737" />
+      <guid isPermaLink="false">urn:uuid:b0fff99b-4f48-51f3-8df7-78d534611eec</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>29:40</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 32</title>
+      <link>https://oshoworld.com/that-art-thou-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2032.mp3" type="audio/mpeg" length="6053923" />
+      <guid isPermaLink="false">urn:uuid:98d88293-17e3-548b-9b16-b055430800bd</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>14:54</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 33</title>
+      <link>https://oshoworld.com/that-art-thou-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2033.mp3" type="audio/mpeg" length="20163807" />
+      <guid isPermaLink="false">urn:uuid:cce16908-e221-57b6-b1ab-e30d398de503</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>54:06</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 34</title>
+      <link>https://oshoworld.com/that-art-thou-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2034.mp3" type="audio/mpeg" length="10812859" />
+      <guid isPermaLink="false">urn:uuid:c9382d8a-c21a-59d0-b30e-2b948736910f</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>28:07</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 35</title>
+      <link>https://oshoworld.com/that-art-thou-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2035.mp3" type="audio/mpeg" length="23450847" />
+      <guid isPermaLink="false">urn:uuid:62c504e5-58aa-50ad-aec6-150b915903cc</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:14</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 36</title>
+      <link>https://oshoworld.com/that-art-thou-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2036.mp3" type="audio/mpeg" length="11884611" />
+      <guid isPermaLink="false">urn:uuid:db664784-399e-5b3c-875c-c48e6eafec67</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>31:06</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 37</title>
+      <link>https://oshoworld.com/that-art-thou-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2037.mp3" type="audio/mpeg" length="6682586" />
+      <guid isPermaLink="false">urn:uuid:f8d759ea-a0dd-529f-b08b-71fc35cd96e8</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>16:39</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 38</title>
+      <link>https://oshoworld.com/that-art-thou-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2038.mp3" type="audio/mpeg" length="13564493" />
+      <guid isPermaLink="false">urn:uuid:460e12b3-a5f5-5def-bcc7-91f170f6df34</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>35:46</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 39</title>
+      <link>https://oshoworld.com/that-art-thou-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2039.mp3" type="audio/mpeg" length="8880790" />
+      <guid isPermaLink="false">urn:uuid:02ef39e8-b9d1-57ab-b699-c35cb4963d56</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>22:45</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 40</title>
+      <link>https://oshoworld.com/that-art-thou-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2040.mp3" type="audio/mpeg" length="7034455" />
+      <guid isPermaLink="false">urn:uuid:c3fb91fe-7a8a-5253-a6c2-457376cb1c56</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>17:38</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 41</title>
+      <link>https://oshoworld.com/that-art-thou-41</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2041.mp3" type="audio/mpeg" length="8415131" />
+      <guid isPermaLink="false">urn:uuid:bf0f8b2c-b655-5928-9976-c9a4d729abc7</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>21:28</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 42</title>
+      <link>https://oshoworld.com/that-art-thou-42</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2042.mp3" type="audio/mpeg" length="11692140" />
+      <guid isPermaLink="false">urn:uuid:5488d99a-4426-5b2b-8885-c1128c852c80</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>30:34</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 43</title>
+      <link>https://oshoworld.com/that-art-thou-43</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2043.mp3" type="audio/mpeg" length="14953946" />
+      <guid isPermaLink="false">urn:uuid:2c9d98b9-bd49-5646-b2fb-67498135a097</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>39:38</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 44</title>
+      <link>https://oshoworld.com/that-art-thou-44</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2044.mp3" type="audio/mpeg" length="9737188" />
+      <guid isPermaLink="false">urn:uuid:a3ab9de5-8737-5fa6-8337-fc452fa06692</guid>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>25:08</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 45</title>
+      <link>https://oshoworld.com/that-art-thou-45</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2045.mp3" type="audio/mpeg" length="8981571" />
+      <guid isPermaLink="false">urn:uuid:ba23906e-f8fb-530e-9c8f-ee1cb535450c</guid>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>23:02</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 46</title>
+      <link>https://oshoworld.com/that-art-thou-46</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2046.mp3" type="audio/mpeg" length="8919347" />
+      <guid isPermaLink="false">urn:uuid:4d5a8d8b-d221-5e37-81f6-c963aeadec4f</guid>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>22:52</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 47</title>
+      <link>https://oshoworld.com/that-art-thou-47</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2047.mp3" type="audio/mpeg" length="7556539" />
+      <guid isPermaLink="false">urn:uuid:bd34d65c-d2c3-58cb-b1a7-a866c21a4256</guid>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>19:05</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 48</title>
+      <link>https://oshoworld.com/that-art-thou-48</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2048.mp3" type="audio/mpeg" length="7755122" />
+      <guid isPermaLink="false">urn:uuid:1ed52e44-cbe8-599f-ba00-11248c7ad836</guid>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>19:38</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 49</title>
+      <link>https://oshoworld.com/that-art-thou-49</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2049.mp3" type="audio/mpeg" length="5507389" />
+      <guid isPermaLink="false">urn:uuid:e3d9f568-3382-5811-898d-969cd1fbd1ba</guid>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>13:23</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 50</title>
+      <link>https://oshoworld.com/that-art-thou-50</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2050.mp3" type="audio/mpeg" length="10192346" />
+      <guid isPermaLink="false">urn:uuid:802dd639-7242-5d88-8ad7-f67c2da69016</guid>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>26:24</itunes:duration>
+    </item>
+    <item>
+      <title>That Art Thou 51</title>
+      <link>https://oshoworld.com/that-art-thou-51</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/that-art-thou-series/That%20Art%20Thou%2051.mp3" type="audio/mpeg" length="6982890" />
+      <guid isPermaLink="false">urn:uuid:34cc32c5-2cc4-572d-baf9-2c7cbdbede40</guid>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>17:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

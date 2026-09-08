@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Nirvana The Last Nightmare</title>
+    <link>https://oshoworld.com/nirvana-the-last-nightmare-series</link>
+    <description>Osho discourse series: Nirvana The Last Nightmare. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/nirvana-the-last-nightmare-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nirvana The Last Nightmare 01</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2001.mp3" type="audio/mpeg" length="38061511" />
+      <guid isPermaLink="false">urn:uuid:6206cbc5-ff55-593b-ab5a-8296a964cd10</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:38</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 02</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2002.mp3" type="audio/mpeg" length="36421439" />
+      <guid isPermaLink="false">urn:uuid:73084e30-2e55-5604-ace9-624b083d8c56</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:05</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 03</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2003.mp3" type="audio/mpeg" length="33685478" />
+      <guid isPermaLink="false">urn:uuid:d653ddc5-070a-5c0f-a7b3-7726f0df35a0</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:29</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 04</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2004.mp3" type="audio/mpeg" length="37918099" />
+      <guid isPermaLink="false">urn:uuid:2f0b06b5-fba6-5972-b3d6-d26af639ebcc</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:14</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 05</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2005.mp3" type="audio/mpeg" length="29592822" />
+      <guid isPermaLink="false">urn:uuid:4584598f-3c6f-5fb9-a4ee-180ced245831</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:07</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 06</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2006.mp3" type="audio/mpeg" length="34865847" />
+      <guid isPermaLink="false">urn:uuid:6227b44d-7ea3-54b8-b442-c5474e263326</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:45</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 07</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2007.mp3" type="audio/mpeg" length="35262073" />
+      <guid isPermaLink="false">urn:uuid:03b7f7d2-b790-5082-8602-c037de13e5b9</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:52</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 08</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2008.mp3" type="audio/mpeg" length="32446020" />
+      <guid isPermaLink="false">urn:uuid:66629ff0-85b1-51a0-ab0b-7ed352af29a2</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:02</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 09</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2009.mp3" type="audio/mpeg" length="35378526" />
+      <guid isPermaLink="false">urn:uuid:0b3c5822-0634-58d3-9334-cde73dbc8d71</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:11</itunes:duration>
+    </item>
+    <item>
+      <title>Nirvana The Last Nightmare 10</title>
+      <link>https://oshoworld.com/nirvana-the-last-nightmare-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nirvana-the-last-nightmare-series/Nirvana%20The%20Last%20Nightmare%2010.mp3" type="audio/mpeg" length="31871901" />
+      <guid isPermaLink="false">urn:uuid:b8c0d7bc-f0f2-5afe-afe5-fcdb8dc203d1</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:26</itunes:duration>
+    </item>
+  </channel>
+</rss>

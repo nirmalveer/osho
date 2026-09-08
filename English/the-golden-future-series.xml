@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Golden Future</title>
+    <link>https://oshoworld.com/the-golden-future-series</link>
+    <description>Osho discourse series: The Golden Future. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-golden-future-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Golden Future 01</title>
+      <link>https://oshoworld.com/the-golden-future-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2001.mp3" type="audio/mpeg" length="32886924" />
+      <guid isPermaLink="false">urn:uuid:d49c4676-8788-5de8-8e42-a7189db6ca61</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:04</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 02</title>
+      <link>https://oshoworld.com/the-golden-future-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2002.mp3" type="audio/mpeg" length="33496308" />
+      <guid isPermaLink="false">urn:uuid:920e070e-a1b5-54af-bf6c-e073f08781ab</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:45</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 03</title>
+      <link>https://oshoworld.com/the-golden-future-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2003.mp3" type="audio/mpeg" length="37884410" />
+      <guid isPermaLink="false">urn:uuid:d05e0717-ddbd-5cfb-a66c-fcc1b687dd49</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:57</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 04</title>
+      <link>https://oshoworld.com/the-golden-future-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2004.mp3" type="audio/mpeg" length="26915489" />
+      <guid isPermaLink="false">urn:uuid:88347446-eb8a-5299-b7a7-24e979b6618e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 05</title>
+      <link>https://oshoworld.com/the-golden-future-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2005.mp3" type="audio/mpeg" length="31969869" />
+      <guid isPermaLink="false">urn:uuid:5a63f62c-ccd2-5179-996d-1f2f2eaf23a5</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 06</title>
+      <link>https://oshoworld.com/the-golden-future-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2006.mp3" type="audio/mpeg" length="28211214" />
+      <guid isPermaLink="false">urn:uuid:a7846178-4a51-53d0-8885-0a88acaa12cc</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 07</title>
+      <link>https://oshoworld.com/the-golden-future-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2007.mp3" type="audio/mpeg" length="23124547" />
+      <guid isPermaLink="false">urn:uuid:7ff4ec5e-2591-5402-ac06-f6278e27483f</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:57</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 08</title>
+      <link>https://oshoworld.com/the-golden-future-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2008.mp3" type="audio/mpeg" length="32737712" />
+      <guid isPermaLink="false">urn:uuid:073c2d99-9235-55ae-8cd0-0ede9c24a872</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:39</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 09</title>
+      <link>https://oshoworld.com/the-golden-future-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2009.mp3" type="audio/mpeg" length="32211711" />
+      <guid isPermaLink="false">urn:uuid:2be4e056-22c3-5d09-8a96-76e514350753</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 10</title>
+      <link>https://oshoworld.com/the-golden-future-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2010.mp3" type="audio/mpeg" length="34129987" />
+      <guid isPermaLink="false">urn:uuid:b657cfc8-b0ec-50b5-8fd8-1d4f35e76ef2</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 11</title>
+      <link>https://oshoworld.com/the-golden-future-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2011.mp3" type="audio/mpeg" length="30339828" />
+      <guid isPermaLink="false">urn:uuid:3a7e08f5-9546-5576-914d-7d6596d77e1f</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:59</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 12</title>
+      <link>https://oshoworld.com/the-golden-future-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2012.mp3" type="audio/mpeg" length="30560668" />
+      <guid isPermaLink="false">urn:uuid:35a5105a-2f58-54ec-8446-00cd3ea13d19</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 13</title>
+      <link>https://oshoworld.com/the-golden-future-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2013.mp3" type="audio/mpeg" length="37758238" />
+      <guid isPermaLink="false">urn:uuid:4c222ea2-7aeb-58a0-beca-9e69e2d51cbc</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 14</title>
+      <link>https://oshoworld.com/the-golden-future-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2014.mp3" type="audio/mpeg" length="23651332" />
+      <guid isPermaLink="false">urn:uuid:be1b7239-6db5-5158-bab0-acb56a9b11e1</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 15</title>
+      <link>https://oshoworld.com/the-golden-future-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2015.mp3" type="audio/mpeg" length="28766996" />
+      <guid isPermaLink="false">urn:uuid:35821fc3-514b-52b9-b2f0-f3ae588e3ace</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:37</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 16</title>
+      <link>https://oshoworld.com/the-golden-future-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2016.mp3" type="audio/mpeg" length="38780619" />
+      <guid isPermaLink="false">urn:uuid:b409c82d-b4a7-55a3-9d4b-b920c26d61d5</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 17</title>
+      <link>https://oshoworld.com/the-golden-future-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2017.mp3" type="audio/mpeg" length="31854983" />
+      <guid isPermaLink="false">urn:uuid:39f6eb4d-e81d-5e89-a0dd-8b9e9a298ef6</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:12</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 18</title>
+      <link>https://oshoworld.com/the-golden-future-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2018.mp3" type="audio/mpeg" length="26183224" />
+      <guid isPermaLink="false">urn:uuid:514122ef-c52f-5acb-951f-e976200385a1</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 19</title>
+      <link>https://oshoworld.com/the-golden-future-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2019.mp3" type="audio/mpeg" length="33113876" />
+      <guid isPermaLink="false">urn:uuid:9eb36c3d-5603-57e4-a355-58c6dd5558d3</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 20</title>
+      <link>https://oshoworld.com/the-golden-future-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2020.mp3" type="audio/mpeg" length="29736556" />
+      <guid isPermaLink="false">urn:uuid:457f4b99-4363-5898-8a73-12e74b89b505</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 21</title>
+      <link>https://oshoworld.com/the-golden-future-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2021.mp3" type="audio/mpeg" length="29555214" />
+      <guid isPermaLink="false">urn:uuid:de73b284-08c4-5e16-a478-ea84d003cec2</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 22</title>
+      <link>https://oshoworld.com/the-golden-future-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2022.mp3" type="audio/mpeg" length="31511107" />
+      <guid isPermaLink="false">urn:uuid:9f3ca3eb-911e-55c5-a003-3cd02f7db997</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:15</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 23</title>
+      <link>https://oshoworld.com/the-golden-future-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2023.mp3" type="audio/mpeg" length="29891097" />
+      <guid isPermaLink="false">urn:uuid:b347f66d-6db4-53fe-b816-6d3b98b20a75</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:45</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 24</title>
+      <link>https://oshoworld.com/the-golden-future-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2024.mp3" type="audio/mpeg" length="27405285" />
+      <guid isPermaLink="false">urn:uuid:22d47b1d-b9c6-5318-8604-7d09a8d172e5</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 25</title>
+      <link>https://oshoworld.com/the-golden-future-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2025.mp3" type="audio/mpeg" length="31567531" />
+      <guid isPermaLink="false">urn:uuid:d3a9593f-4cb0-5727-82d7-ac207762f432</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 26</title>
+      <link>https://oshoworld.com/the-golden-future-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2026.mp3" type="audio/mpeg" length="33066855" />
+      <guid isPermaLink="false">urn:uuid:6be763b9-eded-5b58-8fa1-a14063d1cfe3</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:34</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 27</title>
+      <link>https://oshoworld.com/the-golden-future-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2027.mp3" type="audio/mpeg" length="29929027" />
+      <guid isPermaLink="false">urn:uuid:f2a511fb-6d96-51cc-a72d-29933a3f14f7</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:51</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 28</title>
+      <link>https://oshoworld.com/the-golden-future-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2028.mp3" type="audio/mpeg" length="31692292" />
+      <guid isPermaLink="false">urn:uuid:cd65331b-4ac6-5e32-bfe8-868c097ac54c</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:45</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 29</title>
+      <link>https://oshoworld.com/the-golden-future-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2029.mp3" type="audio/mpeg" length="29197703" />
+      <guid isPermaLink="false">urn:uuid:a1e5162a-9305-54de-ac27-aafff51da976</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:49</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 30</title>
+      <link>https://oshoworld.com/the-golden-future-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2030.mp3" type="audio/mpeg" length="29735930" />
+      <guid isPermaLink="false">urn:uuid:63df19bf-72d9-518b-8a98-6dd6985de557</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 31</title>
+      <link>https://oshoworld.com/the-golden-future-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2031.mp3" type="audio/mpeg" length="25498764" />
+      <guid isPermaLink="false">urn:uuid:67608d60-79fa-5e2b-aeb1-131da0e9848d</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:33</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 32</title>
+      <link>https://oshoworld.com/the-golden-future-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2032.mp3" type="audio/mpeg" length="45928191" />
+      <guid isPermaLink="false">urn:uuid:f02a2f59-a1c3-5e2a-ae3c-2893a698258f</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:17</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 33</title>
+      <link>https://oshoworld.com/the-golden-future-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2033.mp3" type="audio/mpeg" length="30440765" />
+      <guid isPermaLink="false">urn:uuid:d92d0f8e-c9ee-5f80-93b4-e66a6c7f6382</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:16</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 34</title>
+      <link>https://oshoworld.com/the-golden-future-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2034.mp3" type="audio/mpeg" length="37334741" />
+      <guid isPermaLink="false">urn:uuid:f721bd69-eb03-5346-b227-d977103a6b70</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:25</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 35</title>
+      <link>https://oshoworld.com/the-golden-future-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2035.mp3" type="audio/mpeg" length="41979260" />
+      <guid isPermaLink="false">urn:uuid:7279728a-308f-5f3f-af2a-4f294480dbdc</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 36</title>
+      <link>https://oshoworld.com/the-golden-future-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2036.mp3" type="audio/mpeg" length="34265719" />
+      <guid isPermaLink="false">urn:uuid:05fd7919-e3e2-5cbf-a52b-b5940f0a26de</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:54</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 37</title>
+      <link>https://oshoworld.com/the-golden-future-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2037.mp3" type="audio/mpeg" length="33343492" />
+      <guid isPermaLink="false">urn:uuid:eaece95d-9f97-5984-89bd-fdd1d6d36312</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:20</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 38</title>
+      <link>https://oshoworld.com/the-golden-future-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2038.mp3" type="audio/mpeg" length="35623825" />
+      <guid isPermaLink="false">urn:uuid:1bd017c5-033e-560a-8c35-47b9d445c553</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 39</title>
+      <link>https://oshoworld.com/the-golden-future-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2039.mp3" type="audio/mpeg" length="28403371" />
+      <guid isPermaLink="false">urn:uuid:cc16883a-4435-5a90-8f9e-b34a62d44326</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:37</itunes:duration>
+    </item>
+    <item>
+      <title>The Golden Future 40</title>
+      <link>https://oshoworld.com/the-golden-future-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-golden-future-series/The%20Golden%20Future%2040.mp3" type="audio/mpeg" length="23968876" />
+      <guid isPermaLink="false">urn:uuid:99535861-68e0-52ab-b22d-0d90fbbc5598</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:18</itunes:duration>
+    </item>
+  </channel>
+</rss>

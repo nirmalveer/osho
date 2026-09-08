@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Art of Dying</title>
+    <link>https://oshoworld.com/the-art-of-dying-series</link>
+    <description>Osho discourse series: The Art of Dying. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-art-of-dying-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Dying 01</title>
+      <link>https://oshoworld.com/the-art-of-dying-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2001.mp3" type="audio/mpeg" length="31193376" />
+      <guid isPermaLink="false">urn:uuid:50a27b19-3c25-537c-ae42-59854defd077</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 02</title>
+      <link>https://oshoworld.com/the-art-of-dying-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2002.mp3" type="audio/mpeg" length="34516778" />
+      <guid isPermaLink="false">urn:uuid:443b7d5b-1475-539d-b35d-af27c5034e3c</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:22</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 03</title>
+      <link>https://oshoworld.com/the-art-of-dying-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2003.mp3" type="audio/mpeg" length="33703168" />
+      <guid isPermaLink="false">urn:uuid:d01e5d9b-6fae-5c9c-8e6f-c56e5150c41a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:07</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 04</title>
+      <link>https://oshoworld.com/the-art-of-dying-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2004.mp3" type="audio/mpeg" length="37981555" />
+      <guid isPermaLink="false">urn:uuid:559328fb-d48b-52fa-bb9b-85fac3e7525e</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 05</title>
+      <link>https://oshoworld.com/the-art-of-dying-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2005.mp3" type="audio/mpeg" length="34627590" />
+      <guid isPermaLink="false">urn:uuid:5ce95d48-cf86-5df6-a7d9-38215cecdd59</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:41</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 06</title>
+      <link>https://oshoworld.com/the-art-of-dying-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2006.mp3" type="audio/mpeg" length="27016553" />
+      <guid isPermaLink="false">urn:uuid:3f79bdc6-c89d-50a5-8ad5-3837c6f3daaa</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 07</title>
+      <link>https://oshoworld.com/the-art-of-dying-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2007.mp3" type="audio/mpeg" length="34113500" />
+      <guid isPermaLink="false">urn:uuid:ff4a1729-482f-532c-bc50-7b411406efa0</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:15</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 08</title>
+      <link>https://oshoworld.com/the-art-of-dying-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2008.mp3" type="audio/mpeg" length="33422927" />
+      <guid isPermaLink="false">urn:uuid:7a06fd13-5ab9-56a7-a523-0f92f1c9730c</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:20</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 09</title>
+      <link>https://oshoworld.com/the-art-of-dying-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2009.mp3" type="audio/mpeg" length="31977519" />
+      <guid isPermaLink="false">urn:uuid:4c1815ac-efdb-5434-946c-8c9712c14e28</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Art of Dying 10</title>
+      <link>https://oshoworld.com/the-art-of-dying-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-art-of-dying-series/The%20Art%20Of%20Dying%2010.mp3" type="audio/mpeg" length="35063312" />
+      <guid isPermaLink="false">urn:uuid:68abb120-9f11-5625-8458-886b311de2c2</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:53</itunes:duration>
+    </item>
+  </channel>
+</rss>

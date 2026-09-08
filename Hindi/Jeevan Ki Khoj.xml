@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jeevan Ki Khoj</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jeevan Ki Khoj (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jeevan-ki-khoj-by-osho-01-09</link>
+    <description>Osho discourse series: Jeevan Ki Khoj. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jeevan%20Ki%20Khoj.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jeevan Ki Khoj 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 01</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_01.mp3" type="audio/mpeg" length="27437254" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:34</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 02</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_02.mp3" type="audio/mpeg" length="24988800" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:30</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 03</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_03.mp3" type="audio/mpeg" length="29441373" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:28</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 04</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_04.mp3" type="audio/mpeg" length="22825231" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:24</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 05</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_05.mp3" type="audio/mpeg" length="28567668" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:47</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 06</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_06.mp3" type="audio/mpeg" length="22122659" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:29</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 07</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_07.mp3" type="audio/mpeg" length="19185130" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:34</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 08</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_08.mp3" type="audio/mpeg" length="20318910" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:25</itunes:duration>
     </item>
     <item>
-      <title>Jeevan Ki Khoj 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jeevan Ki Khoj 09</title>
+      <link>https://oshoworld.com/jeevan-ki-khoj-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jeevan_Ki_Khoj_09.mp3" type="audio/mpeg" length="18019867" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/077-Jeevan%20Ki%20Khoj/OSHO-Jeevan_Ki_Khoj_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:38:56</itunes:duration>
     </item>
   </channel>
 </rss>

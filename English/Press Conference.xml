@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Press Conference</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Press Conference (English) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/press-conference-01-11</link>
+    <description>Osho discourse series: Press Conference. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>en</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/Press%20Conference.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Press Conference 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_01</title>
+      <link>https://oshoworld.com/osho-press_conference_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_01.mp3" type="audio/mpeg" length="44054061" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:33</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_02</title>
+      <link>https://oshoworld.com/osho-press_conference_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_02.mp3" type="audio/mpeg" length="17497005" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:45:08</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_03</title>
+      <link>https://oshoworld.com/osho-press_conference_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_03.mp3" type="audio/mpeg" length="59813241" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:41:16</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_04</title>
+      <link>https://oshoworld.com/osho-press_conference_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_04.mp3" type="audio/mpeg" length="35945349" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:24</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_05</title>
+      <link>https://oshoworld.com/osho-press_conference_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_05.mp3" type="audio/mpeg" length="31829397" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:35</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_09.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_09</title>
+      <link>https://oshoworld.com/osho-press_conference_09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_09.mp3" type="audio/mpeg" length="22891785" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_09.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:20</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_10.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_10</title>
+      <link>https://oshoworld.com/osho-press_conference_10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_10.mp3" type="audio/mpeg" length="22640973" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_10.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:33</itunes:duration>
     </item>
     <item>
-      <title>Press Conference 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_11.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Press_Conference_11</title>
+      <link>https://oshoworld.com/osho-press_conference_11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/English%20Audio/OSHO-Press_Conference_11.mp3" type="audio/mpeg" length="10019949" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/English/Press%20Conference%2001-11%20%E2%80%93%20Osho%20World/OSHO-Press_Conference_11.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:28:41</itunes:duration>
     </item>
   </channel>
 </rss>

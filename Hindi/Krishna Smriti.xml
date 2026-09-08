@@ -1,143 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Krishna Smriti</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Krishna Smriti (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/krishna-smriti-by-osho-01-22</link>
+    <description>Osho discourse series: Krishna Smriti. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Krishna%20Smriti.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Krishna Smriti 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 01</title>
+      <link>https://oshoworld.com/krishna-smriti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_01.mp3" type="audio/mpeg" length="21948517" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:00</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 02</title>
+      <link>https://oshoworld.com/krishna-smriti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_02.mp3" type="audio/mpeg" length="36585697" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:52</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 03</title>
+      <link>https://oshoworld.com/krishna-smriti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_03.mp3" type="audio/mpeg" length="29383365" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:24</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 04</title>
+      <link>https://oshoworld.com/krishna-smriti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_04.mp3" type="audio/mpeg" length="33900763" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:43</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 05</title>
+      <link>https://oshoworld.com/krishna-smriti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_05.mp3" type="audio/mpeg" length="19649002" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:41</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 06</title>
+      <link>https://oshoworld.com/krishna-smriti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_06.mp3" type="audio/mpeg" length="50314330" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:10</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 07</title>
+      <link>https://oshoworld.com/krishna-smriti-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_07.mp3" type="audio/mpeg" length="31173319" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:59</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 08</title>
+      <link>https://oshoworld.com/krishna-smriti-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_08.mp3" type="audio/mpeg" length="38577626" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:10</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 09</title>
+      <link>https://oshoworld.com/krishna-smriti-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_09.mp3" type="audio/mpeg" length="26065045" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:24</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 10</title>
+      <link>https://oshoworld.com/krishna-smriti-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_10.mp3" type="audio/mpeg" length="43444973" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:38</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 11</title>
+      <link>https://oshoworld.com/krishna-smriti-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_11.mp3" type="audio/mpeg" length="28456647" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:27</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 12</title>
+      <link>https://oshoworld.com/krishna-smriti-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_12.mp3" type="audio/mpeg" length="31788989" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:47</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 13</title>
+      <link>https://oshoworld.com/krishna-smriti-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_13.mp3" type="audio/mpeg" length="31117402" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:09</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 14</title>
+      <link>https://oshoworld.com/krishna-smriti-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_14.mp3" type="audio/mpeg" length="44971835" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:28</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 15</title>
+      <link>https://oshoworld.com/krishna-smriti-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_15.mp3" type="audio/mpeg" length="33966268" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:38</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 16</title>
+      <link>https://oshoworld.com/krishna-smriti-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_16.mp3" type="audio/mpeg" length="42075583" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:49</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 17</title>
+      <link>https://oshoworld.com/krishna-smriti-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_17.mp3" type="audio/mpeg" length="23055969" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:18</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 18</title>
+      <link>https://oshoworld.com/krishna-smriti-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_18.mp3" type="audio/mpeg" length="42013231" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:37</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 19</title>
+      <link>https://oshoworld.com/krishna-smriti-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_19.mp3" type="audio/mpeg" length="29276395" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:57</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 20</title>
+      <link>https://oshoworld.com/krishna-smriti-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_20.mp3" type="audio/mpeg" length="43533393" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:30</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 21</title>
+      <link>https://oshoworld.com/krishna-smriti-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_21.mp3" type="audio/mpeg" length="21423832" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:53</itunes:duration>
     </item>
     <item>
-      <title>Krishna Smriti 022</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_22.mp3" type="audio/mpeg" length="0"/>
+      <title>Krishna Smriti 22</title>
+      <link>https://oshoworld.com/krishna-smriti-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Krishna_Smriti_22.mp3" type="audio/mpeg" length="29205987" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/083-Krishna%20Smriti%2001-22%20%E2%80%93%20Osho%20World/OSHO-Krishna_Smriti_22.mp3</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:08</itunes:duration>
     </item>
   </channel>
 </rss>

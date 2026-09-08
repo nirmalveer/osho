@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Philosophia Ultima</title>
+    <link>https://oshoworld.com/philosophia-ultima-series</link>
+    <description>Osho discourse series: Philosophia Ultima. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/philosophia-ultima-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophia Ultima 01</title>
+      <link>https://oshoworld.com/philosophia-ultima-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2001.mp3" type="audio/mpeg" length="30878643" />
+      <guid isPermaLink="false">urn:uuid:a9768508-a82e-5fec-84e2-cb092ea558db</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:12</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 02</title>
+      <link>https://oshoworld.com/philosophia-ultima-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2002.mp3" type="audio/mpeg" length="26579410" />
+      <guid isPermaLink="false">urn:uuid:d523780c-1ffa-517d-9671-354ffd97a165</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:16</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 03</title>
+      <link>https://oshoworld.com/philosophia-ultima-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2003.mp3" type="audio/mpeg" length="29958924" />
+      <guid isPermaLink="false">urn:uuid:c07ff462-e084-5a8c-9557-6bfb9f1e996e</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:39</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 04</title>
+      <link>https://oshoworld.com/philosophia-ultima-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2004.mp3" type="audio/mpeg" length="21824393" />
+      <guid isPermaLink="false">urn:uuid:73b4faa2-4c43-5fe3-a1b7-ba2450d5b1d9</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>59:03</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 05</title>
+      <link>https://oshoworld.com/philosophia-ultima-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2005.mp3" type="audio/mpeg" length="24953444" />
+      <guid isPermaLink="false">urn:uuid:69400802-d8d5-5fde-89a3-425b5f135f45</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:45</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 06</title>
+      <link>https://oshoworld.com/philosophia-ultima-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2006.mp3" type="audio/mpeg" length="21596501" />
+      <guid isPermaLink="false">urn:uuid:b3911774-ae75-58ef-8d61-a36efead0baf</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>58:25</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 07</title>
+      <link>https://oshoworld.com/philosophia-ultima-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2007.mp3" type="audio/mpeg" length="24893885" />
+      <guid isPermaLink="false">urn:uuid:6d1920b9-e9d5-5319-a1a2-64cec8aae308</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:35</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 08</title>
+      <link>https://oshoworld.com/philosophia-ultima-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2008.mp3" type="audio/mpeg" length="24097360" />
+      <guid isPermaLink="false">urn:uuid:cdf570d9-c6ea-5f53-b481-c6fec1767761</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:22</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 09</title>
+      <link>https://oshoworld.com/philosophia-ultima-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2009.mp3" type="audio/mpeg" length="28117918" />
+      <guid isPermaLink="false">urn:uuid:b9d470bc-d758-5482-a186-043c8907d235</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:32</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 10</title>
+      <link>https://oshoworld.com/philosophia-ultima-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2010.mp3" type="audio/mpeg" length="26272367" />
+      <guid isPermaLink="false">urn:uuid:a2f32ad8-5cbb-5cc5-9bc9-1e2c5e2a5264</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:25</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 11</title>
+      <link>https://oshoworld.com/philosophia-ultima-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2011.mp3" type="audio/mpeg" length="30901840" />
+      <guid isPermaLink="false">urn:uuid:1e9a67fc-a674-567d-88a2-1337574dd603</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:16</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 12</title>
+      <link>https://oshoworld.com/philosophia-ultima-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2012.mp3" type="audio/mpeg" length="23979809" />
+      <guid isPermaLink="false">urn:uuid:0027f68d-0887-5c6b-9990-a77d27ac18f5</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:02</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 13</title>
+      <link>https://oshoworld.com/philosophia-ultima-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2013.mp3" type="audio/mpeg" length="30160641" />
+      <guid isPermaLink="false">urn:uuid:ec8d0342-7aa3-5509-be3c-381f4c8fe1b7</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:13</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 14</title>
+      <link>https://oshoworld.com/philosophia-ultima-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2014.mp3" type="audio/mpeg" length="22179711" />
+      <guid isPermaLink="false">urn:uuid:4d0b1bb4-e77f-5e27-ab17-a16ab4381f74</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:02</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 15</title>
+      <link>https://oshoworld.com/philosophia-ultima-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2015.mp3" type="audio/mpeg" length="28241895" />
+      <guid isPermaLink="false">urn:uuid:11350511-8cc1-5856-83d3-b940f4776e0d</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:53</itunes:duration>
+    </item>
+    <item>
+      <title>Philosophia Ultima 16</title>
+      <link>https://oshoworld.com/philosophia-ultima-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/philosophia-ultima-series/Philosophia%20Ultima%2016.mp3" type="audio/mpeg" length="29541853" />
+      <guid isPermaLink="false">urn:uuid:5b29ac08-4f90-5820-a00f-d2f7fdca1301</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

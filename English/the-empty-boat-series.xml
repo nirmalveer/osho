@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Empty Boat</title>
+    <link>https://oshoworld.com/the-empty-boat-series</link>
+    <description>Osho discourse series: The Empty Boat. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-empty-boat-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Empty Boat 01</title>
+      <link>https://oshoworld.com/the-empty-boat-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2001.mp3" type="audio/mpeg" length="43557822" />
+      <guid isPermaLink="false">urn:uuid:369c941e-51d7-56d6-af0c-5c51238e439c</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:37</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 02</title>
+      <link>https://oshoworld.com/the-empty-boat-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2002.mp3" type="audio/mpeg" length="47494371" />
+      <guid isPermaLink="false">urn:uuid:d2a7859c-dc9d-5189-8eba-9aca9495803f</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:33</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 03</title>
+      <link>https://oshoworld.com/the-empty-boat-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2003.mp3" type="audio/mpeg" length="32113055" />
+      <guid isPermaLink="false">urn:uuid:e0f411f6-960a-50f2-9709-b998a3550142</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 04</title>
+      <link>https://oshoworld.com/the-empty-boat-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2004.mp3" type="audio/mpeg" length="39262508" />
+      <guid isPermaLink="false">urn:uuid:7186d7f2-b165-54bf-b8df-7be6a759b419</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 05</title>
+      <link>https://oshoworld.com/the-empty-boat-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2005.mp3" type="audio/mpeg" length="38572875" />
+      <guid isPermaLink="false">urn:uuid:e74f4884-bd95-5bc5-980f-2905fa1f432f</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:47</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 06</title>
+      <link>https://oshoworld.com/the-empty-boat-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2006.mp3" type="audio/mpeg" length="33481819" />
+      <guid isPermaLink="false">urn:uuid:c10839d1-d41d-578c-9382-14bd5df7f219</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 07</title>
+      <link>https://oshoworld.com/the-empty-boat-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2007.mp3" type="audio/mpeg" length="33301731" />
+      <guid isPermaLink="false">urn:uuid:fb3eb674-bc63-59a7-9e51-c07514bb5f2f</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 08</title>
+      <link>https://oshoworld.com/the-empty-boat-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2008.mp3" type="audio/mpeg" length="32355680" />
+      <guid isPermaLink="false">urn:uuid:e82970f7-dce0-5a81-9acd-a70a28f3ccf6</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:30</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 09</title>
+      <link>https://oshoworld.com/the-empty-boat-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2009.mp3" type="audio/mpeg" length="39350123" />
+      <guid isPermaLink="false">urn:uuid:60a86f7c-1f07-5218-9b5d-8f6b6a1bab2b</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Empty Boat 10</title>
+      <link>https://oshoworld.com/the-empty-boat-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-empty-boat-series/The%20Empty%20Boat%2010.mp3" type="audio/mpeg" length="35215618" />
+      <guid isPermaLink="false">urn:uuid:afaff351-1f33-59d7-8159-b21418921030</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:27</itunes:duration>
+    </item>
+  </channel>
+</rss>

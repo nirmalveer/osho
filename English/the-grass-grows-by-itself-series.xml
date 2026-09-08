@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Grass Grows By Itself</title>
+    <link>https://oshoworld.com/the-grass-grows-by-itself-series</link>
+    <description>Osho discourse series: The Grass Grows By Itself. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-grass-grows-by-itself-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Grass Grows By Itself 01</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2001.mp3" type="audio/mpeg" length="33346720" />
+      <guid isPermaLink="false">urn:uuid:293577dc-9702-561d-aba7-47e68dd85bf7</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 02</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2002.mp3" type="audio/mpeg" length="32705832" />
+      <guid isPermaLink="false">urn:uuid:871f7b6a-13d2-5efe-9533-92c6a1e232e7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 03</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2003.mp3" type="audio/mpeg" length="38258002" />
+      <guid isPermaLink="false">urn:uuid:22389431-e983-5e43-b32a-79b2d98fbe2c</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 04</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2004.mp3" type="audio/mpeg" length="29802165" />
+      <guid isPermaLink="false">urn:uuid:32160048-2a9d-5a19-918c-0f302de9c606</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 05</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2005.mp3" type="audio/mpeg" length="32672761" />
+      <guid isPermaLink="false">urn:uuid:60cb0162-b7dd-5bb8-bd25-aa804a5b3c85</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 06</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2006.mp3" type="audio/mpeg" length="32479037" />
+      <guid isPermaLink="false">urn:uuid:3dfa4e47-0a67-5836-a82d-daff5e243325</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 07</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2007.mp3" type="audio/mpeg" length="27955360" />
+      <guid isPermaLink="false">urn:uuid:38ac7681-cb12-53cf-afbc-eb2d29eb1a00</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Grass Grows By Itself 08</title>
+      <link>https://oshoworld.com/the-grass-grows-by-itself-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-grass-grows-by-itself-series/The%20Grass%20Grows%20By%20Itself%2008.mp3" type="audio/mpeg" length="33180268" />
+      <guid isPermaLink="false">urn:uuid:f06ced2d-24ad-50e8-a54c-b6034155d672</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:23</itunes:duration>
+    </item>
+  </channel>
+</rss>

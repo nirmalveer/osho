@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Nam Sumir Man Bavre</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Nam Sumir Man Bavre (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/nam-sumir-man-bavre-by-osho-01-10</link>
+    <description>Osho discourse series: Nam Sumir Man Bavre. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Nam%20Sumir%20Man%20Bavre.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nam Sumir Man Bavre 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 01</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_01.mp3" type="audio/mpeg" length="51424885" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:42</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 02</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_02.mp3" type="audio/mpeg" length="49327808" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:08</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 03</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_03.mp3" type="audio/mpeg" length="51314839" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:25</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 04</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_04.mp3" type="audio/mpeg" length="54591860" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:34</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 05</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_05.mp3" type="audio/mpeg" length="48969034" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:57</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 06</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_06.mp3" type="audio/mpeg" length="47863346" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:40</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 07</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_07.mp3" type="audio/mpeg" length="54336542" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:05</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 08</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_08.mp3" type="audio/mpeg" length="49346911" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:08</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 09</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_09.mp3" type="audio/mpeg" length="52571391" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:39</itunes:duration>
     </item>
     <item>
-      <title>Nam Sumir Man Bavre 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Nam Sumir Man Bavre 10</title>
+      <link>https://oshoworld.com/nam-sumir-man-bavre-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Nam_Sumir_Man_Bavre_10.mp3" type="audio/mpeg" length="51399488" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/111-Nam%20Sumir%20Man%20Bavre%2001-10%20%E2%80%93%20Osho%20World/OSHO-Nam_Sumir_Man_Bavre_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:26</itunes:duration>
     </item>
   </channel>
 </rss>

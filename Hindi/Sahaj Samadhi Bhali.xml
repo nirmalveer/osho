@@ -1,137 +1,180 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sahaj Samadhi Bhali</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sahaj Samadhi Bhali (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sahaj-samadhi-bhali-by-osho-01-21</link>
+    <description>Osho discourse series: Sahaj Samadhi Bhali. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sahaj%20Samadhi%20Bhali.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sahaj Samadhi Bhali 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 01</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_01.mp3" type="audio/mpeg" length="35516403" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:10</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 02</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_02.mp3" type="audio/mpeg" length="25157485" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:31</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 03</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_03.mp3" type="audio/mpeg" length="21411638" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:42</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 04</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_04.mp3" type="audio/mpeg" length="24960253" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:21</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 05</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_05.mp3" type="audio/mpeg" length="30009204" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:59</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 06</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_06.mp3" type="audio/mpeg" length="31943392" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:42</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 07</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_07.mp3" type="audio/mpeg" length="35972429" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:23</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 08</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_08.mp3" type="audio/mpeg" length="33454531" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:08</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 09</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_09.mp3" type="audio/mpeg" length="27143990" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:24</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 10</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_10.mp3" type="audio/mpeg" length="29512291" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:02</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 11</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_11.mp3" type="audio/mpeg" length="26632445" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:57</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 12</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_12.mp3" type="audio/mpeg" length="31368990" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:07</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 13</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_13.mp3" type="audio/mpeg" length="29044617" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:20</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 14</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_14.mp3" type="audio/mpeg" length="33165949" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:39</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 15</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_15.mp3" type="audio/mpeg" length="35282762" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:52</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 16</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_16.mp3" type="audio/mpeg" length="28197075" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:44</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 17</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_17.mp3" type="audio/mpeg" length="25418026" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:56</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 18</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_18.mp3" type="audio/mpeg" length="25321519" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:15</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 19</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_19.mp3" type="audio/mpeg" length="34186814" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:17</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 20</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_20.mp3" type="audio/mpeg" length="26576848" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:13</itunes:duration>
     </item>
     <item>
-      <title>Sahaj Samadhi Bhali 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Sahaj Samadhi Bhali 21</title>
+      <link>https://oshoworld.com/sahaj-samadhi-bhali-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sahaj_Samadhi_Bhali_21.mp3" type="audio/mpeg" length="31763469" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/145-Sahaj%20Samadhi%20Bhali%2001-21%20%E2%80%93%20Osho%20World/OSHO-Sahaj_Samadhi_Bhali_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:15</itunes:duration>
     </item>
   </channel>
 </rss>

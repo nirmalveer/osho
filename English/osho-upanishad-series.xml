@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Osho Upanishad</title>
+    <link>https://oshoworld.com/osho-upanishad-series</link>
+    <description>Osho discourse series: Osho Upanishad. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/osho-upanishad-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Osho Upanishad 01</title>
+      <link>https://oshoworld.com/osho-upanishad-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2001.mp3" type="audio/mpeg" length="34291838" />
+      <guid isPermaLink="false">urn:uuid:b854de51-957f-5991-84e7-26d8c8edfbbc</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:55</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 02</title>
+      <link>https://oshoworld.com/osho-upanishad-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2002.mp3" type="audio/mpeg" length="37677464" />
+      <guid isPermaLink="false">urn:uuid:928de5c9-0dbc-50db-b578-071797211d86</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:19</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 03</title>
+      <link>https://oshoworld.com/osho-upanishad-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2003.mp3" type="audio/mpeg" length="28764589" />
+      <guid isPermaLink="false">urn:uuid:4337a948-8bea-53e7-a688-003222c27773</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:34</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 04</title>
+      <link>https://oshoworld.com/osho-upanishad-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2004.mp3" type="audio/mpeg" length="35113911" />
+      <guid isPermaLink="false">urn:uuid:afe41639-4cae-522d-8bcc-9fc90ef50cad</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:12</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 05</title>
+      <link>https://oshoworld.com/osho-upanishad-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2005.mp3" type="audio/mpeg" length="36282525" />
+      <guid isPermaLink="false">urn:uuid:6a262ec5-b6d3-549e-ab66-83d26389b94d</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:27</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 06</title>
+      <link>https://oshoworld.com/osho-upanishad-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2006.mp3" type="audio/mpeg" length="38114440" />
+      <guid isPermaLink="false">urn:uuid:91b0577f-f9ee-5339-a4a9-e9a59fd4413b</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:32</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 07</title>
+      <link>https://oshoworld.com/osho-upanishad-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2007.mp3" type="audio/mpeg" length="41608370" />
+      <guid isPermaLink="false">urn:uuid:1f2adbd3-af82-5bb6-a0f4-12a1a499b86a</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:14</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 08</title>
+      <link>https://oshoworld.com/osho-upanishad-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2008.mp3" type="audio/mpeg" length="36600540" />
+      <guid isPermaLink="false">urn:uuid:add0e177-0fbd-555c-bf9b-faa44aa0e08f</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:20</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 09</title>
+      <link>https://oshoworld.com/osho-upanishad-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2009.mp3" type="audio/mpeg" length="25137434" />
+      <guid isPermaLink="false">urn:uuid:4c613379-8abf-5ff2-a02a-2bc560e5e279</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:29</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 10</title>
+      <link>https://oshoworld.com/osho-upanishad-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2010.mp3" type="audio/mpeg" length="40256220" />
+      <guid isPermaLink="false">urn:uuid:2902da4d-a071-59fb-ae47-3b7e3a41c1fb</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:29</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 11</title>
+      <link>https://oshoworld.com/osho-upanishad-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2011.mp3" type="audio/mpeg" length="42800180" />
+      <guid isPermaLink="false">urn:uuid:c08f9f8a-2445-5b57-af0b-7f1bae2c826f</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:58:33</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 12</title>
+      <link>https://oshoworld.com/osho-upanishad-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2012.mp3" type="audio/mpeg" length="43419282" />
+      <guid isPermaLink="false">urn:uuid:4eb372e5-bf68-5fc3-acb2-edf5d5028955</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:16</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 13</title>
+      <link>https://oshoworld.com/osho-upanishad-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2013.mp3" type="audio/mpeg" length="38306753" />
+      <guid isPermaLink="false">urn:uuid:b62b3c0e-cf1e-5cdf-8200-641be51231b8</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:04</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 14</title>
+      <link>https://oshoworld.com/osho-upanishad-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2014.mp3" type="audio/mpeg" length="39740406" />
+      <guid isPermaLink="false">urn:uuid:2252c00d-200e-5e9f-b04c-e815241e5259</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:03</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 15</title>
+      <link>https://oshoworld.com/osho-upanishad-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2015.mp3" type="audio/mpeg" length="43673976" />
+      <guid isPermaLink="false">urn:uuid:a1119c6f-2233-574f-bb9f-d028ee1bd4aa</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:59</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 16</title>
+      <link>https://oshoworld.com/osho-upanishad-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2016.mp3" type="audio/mpeg" length="47629960" />
+      <guid isPermaLink="false">urn:uuid:3154c00f-1081-5235-8cbf-dd0d94630d1e</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:11:58</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 17</title>
+      <link>https://oshoworld.com/osho-upanishad-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2017.mp3" type="audio/mpeg" length="40042433" />
+      <guid isPermaLink="false">urn:uuid:ca638478-f4b6-5317-b6e9-57c13240bc61</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:53</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 18</title>
+      <link>https://oshoworld.com/osho-upanishad-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2018.mp3" type="audio/mpeg" length="41615109" />
+      <guid isPermaLink="false">urn:uuid:05d90838-f7e0-5a81-81c8-c7b159148073</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:15</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 19</title>
+      <link>https://oshoworld.com/osho-upanishad-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2019.mp3" type="audio/mpeg" length="43517555" />
+      <guid isPermaLink="false">urn:uuid:6d5fb51d-a45a-58c9-b20d-6f72b2e12f54</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:33</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 20</title>
+      <link>https://oshoworld.com/osho-upanishad-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2020.mp3" type="audio/mpeg" length="40915916" />
+      <guid isPermaLink="false">urn:uuid:f3d3ad6d-640b-53ea-bc08-d9e24a13bf23</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:19</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 21</title>
+      <link>https://oshoworld.com/osho-upanishad-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2021.mp3" type="audio/mpeg" length="37788118" />
+      <guid isPermaLink="false">urn:uuid:563b0787-b230-5f6f-a572-dc963ec41d4a</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:38</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 22</title>
+      <link>https://oshoworld.com/osho-upanishad-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2022.mp3" type="audio/mpeg" length="45691779" />
+      <guid isPermaLink="false">urn:uuid:4ac55da3-7788-5f66-ab96-604529d8db2c</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:35</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 23</title>
+      <link>https://oshoworld.com/osho-upanishad-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2023.mp3" type="audio/mpeg" length="49705754" />
+      <guid isPermaLink="false">urn:uuid:efdc95dd-c53e-5031-b3d1-33ba9b153bdb</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:17:44</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 24</title>
+      <link>https://oshoworld.com/osho-upanishad-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2024.mp3" type="audio/mpeg" length="37533581" />
+      <guid isPermaLink="false">urn:uuid:fe24261b-7c44-5149-b30a-bca264799040</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:55</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 25</title>
+      <link>https://oshoworld.com/osho-upanishad-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2025.mp3" type="audio/mpeg" length="39095913" />
+      <guid isPermaLink="false">urn:uuid:1909e228-5cdd-5885-a8e4-b63252e64b3f</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:16</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 26</title>
+      <link>https://oshoworld.com/osho-upanishad-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2026.mp3" type="audio/mpeg" length="35765300" />
+      <guid isPermaLink="false">urn:uuid:e8cd6d56-3eac-5462-bb48-227b18c8e6d2</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:01</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 27</title>
+      <link>https://oshoworld.com/osho-upanishad-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2027.mp3" type="audio/mpeg" length="42445960" />
+      <guid isPermaLink="false">urn:uuid:e8b1233a-c8a2-541a-a349-13417ba6d5c5</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:34</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 28</title>
+      <link>https://oshoworld.com/osho-upanishad-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2028.mp3" type="audio/mpeg" length="36651949" />
+      <guid isPermaLink="false">urn:uuid:b44913e8-4a28-5618-9a4f-f60908bc0533</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:28</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 29</title>
+      <link>https://oshoworld.com/osho-upanishad-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2029.mp3" type="audio/mpeg" length="37079051" />
+      <guid isPermaLink="false">urn:uuid:a492949f-f210-5777-af76-8772a3c47e8a</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:39</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 30</title>
+      <link>https://oshoworld.com/osho-upanishad-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2030.mp3" type="audio/mpeg" length="41780621" />
+      <guid isPermaLink="false">urn:uuid:1c51c45d-f080-5913-a458-9804564e24bf</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:43</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 31</title>
+      <link>https://oshoworld.com/osho-upanishad-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2031.mp3" type="audio/mpeg" length="43649526" />
+      <guid isPermaLink="false">urn:uuid:40e15101-61bb-55e6-8e66-ce5d6c8c043c</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:55</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 32</title>
+      <link>https://oshoworld.com/osho-upanishad-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2032.mp3" type="audio/mpeg" length="39814855" />
+      <guid isPermaLink="false">urn:uuid:81f17cd1-c874-5729-823d-c66c65066824</guid>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:15</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 33</title>
+      <link>https://oshoworld.com/osho-upanishad-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2033.mp3" type="audio/mpeg" length="43826949" />
+      <guid isPermaLink="false">urn:uuid:9f9e7691-4264-5238-9775-102700650780</guid>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:24</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 34</title>
+      <link>https://oshoworld.com/osho-upanishad-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2034.mp3" type="audio/mpeg" length="46953493" />
+      <guid isPermaLink="false">urn:uuid:d64f8ca6-37c2-50ad-a7b4-176f26b0e7b2</guid>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:10:05</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 35</title>
+      <link>https://oshoworld.com/osho-upanishad-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2035.mp3" type="audio/mpeg" length="48162858" />
+      <guid isPermaLink="false">urn:uuid:2f03b5e1-a124-5bea-9ed2-4a1d7ff94798</guid>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:13:27</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 36</title>
+      <link>https://oshoworld.com/osho-upanishad-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2036.mp3" type="audio/mpeg" length="38909555" />
+      <guid isPermaLink="false">urn:uuid:f79df35d-c6fa-5fb0-beb2-e7061d14ebf4</guid>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:45</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 37</title>
+      <link>https://oshoworld.com/osho-upanishad-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2037.mp3" type="audio/mpeg" length="33705963" />
+      <guid isPermaLink="false">urn:uuid:110e6611-4f7a-587b-8720-d7348b4f7ea1</guid>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:17</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 38</title>
+      <link>https://oshoworld.com/osho-upanishad-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2038.mp3" type="audio/mpeg" length="46820895" />
+      <guid isPermaLink="false">urn:uuid:b98ef2d0-b1af-5d6c-a524-2f04aae37ae6</guid>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:43</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 39</title>
+      <link>https://oshoworld.com/osho-upanishad-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2039.mp3" type="audio/mpeg" length="43695919" />
+      <guid isPermaLink="false">urn:uuid:b55f8b9c-6d06-5f28-a099-9eec62376bcb</guid>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:02</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 40</title>
+      <link>https://oshoworld.com/osho-upanishad-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2040.mp3" type="audio/mpeg" length="35836458" />
+      <guid isPermaLink="false">urn:uuid:5d674ec1-271b-5a30-8262-5c489f37abbf</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:12</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 41</title>
+      <link>https://oshoworld.com/osho-upanishad-41</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2041.mp3" type="audio/mpeg" length="51739544" />
+      <guid isPermaLink="false">urn:uuid:61dfd615-d871-5498-9ba5-222c32f4b0cd</guid>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:23:23</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 42</title>
+      <link>https://oshoworld.com/osho-upanishad-42</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2042.mp3" type="audio/mpeg" length="48459400" />
+      <guid isPermaLink="false">urn:uuid:1979c3e8-9553-52bf-9085-81c96a1fe3ce</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:14:16</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 43</title>
+      <link>https://oshoworld.com/osho-upanishad-43</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2043.mp3" type="audio/mpeg" length="43411602" />
+      <guid isPermaLink="false">urn:uuid:620df48f-aa8e-5702-b8d4-12d1acc3b5fd</guid>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:15</itunes:duration>
+    </item>
+    <item>
+      <title>Osho Upanishad 44</title>
+      <link>https://oshoworld.com/osho-upanishad-44</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/osho-upanishad-series/Osho%20Upanishad%2044.mp3" type="audio/mpeg" length="42605829" />
+      <guid isPermaLink="false">urn:uuid:29ad869e-c96c-58df-a581-b6802416b0ad</guid>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:58:01</itunes:duration>
+    </item>
+  </channel>
+</rss>

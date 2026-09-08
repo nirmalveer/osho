@@ -1,53 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Swayam Ki Satta</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Swayam Ki Satta (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/167-swayam-ki-satta-01-07</link>
+    <description>Osho discourse series: Swayam Ki Satta. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Swayam%20Ki%20Satta.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swayam Ki Satta 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_01</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_01.mp3" type="audio/mpeg" length="24214680" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:15</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_02</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_02.mp3" type="audio/mpeg" length="23955819" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:09</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_03</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_03.mp3" type="audio/mpeg" length="27932366" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:41</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_04</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_04.mp3" type="audio/mpeg" length="20765462" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:38</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_05</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_05.mp3" type="audio/mpeg" length="22091810" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:51</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_06.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_06</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_06.mp3" type="audio/mpeg" length="29670404" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:06</itunes:duration>
     </item>
     <item>
-      <title>Swayam Ki Satta 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_07.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Swayam_Ki_Satta_07</title>
+      <link>https://oshoworld.com/osho-swayam_ki_satta_07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swayam_Ki_Satta_07.mp3" type="audio/mpeg" length="26489563" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/167-Swayam%20Ki%20Satta%2001-07%20%E2%80%93%20Osho%20World/OSHO-Swayam_Ki_Satta_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:53</itunes:duration>
     </item>
   </channel>
 </rss>

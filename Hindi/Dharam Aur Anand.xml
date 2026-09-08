@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Dharam Aur Anand</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Dharam Aur Anand (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/dharam-aur-anand-by-osho-01-09</link>
+    <description>Osho discourse series: Dharam Aur Anand. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Dharam%20Aur%20Anand.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dharam Aur Anand 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 01</title>
+      <link>https://oshoworld.com/dharam-aur-anand-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_01.mp3" type="audio/mpeg" length="21583876" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:44</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 02</title>
+      <link>https://oshoworld.com/dharam-aur-anand-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_02.mp3" type="audio/mpeg" length="21120990" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:23</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 03</title>
+      <link>https://oshoworld.com/dharam-aur-anand-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_03.mp3" type="audio/mpeg" length="23476160" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:08</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 04</title>
+      <link>https://oshoworld.com/dharam-aur-anand-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_04.mp3" type="audio/mpeg" length="27532023" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:48</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 05</title>
+      <link>https://oshoworld.com/dharam-aur-anand-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_05.mp3" type="audio/mpeg" length="22989792" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:45</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 06</title>
+      <link>https://oshoworld.com/dharam-aur-anand-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_06.mp3" type="audio/mpeg" length="16672986" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:39:40</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 07</title>
+      <link>https://oshoworld.com/dharam-aur-anand-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_07.mp3" type="audio/mpeg" length="29081716" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:06</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 08</title>
+      <link>https://oshoworld.com/dharam-aur-anand-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_08.mp3" type="audio/mpeg" length="32851489" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:12</itunes:duration>
     </item>
     <item>
-      <title>Dharam Aur Anand 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Dharam Aur Anand 09</title>
+      <link>https://oshoworld.com/dharam-aur-anand-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dharam_Aur_Anand_09.mp3" type="audio/mpeg" length="26591485" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/034-Dharam%20Aur%20Anand/OSHO-Dharam_Aur_Anand_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:10</itunes:duration>
     </item>
   </channel>
 </rss>

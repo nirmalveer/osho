@@ -1,65 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Dariya Kahe Sabad Nirvana</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Dariya Kahe Sabad Nirvana (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-by-osho-1-9</link>
+    <description>Osho discourse series: Dariya Kahe Sabad Nirvana. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Dariya%20Kahe%20Sabad%20Nirvana.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dariya Kahe Sabad Nirvana 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 01</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_01.mp3" type="audio/mpeg" length="45162077" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:20</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 02</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_02.mp3" type="audio/mpeg" length="44553353" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:29</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 03</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_03.mp3" type="audio/mpeg" length="37924036" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:52</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 04</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_04.mp3" type="audio/mpeg" length="52779300" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:12</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 05</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_05.mp3" type="audio/mpeg" length="46605157" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:58</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 06</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_06.mp3" type="audio/mpeg" length="44781456" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:10</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 07</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_07.mp3" type="audio/mpeg" length="45050577" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:18</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 08</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_08.mp3" type="audio/mpeg" length="38245183" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:11</itunes:duration>
     </item>
     <item>
-      <title>Dariya Kahe Sabad Nirvana 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Dariya Kahe Sabad Nirvana 09</title>
+      <link>https://oshoworld.com/dariya-kahe-sabad-nirvana-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Dariya_Kahe_Sabad_Nirvana_09.mp3" type="audio/mpeg" length="36592695" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/026-Dariya%20Kahe%20Sabad%20Nirvana/OSHO-Dariya_Kahe_Sabad_Nirvana_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:57</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The White Lotus</title>
+    <link>https://oshoworld.com/the-white-lotus-series</link>
+    <description>Osho discourse series: The White Lotus. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-white-lotus-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The White Lotus 01</title>
+      <link>https://oshoworld.com/the-white-lotus-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2001.mp3" type="audio/mpeg" length="40803023" />
+      <guid isPermaLink="false">urn:uuid:35a5363b-d6f2-5066-9f49-97227f552fe4</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:38</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 02</title>
+      <link>https://oshoworld.com/the-white-lotus-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2002.mp3" type="audio/mpeg" length="42109407" />
+      <guid isPermaLink="false">urn:uuid:1ddbea85-4f3b-525d-81d8-d70d2a580dc7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:16</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 03</title>
+      <link>https://oshoworld.com/the-white-lotus-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2003.mp3" type="audio/mpeg" length="40412597" />
+      <guid isPermaLink="false">urn:uuid:115219ef-78fd-5c98-9280-dfd7e0e8bbcc</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:33</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 04</title>
+      <link>https://oshoworld.com/the-white-lotus-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2004.mp3" type="audio/mpeg" length="38440404" />
+      <guid isPermaLink="false">urn:uuid:5a353171-56e3-5778-8dd7-f1e8be7aaa0f</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:04</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 05</title>
+      <link>https://oshoworld.com/the-white-lotus-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2005.mp3" type="audio/mpeg" length="41788884" />
+      <guid isPermaLink="false">urn:uuid:eafc890c-9968-5b92-a369-22034cfb1c51</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:22</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 06</title>
+      <link>https://oshoworld.com/the-white-lotus-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2006.mp3" type="audio/mpeg" length="41418050" />
+      <guid isPermaLink="false">urn:uuid:65f4cc9d-1d35-5313-b655-e3cef3e4da29</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:21</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 07</title>
+      <link>https://oshoworld.com/the-white-lotus-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2007.mp3" type="audio/mpeg" length="41060538" />
+      <guid isPermaLink="false">urn:uuid:e1668eb9-c0ae-58c4-b693-4288c4e571dc</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:21</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 08</title>
+      <link>https://oshoworld.com/the-white-lotus-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2008.mp3" type="audio/mpeg" length="36197060" />
+      <guid isPermaLink="false">urn:uuid:13b51cd3-4369-58f3-81bc-734abf572609</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:51</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 09</title>
+      <link>https://oshoworld.com/the-white-lotus-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2009.mp3" type="audio/mpeg" length="40446608" />
+      <guid isPermaLink="false">urn:uuid:7dce8984-9c09-5a05-bf11-7d2987dd7547</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:39</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 10</title>
+      <link>https://oshoworld.com/the-white-lotus-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2010.mp3" type="audio/mpeg" length="36407555" />
+      <guid isPermaLink="false">urn:uuid:603b5ab2-589b-5c51-88eb-0a337be4c37b</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:26</itunes:duration>
+    </item>
+    <item>
+      <title>The White Lotus 11</title>
+      <link>https://oshoworld.com/the-white-lotus-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-white-lotus-series/The%20White%20Lotus%2011.mp3" type="audio/mpeg" length="40381407" />
+      <guid isPermaLink="false">urn:uuid:f286fbf7-c8a1-50e7-9588-dbe35c326bf4</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:28</itunes:duration>
+    </item>
+  </channel>
+</rss>

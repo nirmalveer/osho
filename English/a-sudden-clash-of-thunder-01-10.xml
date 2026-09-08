@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>A Sudden Clash of Thunder</title>
+    <link>https://oshoworld.com/a-sudden-clash-of-thunder-01-10</link>
+    <description>Osho discourse series: A Sudden Clash of Thunder. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/a-sudden-clash-of-thunder-01-10.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Sudden Clash of Thunder 01</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_01.mp3" type="audio/mpeg" length="30555945" />
+      <guid isPermaLink="false">urn:uuid:2705410d-a7c8-5eb4-a335-459b111413a8</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:46</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 02</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_02.mp3" type="audio/mpeg" length="31599009" />
+      <guid isPermaLink="false">urn:uuid:64daa063-bd9d-570f-9119-065471e7202b</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:40</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 03</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_03.mp3" type="audio/mpeg" length="31878484" />
+      <guid isPermaLink="false">urn:uuid:5f700fa7-1e47-52d1-81ba-e7f0864d716a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:27</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 04</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_04.mp3" type="audio/mpeg" length="33462601" />
+      <guid isPermaLink="false">urn:uuid:157a4daf-91bc-56ea-8768-bca7965d30d8</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:51</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 05</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_05.mp3" type="audio/mpeg" length="31094653" />
+      <guid isPermaLink="false">urn:uuid:7f5c56c8-7f9e-53d7-8e59-afc216ef354e</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:16</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 06</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_06.mp3" type="audio/mpeg" length="33442853" />
+      <guid isPermaLink="false">urn:uuid:ba101903-9706-548c-9a92-5680243edb39</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:48</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 07</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_07.mp3" type="audio/mpeg" length="29105063" />
+      <guid isPermaLink="false">urn:uuid:d8a62839-9b58-5295-b2f2-190d24f0b65d</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:45</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 08</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_08.mp3" type="audio/mpeg" length="29718209" />
+      <guid isPermaLink="false">urn:uuid:ec83c8e1-b75c-581c-991c-2da1be1a0c4e</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:27</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 09</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_09.mp3" type="audio/mpeg" length="27431137" />
+      <guid isPermaLink="false">urn:uuid:ac145475-6b05-5417-a4b4-59016148f09f</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:06</itunes:duration>
+    </item>
+    <item>
+      <title>A Sudden Clash of Thunder 10</title>
+      <link>https://oshoworld.com/a-sudden-clash-of-thunder-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Sudden_Clash_of_Thunder_%2810%29/A_Sudden_Clash_of_Thunder_10.mp3" type="audio/mpeg" length="26271772" />
+      <guid isPermaLink="false">urn:uuid:ea366a04-14e4-5bdf-95c6-bca708668f2a</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:52</itunes:duration>
+    </item>
+  </channel>
+</rss>

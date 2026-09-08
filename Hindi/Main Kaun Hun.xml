@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Main Kaun Hun</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Main Kaun Hun (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/main-kaun-hun-by-osho-01-11</link>
+    <description>Osho discourse series: Main Kaun Hun. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Main%20Kaun%20Hun.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main Kaun Hun 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 01</title>
+      <link>https://oshoworld.com/main-kaun-hun-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_01.mp3" type="audio/mpeg" length="22534500" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:47</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 02</title>
+      <link>https://oshoworld.com/main-kaun-hun-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_02.mp3" type="audio/mpeg" length="17225946" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 03</title>
+      <link>https://oshoworld.com/main-kaun-hun-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_03.mp3" type="audio/mpeg" length="17529092" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:49:28</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 04</title>
+      <link>https://oshoworld.com/main-kaun-hun-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_04.mp3" type="audio/mpeg" length="18355090" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:26</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 05</title>
+      <link>https://oshoworld.com/main-kaun-hun-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_05.mp3" type="audio/mpeg" length="21919240" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:15</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 06</title>
+      <link>https://oshoworld.com/main-kaun-hun-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_06.mp3" type="audio/mpeg" length="21904917" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:44</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 07</title>
+      <link>https://oshoworld.com/main-kaun-hun-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_07.mp3" type="audio/mpeg" length="27678594" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:37</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 08</title>
+      <link>https://oshoworld.com/main-kaun-hun-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_08.mp3" type="audio/mpeg" length="27888819" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:56</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 09</title>
+      <link>https://oshoworld.com/main-kaun-hun-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_09.mp3" type="audio/mpeg" length="25939295" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:52</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 10</title>
+      <link>https://oshoworld.com/main-kaun-hun-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_10.mp3" type="audio/mpeg" length="28004827" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:33</itunes:duration>
     </item>
     <item>
-      <title>Main Kaun Hun 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Main Kaun Hun 11</title>
+      <link>https://oshoworld.com/main-kaun-hun-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Main_Kaun_Hun_11.mp3" type="audio/mpeg" length="28767715" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/105-Main%20Kaun%20Hun%2001-11%20%E2%80%93%20Osho%20World/OSHO-Main_Kaun_Hun_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:21</itunes:duration>
     </item>
   </channel>
 </rss>

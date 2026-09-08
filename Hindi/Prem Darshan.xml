@@ -1,35 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Prem Darshan</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Prem Darshan (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/prem-darshan-by-osho-01-04</link>
+    <description>Osho discourse series: Prem Darshan. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Prem%20Darshan.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prem Darshan 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Darshan 01</title>
+      <link>https://oshoworld.com/prem-darshan-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_01.mp3" type="audio/mpeg" length="28249857" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:23</itunes:duration>
     </item>
     <item>
-      <title>Prem Darshan 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Darshan 02</title>
+      <link>https://oshoworld.com/prem-darshan-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_02.mp3" type="audio/mpeg" length="20029659" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:25</itunes:duration>
     </item>
     <item>
-      <title>Prem Darshan 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Darshan 03</title>
+      <link>https://oshoworld.com/prem-darshan-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_03.mp3" type="audio/mpeg" length="28902969" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:18</itunes:duration>
     </item>
     <item>
-      <title>Prem Darshan 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Darshan 04</title>
+      <link>https://oshoworld.com/prem-darshan-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Darshan_04.mp3" type="audio/mpeg" length="20042991" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/130-Prem%20Darshan%2001-04%20%E2%80%93%20Osho%20World/OSHO-Prem_Darshan_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:17</itunes:duration>
     </item>
   </channel>
 </rss>

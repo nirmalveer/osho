@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Geeta Darshan Vol-15</title>
+    <link>https://oshoworld.com/geeta-darshan-vol-15-by-osho-1-7</link>
+    <description>Osho discourse series: Geeta Darshan Vol-15. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/geeta-darshan-vol-15-by-osho-1-7.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geeta Darshan Vol-15 01</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_01.mp3" type="audio/mpeg" length="31820210" />
+      <guid isPermaLink="false">urn:uuid:e59b1a44-9e5a-580a-af4a-e4747f31b129</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:21</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 02</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_02.mp3" type="audio/mpeg" length="32017059" />
+      <guid isPermaLink="false">urn:uuid:9b0c301c-38bd-5269-9bad-90873212be84</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:36</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 03</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_03.mp3" type="audio/mpeg" length="36364856" />
+      <guid isPermaLink="false">urn:uuid:317bb5ae-3d99-5042-88fd-a7ca867f04fb</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:51</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 04</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_04.mp3" type="audio/mpeg" length="39985865" />
+      <guid isPermaLink="false">urn:uuid:deac1a36-cae5-53b1-9ca6-fca956ccbd98</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:27</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 05</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_05.mp3" type="audio/mpeg" length="39761678" />
+      <guid isPermaLink="false">urn:uuid:0f62c937-b6e8-51e2-8519-55c8c0a265a1</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:50</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 06</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_06.mp3" type="audio/mpeg" length="36949902" />
+      <guid isPermaLink="false">urn:uuid:c8150237-d6fe-59c6-b347-a8c4e37d658e</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:47</itunes:duration>
+    </item>
+    <item>
+      <title>Geeta Darshan Vol-15 07</title>
+      <link>https://oshoworld.com/geeta-darshan-vol-15-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Geeta_Darshan_Vol_15_07.mp3" type="audio/mpeg" length="39771613" />
+      <guid isPermaLink="false">urn:uuid:b0134fcb-02db-5567-8335-cec579ea4107</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:07</itunes:duration>
+    </item>
+  </channel>
+</rss>

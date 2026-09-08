@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Book of Wisdom Buddha</title>
+    <link>https://oshoworld.com/the-book-of-wisdom-buddha-series</link>
+    <description>Osho discourse series: The Book of Wisdom Buddha. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-book-of-wisdom-buddha-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Book of Wisdom 01</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2001.mp3" type="audio/mpeg" length="33519999" />
+      <guid isPermaLink="false">urn:uuid:5fee7ba2-6dbe-5bc0-8e68-1dd136fa82c7</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 02</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2002.mp3" type="audio/mpeg" length="37191666" />
+      <guid isPermaLink="false">urn:uuid:597ca70a-18cc-58b9-865e-68bcaded5059</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 03</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2003.mp3" type="audio/mpeg" length="37273638" />
+      <guid isPermaLink="false">urn:uuid:3575b809-a985-5fd0-af70-dc7fa478e337</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:05</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 04</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2004.mp3" type="audio/mpeg" length="36859859" />
+      <guid isPermaLink="false">urn:uuid:69379908-a6bd-508f-a890-d1cd7d797138</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:56</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 05</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2005.mp3" type="audio/mpeg" length="41595284" />
+      <guid isPermaLink="false">urn:uuid:1a66f4b9-dc8a-5640-8e09-96ecb5b3731d</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 06</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2006.mp3" type="audio/mpeg" length="33691937" />
+      <guid isPermaLink="false">urn:uuid:7303f9dc-abce-5434-9dc2-c7c837785723</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 07</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2007.mp3" type="audio/mpeg" length="35518837" />
+      <guid isPermaLink="false">urn:uuid:b04ef3c8-a12f-508e-b54f-16e1e349b15b</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:13</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 08</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2008.mp3" type="audio/mpeg" length="30701909" />
+      <guid isPermaLink="false">urn:uuid:e30815eb-1ce5-51de-91f4-77e70999b10e</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 09</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2009.mp3" type="audio/mpeg" length="40170252" />
+      <guid isPermaLink="false">urn:uuid:30651b0d-d622-574e-a2cd-aef1653f1dbf</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 10</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2010.mp3" type="audio/mpeg" length="33590686" />
+      <guid isPermaLink="false">urn:uuid:adeb4531-f9da-506c-9b1b-a5e6c814ea2f</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 11</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2011.mp3" type="audio/mpeg" length="31892780" />
+      <guid isPermaLink="false">urn:uuid:2866feba-f330-5f14-bca4-dbe7f2711a9f</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 12</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2012.mp3" type="audio/mpeg" length="33164211" />
+      <guid isPermaLink="false">urn:uuid:58c66edd-e553-5272-ac8d-cb20f19eea2f</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 13</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2013.mp3" type="audio/mpeg" length="37038536" />
+      <guid isPermaLink="false">urn:uuid:bcc38f4b-c8cc-5794-ad72-bcc8a5ff56c0</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 14</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2014.mp3" type="audio/mpeg" length="40894523" />
+      <guid isPermaLink="false">urn:uuid:e0949044-f856-5ebb-ae25-22d1d3121131</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 15</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2015.mp3" type="audio/mpeg" length="34396773" />
+      <guid isPermaLink="false">urn:uuid:eb67781e-18cb-5c89-8188-8776cfcc1d20</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 16</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2016.mp3" type="audio/mpeg" length="37746820" />
+      <guid isPermaLink="false">urn:uuid:ef99b1a3-39e5-5a19-8cd6-bc43b1f7df5b</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:24</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 17</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2017.mp3" type="audio/mpeg" length="39662432" />
+      <guid isPermaLink="false">urn:uuid:86738fed-3cb9-5f43-8d1c-b9efa62179ed</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:43</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 18</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2018.mp3" type="audio/mpeg" length="38843493" />
+      <guid isPermaLink="false">urn:uuid:230bbfc2-ad4c-5d52-aabe-ea49d1173007</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 19</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2019.mp3" type="audio/mpeg" length="39587669" />
+      <guid isPermaLink="false">urn:uuid:d89cb4dd-acfd-5d32-82a5-5c0f882d9dc0</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 20</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2020.mp3" type="audio/mpeg" length="40039692" />
+      <guid isPermaLink="false">urn:uuid:6842df1d-2dbc-53a8-a855-d2602d535b17</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:46</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 21</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2021.mp3" type="audio/mpeg" length="36089194" />
+      <guid isPermaLink="false">urn:uuid:6ae3179e-05d6-5d99-80b6-f467235605c1</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:48</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 22</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2022.mp3" type="audio/mpeg" length="37045119" />
+      <guid isPermaLink="false">urn:uuid:135758c2-c85e-596b-bb9f-be0186450ae8</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:27</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 23</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2023.mp3" type="audio/mpeg" length="38177057" />
+      <guid isPermaLink="false">urn:uuid:3edff667-f77d-502e-99bd-64b9e20228d4</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 24</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2024.mp3" type="audio/mpeg" length="33661844" />
+      <guid isPermaLink="false">urn:uuid:4fb7ac2c-5ecc-5299-8507-233a4df1dffe</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 25</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2025.mp3" type="audio/mpeg" length="39294732" />
+      <guid isPermaLink="false">urn:uuid:26cc24bf-933f-56a6-9641-1d19ff0e510f</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:42</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 26</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2026.mp3" type="audio/mpeg" length="37110634" />
+      <guid isPermaLink="false">urn:uuid:2a850763-23a8-5fcf-b262-c33d18139838</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 27</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2027.mp3" type="audio/mpeg" length="35041580" />
+      <guid isPermaLink="false">urn:uuid:68346114-0213-5291-b133-1d6079a19428</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:53</itunes:duration>
+    </item>
+    <item>
+      <title>The Book of Wisdom 28</title>
+      <link>https://oshoworld.com/the-book-of-wisdom-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-book-of-wisdom-buddha-series/The%20Book%20Of%20Wisdom%2028.mp3" type="audio/mpeg" length="32415490" />
+      <guid isPermaLink="false">urn:uuid:c3f2b53e-41f8-5e16-ab4a-99f9a0b08376</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:36</itunes:duration>
+    </item>
+  </channel>
+</rss>

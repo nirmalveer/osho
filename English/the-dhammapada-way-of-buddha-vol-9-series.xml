@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Dhammapada Way of Buddha Vol 9</title>
+    <link>https://oshoworld.com/the-dhammapada-way-of-buddha-vol-9-series</link>
+    <description>Osho discourse series: The Dhammapada Way of Buddha Vol 9. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-dhammapada-way-of-buddha-vol-9-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 01</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2001.mp3" type="audio/mpeg" length="36232163" />
+      <guid isPermaLink="false">urn:uuid:f9f425f6-4479-571d-980b-37331597a75b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:36</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 02</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2002.mp3" type="audio/mpeg" length="32813623" />
+      <guid isPermaLink="false">urn:uuid:ca0d0c42-9309-54f6-a46d-60d734bd819b</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:06</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 03</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2003.mp3" type="audio/mpeg" length="36858632" />
+      <guid isPermaLink="false">urn:uuid:c6eb6ac5-f8e3-5ffc-92b2-03f38a71bb81</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:20</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 04</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2004.mp3" type="audio/mpeg" length="35751458" />
+      <guid isPermaLink="false">urn:uuid:23cc0a12-cdff-5ff1-927a-774d22fecd0a</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:15</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 05</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2005.mp3" type="audio/mpeg" length="35337052" />
+      <guid isPermaLink="false">urn:uuid:e39c1fd6-99aa-57f8-9076-495796fb772e</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:06</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 06</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2006.mp3" type="audio/mpeg" length="30442227" />
+      <guid isPermaLink="false">urn:uuid:945db1eb-46d9-5ac9-b941-00d8e70ab07a</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:31</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 07</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2007.mp3" type="audio/mpeg" length="39797564" />
+      <guid isPermaLink="false">urn:uuid:95d6e256-36a1-53f0-a298-65f3f91cf07b</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:30</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 08</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2008.mp3" type="audio/mpeg" length="34574694" />
+      <guid isPermaLink="false">urn:uuid:95ef42e3-21c8-5ecc-9c6b-2376b58bd97e</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:59</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 09</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2009.mp3" type="audio/mpeg" length="30288470" />
+      <guid isPermaLink="false">urn:uuid:471ac2ab-1068-5f37-b753-e0bd63e8efb6</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:05</itunes:duration>
+    </item>
+    <item>
+      <title>Dhammapada Way of Buddha (Vol 9) 10</title>
+      <link>https://oshoworld.com/dhammapada-way-of-buddha-vol-9-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-dhammapada-way-of-buddha-vol-9-series/Dhammapada%20Way%20Of%20Buddha%20Vol%209%2010.mp3" type="audio/mpeg" length="25792692" />
+      <guid isPermaLink="false">urn:uuid:43dd86d3-a78b-594a-b1bd-2061cae9ce32</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:36</itunes:duration>
+    </item>
+  </channel>
+</rss>

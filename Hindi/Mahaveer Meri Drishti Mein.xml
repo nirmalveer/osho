@@ -1,161 +1,212 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Mahaveer Meri Drishti Mein</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Mahaveer Meri Drishti Mein (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/mahaveer-meri-drishti-mein-by-osho-01-25</link>
+    <description>Osho discourse series: Mahaveer Meri Drishti Mein. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Mahaveer%20Meri%20Drishti%20Mein.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mahaveer Meri Drishti Mein 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 01</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_01.mp3" type="audio/mpeg" length="32797179" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:59</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 02</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_02.mp3" type="audio/mpeg" length="45959468" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:03:07</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 03</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_03.mp3" type="audio/mpeg" length="25681691" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:37</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 04</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_04.mp3" type="audio/mpeg" length="43011548" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:43</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 05</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_05.mp3" type="audio/mpeg" length="23937318" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:32</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 06</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_06.mp3" type="audio/mpeg" length="44637264" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:08</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 07</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_07.mp3" type="audio/mpeg" length="28674643" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:53</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 08</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_08.mp3" type="audio/mpeg" length="42990334" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:55</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 09</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_09.mp3" type="audio/mpeg" length="22629000" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:00</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 10</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_10.mp3" type="audio/mpeg" length="40527534" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:31</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 11</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_11.mp3" type="audio/mpeg" length="24029897" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:28</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 12</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_12.mp3" type="audio/mpeg" length="42313302" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:24</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 13</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_13.mp3" type="audio/mpeg" length="37264672" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:29</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 14</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_14.mp3" type="audio/mpeg" length="29131647" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:22</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 15</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_15.mp3" type="audio/mpeg" length="49381405" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:04</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 16</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_16.mp3" type="audio/mpeg" length="30284286" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:46</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 17</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_17.mp3" type="audio/mpeg" length="37996108" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:29</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 19</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_18.mp3" type="audio/mpeg" length="21347640" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:47</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 20</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_19.mp3" type="audio/mpeg" length="34402873" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:37</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 21</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_20.mp3" type="audio/mpeg" length="35155363" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:01</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 22</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_21.mp3" type="audio/mpeg" length="35954799" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:57</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 022</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_22.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 23</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_22.mp3" type="audio/mpeg" length="19548914" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_22.mp3</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:33</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 023</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_23.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 24</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_23.mp3" type="audio/mpeg" length="24622340" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_23.mp3</guid>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:40</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 024</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_24.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 25</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_24.mp3" type="audio/mpeg" length="26172044" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_24.mp3</guid>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:03</itunes:duration>
     </item>
     <item>
-      <title>Mahaveer Meri Drishti Mein 025</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_25.mp3" type="audio/mpeg" length="0"/>
+      <title>Mahaveer Meri Drishti Mein 26</title>
+      <link>https://oshoworld.com/mahaveer-meri-drishti-mein-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mahaveer_Meri_Drishti_Mein_25.mp3" type="audio/mpeg" length="26695012" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/097-Mahaveer%20Meri%20Drishti%20Mein%2001-25%20%E2%80%93%20Osho%20World/OSHO-Mahaveer_Meri_Drishti_Mein_25.mp3</guid>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:48</itunes:duration>
     </item>
   </channel>
 </rss>

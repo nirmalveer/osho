@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>From Darkness to Light</title>
+    <link>https://oshoworld.com/from-darkness-to-light-series</link>
+    <description>Osho discourse series: From Darkness to Light. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/from-darkness-to-light-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Darkness to Light 01</title>
+      <link>https://oshoworld.com/from-darkness-to-light-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2001.mp3" type="audio/mpeg" length="42428069" />
+      <guid isPermaLink="false">urn:uuid:507111c4-5e27-5a65-b325-ae19c7dfa358</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:49</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 02</title>
+      <link>https://oshoworld.com/from-darkness-to-light-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2002.mp3" type="audio/mpeg" length="47171018" />
+      <guid isPermaLink="false">urn:uuid:229fca70-f54c-5f36-b207-b6d5b9ea160b</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:59</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 03</title>
+      <link>https://oshoworld.com/from-darkness-to-light-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2003.mp3" type="audio/mpeg" length="51943275" />
+      <guid isPermaLink="false">urn:uuid:38ba6c07-53ba-5c26-ba69-64ff1a6f14b0</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:22:14</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 04</title>
+      <link>https://oshoworld.com/from-darkness-to-light-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2004.mp3" type="audio/mpeg" length="49630655" />
+      <guid isPermaLink="false">urn:uuid:7f2cc846-f5fa-5a8f-95e1-4bd1e2c9656d</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:15:49</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 05</title>
+      <link>https://oshoworld.com/from-darkness-to-light-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2005.mp3" type="audio/mpeg" length="45177822" />
+      <guid isPermaLink="false">urn:uuid:8a3d4fa1-4efb-529f-b47b-259bf59c0a52</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:03:27</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 06</title>
+      <link>https://oshoworld.com/from-darkness-to-light-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2006.mp3" type="audio/mpeg" length="47223994" />
+      <guid isPermaLink="false">urn:uuid:fd3c6f92-e7f6-5955-a302-95b2313f3944</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:09:08</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 07</title>
+      <link>https://oshoworld.com/from-darkness-to-light-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2007.mp3" type="audio/mpeg" length="40258861" />
+      <guid isPermaLink="false">urn:uuid:2d617397-b3f0-511b-9943-67ce4940d1b4</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:47</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 08</title>
+      <link>https://oshoworld.com/from-darkness-to-light-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2008.mp3" type="audio/mpeg" length="38090280" />
+      <guid isPermaLink="false">urn:uuid:728c75ac-7728-59fd-b5fc-ecd0e8fc0ebc</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:46</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 09</title>
+      <link>https://oshoworld.com/from-darkness-to-light-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2009.mp3" type="audio/mpeg" length="31708983" />
+      <guid isPermaLink="false">urn:uuid:cb4cdd48-7196-5b28-8b7e-15455ffe93c6</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:02</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 10</title>
+      <link>https://oshoworld.com/from-darkness-to-light-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2010.mp3" type="audio/mpeg" length="39319080" />
+      <guid isPermaLink="false">urn:uuid:66b80aa6-923e-5e03-a9a7-0923643178c1</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:10</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 11</title>
+      <link>https://oshoworld.com/from-darkness-to-light-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2011.mp3" type="audio/mpeg" length="46088764" />
+      <guid isPermaLink="false">urn:uuid:180b360f-a0ce-5fff-9a5a-a235823c5880</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:59</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 12</title>
+      <link>https://oshoworld.com/from-darkness-to-light-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2012.mp3" type="audio/mpeg" length="44741160" />
+      <guid isPermaLink="false">urn:uuid:a7871e70-add8-5ddf-aa2c-81a59689415d</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:14</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 13</title>
+      <link>https://oshoworld.com/from-darkness-to-light-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2013.mp3" type="audio/mpeg" length="39973290" />
+      <guid isPermaLink="false">urn:uuid:443f0a89-181d-503b-957d-06692d2889e0</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:59</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 14</title>
+      <link>https://oshoworld.com/from-darkness-to-light-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2014.mp3" type="audio/mpeg" length="43414244" />
+      <guid isPermaLink="false">urn:uuid:31201603-27b8-5c8f-987c-4e41a0786c4f</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:58:33</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 15</title>
+      <link>https://oshoworld.com/from-darkness-to-light-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2015.mp3" type="audio/mpeg" length="38149682" />
+      <guid isPermaLink="false">urn:uuid:d2a71125-4cab-5c4f-b653-14b7f9469aab</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:56</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 16</title>
+      <link>https://oshoworld.com/from-darkness-to-light-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2016.mp3" type="audio/mpeg" length="42649535" />
+      <guid isPermaLink="false">urn:uuid:e21c3f7a-ca71-5cbd-ac36-3f66de6cd82a</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:26</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 17</title>
+      <link>https://oshoworld.com/from-darkness-to-light-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2017.mp3" type="audio/mpeg" length="38267860" />
+      <guid isPermaLink="false">urn:uuid:abd09585-642b-5d2d-a72a-9704c4f48ffc</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:15</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 18</title>
+      <link>https://oshoworld.com/from-darkness-to-light-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2018.mp3" type="audio/mpeg" length="34380840" />
+      <guid isPermaLink="false">urn:uuid:2e5dcb3c-5994-5eaf-8813-62fb184768d0</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:27</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 19</title>
+      <link>https://oshoworld.com/from-darkness-to-light-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2019.mp3" type="audio/mpeg" length="37028559" />
+      <guid isPermaLink="false">urn:uuid:582b90fc-e2fb-5320-ae5d-30d9597c360a</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:49</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 20</title>
+      <link>https://oshoworld.com/from-darkness-to-light-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2020.mp3" type="audio/mpeg" length="35154482" />
+      <guid isPermaLink="false">urn:uuid:2b1e8368-9b4b-5447-ada9-8bc6c3a25170</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:36</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 21</title>
+      <link>https://oshoworld.com/from-darkness-to-light-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2021.mp3" type="audio/mpeg" length="32463818" />
+      <guid isPermaLink="false">urn:uuid:49598244-2d0e-5be0-b9fc-69a5925eae34</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:08</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 22</title>
+      <link>https://oshoworld.com/from-darkness-to-light-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2022.mp3" type="audio/mpeg" length="39489137" />
+      <guid isPermaLink="false">urn:uuid:25d30933-fddf-5372-9f1c-22b0234e38be</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:39</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 23</title>
+      <link>https://oshoworld.com/from-darkness-to-light-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2023.mp3" type="audio/mpeg" length="39107018" />
+      <guid isPermaLink="false">urn:uuid:42e50088-de72-594a-8950-3c1ec0b9af96</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:35</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 24</title>
+      <link>https://oshoworld.com/from-darkness-to-light-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2024.mp3" type="audio/mpeg" length="31895027" />
+      <guid isPermaLink="false">urn:uuid:88bdd42e-a86e-55f0-a741-f5ade5ac76b0</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:33</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 25</title>
+      <link>https://oshoworld.com/from-darkness-to-light-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2025.mp3" type="audio/mpeg" length="43865483" />
+      <guid isPermaLink="false">urn:uuid:b6557e8a-045b-5d82-b715-88c5192d1a5d</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:48</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 26</title>
+      <link>https://oshoworld.com/from-darkness-to-light-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2026.mp3" type="audio/mpeg" length="44748996" />
+      <guid isPermaLink="false">urn:uuid:97b36294-3fc7-54a1-9639-aa6f0f4596a0</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:15</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 27</title>
+      <link>https://oshoworld.com/from-darkness-to-light-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2027.mp3" type="audio/mpeg" length="49973747" />
+      <guid isPermaLink="false">urn:uuid:9b214df8-208c-54ee-a993-4d85f9b23a54</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:16:46</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 28</title>
+      <link>https://oshoworld.com/from-darkness-to-light-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2028.mp3" type="audio/mpeg" length="42198923" />
+      <guid isPermaLink="false">urn:uuid:b0c44197-3908-5c16-ad13-d476b5d5645d</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:10</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 29</title>
+      <link>https://oshoworld.com/from-darkness-to-light-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2029.mp3" type="audio/mpeg" length="46459912" />
+      <guid isPermaLink="false">urn:uuid:08decbd9-96ac-564c-88b0-5c18ed054c07</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:01</itunes:duration>
+    </item>
+    <item>
+      <title>From Darkness to Light 30</title>
+      <link>https://oshoworld.com/from-darkness-to-light-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/from-darkness-to-light-series/From%20Darkness%20To%20Light%2030.mp3" type="audio/mpeg" length="38516598" />
+      <guid isPermaLink="false">urn:uuid:4f1b7c58-d38e-5b5d-8211-5e0feafab629</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:57</itunes:duration>
+    </item>
+  </channel>
+</rss>

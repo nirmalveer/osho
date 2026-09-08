@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>I Celebrate Myself</title>
+    <link>https://oshoworld.com/i-celebrate-myself-series</link>
+    <description>Osho discourse series: I Celebrate Myself. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/i-celebrate-myself-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Celebrate Myself 01</title>
+      <link>https://oshoworld.com/i-celebrate-myself-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2001.mp3" type="audio/mpeg" length="74996214" />
+      <guid isPermaLink="false">urn:uuid:70038b36-1c19-50ef-97d1-366164bde817</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:25:38</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 02</title>
+      <link>https://oshoworld.com/i-celebrate-myself-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2002.mp3" type="audio/mpeg" length="63538595" />
+      <guid isPermaLink="false">urn:uuid:2b912b6e-8f21-5c58-b1ea-20d692683f22</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:53:49</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 03</title>
+      <link>https://oshoworld.com/i-celebrate-myself-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2003.mp3" type="audio/mpeg" length="61653390" />
+      <guid isPermaLink="false">urn:uuid:aa894ecd-188c-50a1-9b1f-b31997f25a78</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:48:34</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 04</title>
+      <link>https://oshoworld.com/i-celebrate-myself-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2004.mp3" type="audio/mpeg" length="43961021" />
+      <guid isPermaLink="false">urn:uuid:6c45f4da-ec02-5964-93d2-7e5ce3f1ba09</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:26</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 05</title>
+      <link>https://oshoworld.com/i-celebrate-myself-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2005.mp3" type="audio/mpeg" length="70962333" />
+      <guid isPermaLink="false">urn:uuid:c712b6fc-7c40-51c0-ba1f-8d2e6f3fd6df</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:14:26</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 06</title>
+      <link>https://oshoworld.com/i-celebrate-myself-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2006.mp3" type="audio/mpeg" length="77193321" />
+      <guid isPermaLink="false">urn:uuid:c0ca03b1-7bd2-512e-b20d-e48519ab57e5</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:31:44</itunes:duration>
+    </item>
+    <item>
+      <title>I Celebrate Myself 07</title>
+      <link>https://oshoworld.com/i-celebrate-myself-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-celebrate-myself-series/I%20Celebrate%20Myself%2007.mp3" type="audio/mpeg" length="66387718" />
+      <guid isPermaLink="false">urn:uuid:1844cd40-3f7f-562d-93bc-e5e2a7685cf6</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:01:43</itunes:duration>
+    </item>
+  </channel>
+</rss>

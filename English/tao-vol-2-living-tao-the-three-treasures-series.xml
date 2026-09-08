@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Tao Vol 2: Living Tao The Three Treasures</title>
+    <link>https://oshoworld.com/tao-vol-2-living-tao-the-three-treasures-series</link>
+    <description>Osho discourse series: Tao Vol 2: Living Tao The Three Treasures. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/tao-vol-2-living-tao-the-three-treasures-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Living Tao 01</title>
+      <link>https://oshoworld.com/living-tao-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2001.mp3" type="audio/mpeg" length="28900397" />
+      <guid isPermaLink="false">urn:uuid:d90cb246-5d0a-506e-b526-3a592c4a0fa4</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:06</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 02</title>
+      <link>https://oshoworld.com/living-tao-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2002.mp3" type="audio/mpeg" length="30390161" />
+      <guid isPermaLink="false">urn:uuid:8e02322f-3a6c-5877-b978-41cbff25c637</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:14</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 03</title>
+      <link>https://oshoworld.com/living-tao-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2003.mp3" type="audio/mpeg" length="31473824" />
+      <guid isPermaLink="false">urn:uuid:a8d77a45-7bc6-5df0-830d-b31d9dfbe952</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:15</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 04</title>
+      <link>https://oshoworld.com/living-tao-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2004.mp3" type="audio/mpeg" length="29653821" />
+      <guid isPermaLink="false">urn:uuid:c3a955b9-223c-55fa-8acb-4a9c5a00b061</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:12</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 05</title>
+      <link>https://oshoworld.com/living-tao-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2005.mp3" type="audio/mpeg" length="30295179" />
+      <guid isPermaLink="false">urn:uuid:3e5ad90c-d7c7-575b-9713-6b432705d335</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:59</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 06</title>
+      <link>https://oshoworld.com/living-tao-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2006.mp3" type="audio/mpeg" length="35785125" />
+      <guid isPermaLink="false">urn:uuid:ebef55b7-f53f-5d75-9384-2559094ac2fb</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:14</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 07</title>
+      <link>https://oshoworld.com/living-tao-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2007.mp3" type="audio/mpeg" length="25801752" />
+      <guid isPermaLink="false">urn:uuid:74caa631-4a24-5c2b-bf95-d6356479593b</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:30</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 08</title>
+      <link>https://oshoworld.com/living-tao-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2008.mp3" type="audio/mpeg" length="35152388" />
+      <guid isPermaLink="false">urn:uuid:187f4b9b-8603-5c48-aad3-5c4f7b3583a5</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:28</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 09</title>
+      <link>https://oshoworld.com/living-tao-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2009.mp3" type="audio/mpeg" length="37092450" />
+      <guid isPermaLink="false">urn:uuid:1cac3824-f410-5bd9-9f11-7d2d4a90f69a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:51</itunes:duration>
+    </item>
+    <item>
+      <title>Living Tao 10</title>
+      <link>https://oshoworld.com/living-tao-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/tao-vol-2-living-tao-the-three-treasures-series/Living%20Tao%2010.mp3" type="audio/mpeg" length="30570876" />
+      <guid isPermaLink="false">urn:uuid:46fd1459-110e-5466-9659-5bed5e703af6</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:44</itunes:duration>
+    </item>
+  </channel>
+</rss>

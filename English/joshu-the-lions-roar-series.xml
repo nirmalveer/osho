@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Joshu The Lion's Roar</title>
+    <link>https://oshoworld.com/joshu-the-lions-roar-series</link>
+    <description>Osho discourse series: Joshu The Lion's Roar. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/joshu-the-lions-roar-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joshu The Lion's Roar 01</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2001.mp3" type="audio/mpeg" length="33695263" />
+      <guid isPermaLink="false">urn:uuid:e8f1139b-96c7-59dd-b886-e2828c3a5469</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:35</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 02</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2002.mp3" type="audio/mpeg" length="35639871" />
+      <guid isPermaLink="false">urn:uuid:8ce928bb-4a84-58c7-b7fa-b5a30d25fbf7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:00</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 03</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2003.mp3" type="audio/mpeg" length="35101644" />
+      <guid isPermaLink="false">urn:uuid:2a2c7314-b62e-554d-afaa-be8238397ab0</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:30</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 04</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2004.mp3" type="audio/mpeg" length="44401654" />
+      <guid isPermaLink="false">urn:uuid:361a6471-6e63-5d90-8029-7a1854543b69</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:00:20</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 05</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2005.mp3" type="audio/mpeg" length="40823714" />
+      <guid isPermaLink="false">urn:uuid:8f141f2b-70b9-5a20-a1aa-13396c101b22</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:24</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 06</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2006.mp3" type="audio/mpeg" length="32021964" />
+      <guid isPermaLink="false">urn:uuid:b5510c78-9c66-52ac-9f64-5d24acda26bc</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:57</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 07</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2007.mp3" type="audio/mpeg" length="36480752" />
+      <guid isPermaLink="false">urn:uuid:71e70c05-eb7f-5162-96c4-0551a25405ef</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:20</itunes:duration>
+    </item>
+    <item>
+      <title>Joshu The Lion's Roar 08</title>
+      <link>https://oshoworld.com/joshu-the-lions-roar-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/joshu-the-lions-roar-series/Joshu%20The%20Lions%20Roar%2008.mp3" type="audio/mpeg" length="41644377" />
+      <guid isPermaLink="false">urn:uuid:63500a8c-59e5-54b1-b2a3-e06f2c044bf6</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:40</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Hasiba Kheliba Dhariba Dhyanam (हसिबा खेलिबा धरिबा ध्यानम्)</title>
+    <link>https://oshoworld.com/hasiba-kheliba-dhariba-dhyanam-by-osho-01-03</link>
+    <description>Osho discourse series: Hasiba Kheliba Dhariba Dhyanam (हसिबा खेलिबा धरिबा ध्यानम्). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/hasiba-kheliba-dhariba-dhyanam-by-osho-01-03.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hasiba Kheliba Dhariba Dhyanam (हसिबा खेलिबा धरिबा ध्यानम्) 01</title>
+      <link>https://oshoworld.com/hasiba-kheliba-dhariba-dhyanam-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hasiba_Kheliba_Dhariba_Dhyanam_01.mp3" type="audio/mpeg" length="30201654" />
+      <guid isPermaLink="false">urn:uuid:b9569bb6-6b49-591d-b421-0e4361987fb7</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:30</itunes:duration>
+    </item>
+    <item>
+      <title>Hasiba Kheliba Dhariba Dhyanam (हसिबा खेलिबा धरिबा ध्यानम्) 02</title>
+      <link>https://oshoworld.com/hasiba-kheliba-dhariba-dhyanam-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hasiba_Kheliba_Dhariba_Dhyanam_02.mp3" type="audio/mpeg" length="21264402" />
+      <guid isPermaLink="false">urn:uuid:1c633d77-594f-580d-b0f6-486d8b046e07</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:07</itunes:duration>
+    </item>
+    <item>
+      <title>Hasiba Kheliba Dhariba Dhyanam (हसिबा खेलिबा धरिबा ध्यानम्) 03</title>
+      <link>https://oshoworld.com/hasiba-kheliba-dhariba-dhyanam-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Hasiba_Kheliba_Dhariba_Dhyanam_03.mp3" type="audio/mpeg" length="18570618" />
+      <guid isPermaLink="false">urn:uuid:29a56b1d-e5f1-537a-9588-0425f34ed1aa</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:14</itunes:duration>
+    </item>
+  </channel>
+</rss>

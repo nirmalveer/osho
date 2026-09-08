@@ -1,143 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Shiksha Main Kranti</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Shiksha Main Kranti (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/161-shiksha-main-kranti-01-28</link>
+    <description>Osho discourse series: Shiksha Main Kranti. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Shiksha%20Main%20Kranti.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shiksha Main Kranti 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 01</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_04.mp3" type="audio/mpeg" length="24461904" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_04.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:25</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 02</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_06.mp3" type="audio/mpeg" length="20611713" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_06.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:26</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 03</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_07.mp3" type="audio/mpeg" length="17463295" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_07.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:49</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 04</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_10.mp3" type="audio/mpeg" length="20524034" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_10.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:52:26</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 05</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_11.mp3" type="audio/mpeg" length="17446128" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_11.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:43:05</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 06</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_12.mp3" type="audio/mpeg" length="18083526" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_12.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:47:00</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 07</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_13.mp3" type="audio/mpeg" length="20573777" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_13.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:45:42</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 08</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_14.mp3" type="audio/mpeg" length="37017436" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_14.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:01</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 09</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_15.mp3" type="audio/mpeg" length="25218667" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_15.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:31</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 10</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_16.mp3" type="audio/mpeg" length="36200075" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_16.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:29</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 11</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_17.mp3" type="audio/mpeg" length="22839513" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_17.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:24</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_18.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 12</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_18.mp3" type="audio/mpeg" length="31047688" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_18.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:35</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 13</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_19.mp3" type="audio/mpeg" length="12717184" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_19.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:40:04</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 14</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_20.mp3" type="audio/mpeg" length="25158615" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_20.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:32</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 15</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_21.mp3" type="audio/mpeg" length="25835757" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_21.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:44</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_22.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 16</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_22.mp3" type="audio/mpeg" length="41304223" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_22.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:24</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_23.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 17</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_23.mp3" type="audio/mpeg" length="29127461" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_23.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:56</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_24.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 18</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_24.mp3" type="audio/mpeg" length="21709327" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_24.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:55</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_25.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 19</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_25.mp3" type="audio/mpeg" length="21268553" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_25.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:44</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_26.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 20</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_26.mp3" type="audio/mpeg" length="24333548" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_26.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:17</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_27.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 21</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_27.mp3" type="audio/mpeg" length="22944664" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_27.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:56</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Main Kranti 022</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_28.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Main Kranti 22</title>
+      <link>https://oshoworld.com/shiksha-main-kranti-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Main_Kranti_28.mp3" type="audio/mpeg" length="41227541" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/161-Shiksha%20Main%20Kranti%2001-28%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Main_Kranti_28.mp3</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:16</itunes:duration>
     </item>
   </channel>
 </rss>

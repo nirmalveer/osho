@@ -1,107 +1,140 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sadhana Path</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sadhana Path (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sadhana-path-by-osho-01-16</link>
+    <description>Osho discourse series: Sadhana Path. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sadhana%20Path.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sadhana Path 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 01</title>
+      <link>https://oshoworld.com/sadhana-path-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_01.mp3" type="audio/mpeg" length="31050693" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:18</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 02</title>
+      <link>https://oshoworld.com/sadhana-path-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_02.mp3" type="audio/mpeg" length="26688496" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:58</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 03</title>
+      <link>https://oshoworld.com/sadhana-path-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_03.mp3" type="audio/mpeg" length="37535987" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:27</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 04</title>
+      <link>https://oshoworld.com/sadhana-path-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_04.mp3" type="audio/mpeg" length="30051987" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:57</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 05</title>
+      <link>https://oshoworld.com/sadhana-path-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_05.mp3" type="audio/mpeg" length="23996810" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:51:16</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 06</title>
+      <link>https://oshoworld.com/sadhana-path-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_06.mp3" type="audio/mpeg" length="25439678" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:15</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 07</title>
+      <link>https://oshoworld.com/sadhana-path-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_07.mp3" type="audio/mpeg" length="30052606" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:10</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 08</title>
+      <link>https://oshoworld.com/sadhana-path-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Antaryatra_08.mp3" type="audio/mpeg" length="25937859" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Antaryatra_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:58</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Path_Ki_Khoj.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 09</title>
+      <link>https://oshoworld.com/sadhana-path-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Path_Ki_Khoj.mp3" type="audio/mpeg" length="30059756" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Path_Ki_Khoj.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:31</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 10</title>
+      <link>https://oshoworld.com/sadhana-path-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_01.mp3" type="audio/mpeg" length="24812107" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_01.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:32</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 11</title>
+      <link>https://oshoworld.com/sadhana-path-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_02.mp3" type="audio/mpeg" length="29089577" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_02.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:24</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 12</title>
+      <link>https://oshoworld.com/sadhana-path-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_03.mp3" type="audio/mpeg" length="27344253" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_03.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:26</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 13</title>
+      <link>https://oshoworld.com/sadhana-path-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_04.mp3" type="audio/mpeg" length="29124227" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_04.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:00</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 14</title>
+      <link>https://oshoworld.com/sadhana-path-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_05.mp3" type="audio/mpeg" length="26670642" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_05.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:51</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 15</title>
+      <link>https://oshoworld.com/sadhana-path-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_06.mp3" type="audio/mpeg" length="27777437" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_06.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:50</itunes:duration>
     </item>
     <item>
-      <title>Sadhana Path 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sadhana Path 16</title>
+      <link>https://oshoworld.com/sadhana-path-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_07.mp3" type="audio/mpeg" length="25775653" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/159-Sadhana%20Path%2001-16%20%E2%80%93%20Osho%20World/OSHO-Sadhana_Path_Prabhu_Ki_Pagdandiyan_07.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:51</itunes:duration>
     </item>
   </channel>
 </rss>

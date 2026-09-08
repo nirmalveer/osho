@@ -1,251 +1,332 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Athato Bhakti Jigyasa</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Athato Bhakti Jigyasa (Hindi) — streamed from Internet Archive</description>
+    <title>Athato Bhakti Jigyasa (अथातो भ‍‍क्‍ति जिज्ञासा)</title>
+    <link>https://oshoworld.com/athato-bhakti-jigyasa-by-osho-1-40</link>
+    <description>Osho discourse series: Athato Bhakti Jigyasa (अथातो भ‍‍क्‍ति जिज्ञासा). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Athato%20Bhakti%20Jigyasa.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Athato Bhakti Jigyasa 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_01.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 01</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_01.mp3" type="audio/mpeg" length="32793930" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:53</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_02.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 02</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_02.mp3" type="audio/mpeg" length="25879085" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:01</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_03.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 03</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_03.mp3" type="audio/mpeg" length="29819988" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:01</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_04.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 04</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_04.mp3" type="audio/mpeg" length="37363023" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:25</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_05.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 05</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_05.mp3" type="audio/mpeg" length="40086193" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:56</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_06.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 06</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_06.mp3" type="audio/mpeg" length="32537574" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:48</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_07.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 07</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_07.mp3" type="audio/mpeg" length="32413650" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:29</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_08.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 08</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_08.mp3" type="audio/mpeg" length="33914822" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:21</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_09.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 09</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_09.mp3" type="audio/mpeg" length="28557434" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:46</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_10.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 10</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_10.mp3" type="audio/mpeg" length="34726529" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:27</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_11.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 11</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_11.mp3" type="audio/mpeg" length="33967333" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:46</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_12.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 12</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_12.mp3" type="audio/mpeg" length="38947524" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:10</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_13.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 13</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_13.mp3" type="audio/mpeg" length="33268522" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:24</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_14.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 14</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_14.mp3" type="audio/mpeg" length="33380654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:03</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_15.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 15</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_15.mp3" type="audio/mpeg" length="33614742" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:22</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_16.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 16</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_16.mp3" type="audio/mpeg" length="36973406" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:54</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_17.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 17</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_17.mp3" type="audio/mpeg" length="37605147" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:12</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_18.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 18</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_18.mp3" type="audio/mpeg" length="34600202" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_18.mp3</guid>
       <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:02</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_19.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 19</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_19.mp3" type="audio/mpeg" length="32658051" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_19.mp3</guid>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:38</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_20.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 20</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_20.mp3" type="audio/mpeg" length="35116029" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_20.mp3</guid>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:28</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_21.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 21</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_21.mp3" type="audio/mpeg" length="39897473" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_21.mp3</guid>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:48</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 022</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_22.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 22</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_22.mp3" type="audio/mpeg" length="33618740" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_22.mp3</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:39</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 023</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_23.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 23</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_23.mp3" type="audio/mpeg" length="40901761" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_23.mp3</guid>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:35</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 024</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_24.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 24</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_24.mp3" type="audio/mpeg" length="33680803" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_24.mp3</guid>
       <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:01</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 025</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_25.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 25</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_25.mp3" type="audio/mpeg" length="37099285" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_25.mp3</guid>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:24</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 026</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_26.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 26</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_26.mp3" type="audio/mpeg" length="39854149" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_26.mp3</guid>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:04</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 027</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_27.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 27</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_27.mp3" type="audio/mpeg" length="37032359" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_27.mp3</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:45</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 028</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_28.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 28</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_28.mp3" type="audio/mpeg" length="41448493" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_28.mp3</guid>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:08</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 029</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_29.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 29</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_29.mp3" type="audio/mpeg" length="47528640" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_29.mp3</guid>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:39</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 030</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_30.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 30</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_30.mp3" type="audio/mpeg" length="44044700" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_30.mp3</guid>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:10</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 031</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_31.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 31</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-31</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_31.mp3" type="audio/mpeg" length="34864194" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_31.mp3</guid>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:07</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 032</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_32.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 32</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-32</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_32.mp3" type="audio/mpeg" length="41638684" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_32.mp3</guid>
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:48</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 033</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_33.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 33</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-33</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_33.mp3" type="audio/mpeg" length="41197446" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_33.mp3</guid>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:24</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 034</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_34.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 34</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-34</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_34.mp3" type="audio/mpeg" length="39336456" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_34.mp3</guid>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:50</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 035</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_35.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 35</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-35</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_35.mp3" type="audio/mpeg" length="44614961" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_35.mp3</guid>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:49</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 036</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_36.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 36</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-36</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_36.mp3" type="audio/mpeg" length="46055908" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_36.mp3</guid>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:01</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 037</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_37.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 37</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-37</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_37.mp3" type="audio/mpeg" length="43889654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_37.mp3</guid>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:46</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 038</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_38.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 38</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-38</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_38.mp3" type="audio/mpeg" length="44330647" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_38.mp3</guid>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:54</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 039</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_39.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 39</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-39</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_39.mp3" type="audio/mpeg" length="45705488" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_39.mp3</guid>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:23</itunes:duration>
     </item>
     <item>
-      <title>Athato Bhakti Jigyasa 040</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_40.mp3" type="audio/mpeg" length="0"/>
+      <title>ATHATO BHAKTI JIGYASA 40</title>
+      <link>https://oshoworld.com/athato-bhakti-jigyasa-40</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Athato_Bhakti_Jigyasa_40.mp3" type="audio/mpeg" length="40013835" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/005-Athato%20Bhakti%20Jigyasa/OSHO-Athato_Bhakti_Jigyasa_40.mp3</guid>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:55</itunes:duration>
     </item>
   </channel>
 </rss>

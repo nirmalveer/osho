@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Vigyan Dharam Aur Kala</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Vigyan Dharam Aur Kala (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/vigyan-dharam-aur-kala-by-osho-01-11</link>
+    <description>Osho discourse series: Vigyan Dharam Aur Kala. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Vigyan%20Dharam%20Aur%20Kala.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vigyan Dharam Aur Kala 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 01</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_01.mp3" type="audio/mpeg" length="22670023" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:21</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 02</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_02.mp3" type="audio/mpeg" length="24785036" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:56:12</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 03</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_03.mp3" type="audio/mpeg" length="20533977" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:56</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 04</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_04.mp3" type="audio/mpeg" length="26461185" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:17</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 05</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_05.mp3" type="audio/mpeg" length="24903506" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:05</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 06</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_06.mp3" type="audio/mpeg" length="28745246" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:10</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 07</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_07.mp3" type="audio/mpeg" length="21404363" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:48:02</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 08</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_08.mp3" type="audio/mpeg" length="24654172" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:11</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 09</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_09.mp3" type="audio/mpeg" length="24251379" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:20</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 10</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_10.mp3" type="audio/mpeg" length="12422743" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:19</itunes:duration>
     </item>
     <item>
-      <title>Vigyan Dharam Aur Kala 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Vigyan Dharam Aur Kala 11</title>
+      <link>https://oshoworld.com/vigyan-dharam-aur-kala-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Vigyan_Dharam_Aur_Kala_11.mp3" type="audio/mpeg" length="24570712" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/176-Vigyan%20Dharam%20Aur%20Kala%2001-11%20%E2%80%93%20Osho%20World/OSHO-Vigyan_Dharam_Aur_Kala_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:42</itunes:duration>
     </item>
   </channel>
 </rss>

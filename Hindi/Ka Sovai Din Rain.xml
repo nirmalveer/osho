@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ka Sovai Din Rain</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ka Sovai Din Rain (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/ka-sovai-din-rain-by-osho-01-11</link>
+    <description>Osho discourse series: Ka Sovai Din Rain. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ka%20Sovai%20Din%20Rain.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ka Sovai Din Rain 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 01</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_01.mp3" type="audio/mpeg" length="38641661" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:46</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 02</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_02.mp3" type="audio/mpeg" length="44137809" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:19</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 03</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_03.mp3" type="audio/mpeg" length="38597524" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:30</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 04</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_04.mp3" type="audio/mpeg" length="43331705" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:18</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 05</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_05.mp3" type="audio/mpeg" length="41193962" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:41</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 06</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_06.mp3" type="audio/mpeg" length="40606654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:58</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 07</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_07.mp3" type="audio/mpeg" length="41811107" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:34</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 08</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_08.mp3" type="audio/mpeg" length="37846603" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:12</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 09</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_09.mp3" type="audio/mpeg" length="45811167" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:30</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 10</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_10.mp3" type="audio/mpeg" length="44266703" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:54</itunes:duration>
     </item>
     <item>
-      <title>Ka Sovai Din Rain 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Ka Sovai Din Rain 11</title>
+      <link>https://oshoworld.com/ka-sovai-din-rain-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ka_Sovai_Din_Rain_11.mp3" type="audio/mpeg" length="44078779" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/089-Ka%20Sovai%20Din%20Rain%2001-11%20%E2%80%93%20Osho%20World/OSHO-Ka_Sovai_Din_Rain_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:07</itunes:duration>
     </item>
   </channel>
 </rss>

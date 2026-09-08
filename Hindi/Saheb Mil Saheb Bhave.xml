@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Saheb Mil Saheb Bhave</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Saheb Mil Saheb Bhave (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/saheb-mil-saheb-bhave</link>
+    <description>Osho discourse series: Saheb Mil Saheb Bhave. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Saheb%20Mil%20Saheb%20Bhave.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Saheb Mil Saheb Bhave 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 01</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_01.mp3" type="audio/mpeg" length="40653305" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:33</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 02</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_02.mp3" type="audio/mpeg" length="45569150" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:51</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 03</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_03.mp3" type="audio/mpeg" length="44172592" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:33</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 04</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_04.mp3" type="audio/mpeg" length="50435351" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:52</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 05</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_05.mp3" type="audio/mpeg" length="52417310" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:23</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 06</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_06.mp3" type="audio/mpeg" length="49060711" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:01</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 07</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_07.mp3" type="audio/mpeg" length="40852878" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:38</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 08</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_08.mp3" type="audio/mpeg" length="36935319" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:13</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 09</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_09.mp3" type="audio/mpeg" length="38231467" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:17</itunes:duration>
     </item>
     <item>
-      <title>Saheb Mil Saheb Bhave 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Saheb Mil Saheb Bhave 10</title>
+      <link>https://oshoworld.com/saheb-mil-saheb-bhave-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Saheb_Mil_Saheb_Bhave_10.mp3" type="audio/mpeg" length="38383639" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/151-Saheb%20Mil%20Saheb%20Bhave%2001-10%20%E2%80%93%20Osho%20World/OSHO-Saheb_Mil_Saheb_Bhave_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:55</itunes:duration>
     </item>
   </channel>
 </rss>

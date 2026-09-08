@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Heart Sutra</title>
+    <link>https://oshoworld.com/the-heart-sutra-series</link>
+    <description>Osho discourse series: The Heart Sutra. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-heart-sutra-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Heart Sutra 01</title>
+      <link>https://oshoworld.com/the-heart-sutra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2001.mp3" type="audio/mpeg" length="39302798" />
+      <guid isPermaLink="false">urn:uuid:7d397032-2d4d-5d62-a677-f73b32bd237b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:36</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 02</title>
+      <link>https://oshoworld.com/the-heart-sutra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2002.mp3" type="audio/mpeg" length="36616208" />
+      <guid isPermaLink="false">urn:uuid:391cfd3d-b3d6-5b00-8702-90ce59c42086</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:09</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 03</title>
+      <link>https://oshoworld.com/the-heart-sutra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2003.mp3" type="audio/mpeg" length="37505678" />
+      <guid isPermaLink="false">urn:uuid:5cd9b15c-88f0-5f82-a0d1-c191cf107f43</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:37</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 04</title>
+      <link>https://oshoworld.com/the-heart-sutra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2004.mp3" type="audio/mpeg" length="34094504" />
+      <guid isPermaLink="false">urn:uuid:551ab774-fbef-52fb-90da-2ad4adadcd91</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 05</title>
+      <link>https://oshoworld.com/the-heart-sutra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2005.mp3" type="audio/mpeg" length="39758425" />
+      <guid isPermaLink="false">urn:uuid:75c52c41-8ab4-592e-a28c-5487b90c4035</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:52</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 06</title>
+      <link>https://oshoworld.com/the-heart-sutra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2006.mp3" type="audio/mpeg" length="34977077" />
+      <guid isPermaLink="false">urn:uuid:882c2dc3-11a2-57ab-8429-e73281b3fcc1</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:35</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 07</title>
+      <link>https://oshoworld.com/the-heart-sutra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2007.mp3" type="audio/mpeg" length="35837550" />
+      <guid isPermaLink="false">urn:uuid:ac5fdb98-0170-5189-83fb-c52346a03a74</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:59</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 08</title>
+      <link>https://oshoworld.com/the-heart-sutra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2008.mp3" type="audio/mpeg" length="28798595" />
+      <guid isPermaLink="false">urn:uuid:3b90d4c6-0ff8-593f-a1f4-c6335cd519de</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 09</title>
+      <link>https://oshoworld.com/the-heart-sutra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2009.mp3" type="audio/mpeg" length="35670314" />
+      <guid isPermaLink="false">urn:uuid:8e122082-9902-51bc-a7b7-eea0526d806b</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:31</itunes:duration>
+    </item>
+    <item>
+      <title>The Heart Sutra 10</title>
+      <link>https://oshoworld.com/the-heart-sutra-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-heart-sutra-series/The%20Heart%20Sutra%2010.mp3" type="audio/mpeg" length="36379382" />
+      <guid isPermaLink="false">urn:uuid:40469df2-dbaf-5030-98a9-f425fc788c23</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

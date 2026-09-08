@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Yoga Vol 5: A New Direction</title>
+    <link>https://oshoworld.com/yoga-vol-5-a-new-direction-series</link>
+    <description>Osho discourse series: Yoga Vol 5: A New Direction. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/yoga-vol-5-a-new-direction-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yoga A New Direction 01</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2001.mp3" type="audio/mpeg" length="24180001" />
+      <guid isPermaLink="false">urn:uuid:ea52d1c3-d0f7-5135-aa1f-3b264ab08abc</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:34</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 02</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2002.mp3" type="audio/mpeg" length="31748250" />
+      <guid isPermaLink="false">urn:uuid:99414698-0bf3-5039-b3d4-e19965985fe7</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:35</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 03</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2003.mp3" type="audio/mpeg" length="30214914" />
+      <guid isPermaLink="false">urn:uuid:1bf66a1e-8f02-58c0-a1b1-ca72c48b8bdc</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:19</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 04</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2004.mp3" type="audio/mpeg" length="28537069" />
+      <guid isPermaLink="false">urn:uuid:85726766-5dcd-5d71-812f-e5eaac7c40fb</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:40</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 05</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2005.mp3" type="audio/mpeg" length="32357164" />
+      <guid isPermaLink="false">urn:uuid:e0df2176-1a72-505a-b2bd-ad5095cff2d1</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:17</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 06</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2006.mp3" type="audio/mpeg" length="26250153" />
+      <guid isPermaLink="false">urn:uuid:9caf6e91-281c-5322-a69c-ba96d6b31525</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:19</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 07</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2007.mp3" type="audio/mpeg" length="34404746" />
+      <guid isPermaLink="false">urn:uuid:6d7a8fa9-9be9-5199-b2d3-9fbbb8b2f4a4</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:58</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 08</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2008.mp3" type="audio/mpeg" length="29276230" />
+      <guid isPermaLink="false">urn:uuid:8a9a960c-3920-564e-b82a-f40e60980f8e</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:43</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 09</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2009.mp3" type="audio/mpeg" length="31944168" />
+      <guid isPermaLink="false">urn:uuid:7cd5baed-8873-5ba3-aedb-d7d581efe91a</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:08</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga A New Direction 10</title>
+      <link>https://oshoworld.com/yoga-a-new-direction-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yoga-vol-5-a-new-direction-series/Yoga%20A%20New%20Direction%2010.mp3" type="audio/mpeg" length="30075734" />
+      <guid isPermaLink="false">urn:uuid:f282628a-5974-599f-a0be-72c26db67a6e</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:56</itunes:duration>
+    </item>
+  </channel>
+</rss>

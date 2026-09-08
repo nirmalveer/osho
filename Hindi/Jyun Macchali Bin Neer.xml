@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jyun Macchali Bin Neer</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jyun Macchali Bin Neer (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jyun-macchali-bin-neer-by-osho-01-10</link>
+    <description>Osho discourse series: Jyun Macchali Bin Neer. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jyun%20Macchali%20Bin%20Neer.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jyun Macchali Bin Neer 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 01</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_01.mp3" type="audio/mpeg" length="43694603" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:10</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 02</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_02.mp3" type="audio/mpeg" length="43077677" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:39</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 03</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_03.mp3" type="audio/mpeg" length="43104978" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:45</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 04</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_04.mp3" type="audio/mpeg" length="37544335" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:16</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 05</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_05.mp3" type="audio/mpeg" length="44735680" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:25</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 06</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_06.mp3" type="audio/mpeg" length="45712927" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:18</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 07</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_07.mp3" type="audio/mpeg" length="54222186" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:16</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 08</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_08.mp3" type="audio/mpeg" length="48389566" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:54</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 09</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_09.mp3" type="audio/mpeg" length="36728051" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:45</itunes:duration>
     </item>
     <item>
-      <title>Jyun Macchali Bin Neer 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jyun Macchali Bin Neer 10</title>
+      <link>https://oshoworld.com/jyun-macchali-bin-neer-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jyun_Macchali_Bin_Neer_10.mp3" type="audio/mpeg" length="35310221" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/070-Jyun%20Macchali%20Bin%20Neer/OSHO-Jyun_Macchali_Bin_Neer_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:44</itunes:duration>
     </item>
   </channel>
 </rss>

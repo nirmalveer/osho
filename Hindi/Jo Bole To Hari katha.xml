@@ -1,77 +1,100 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jo Bole To Hari katha</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jo Bole To Hari katha (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jo-bole-to-hari-katha-by-osho-01-11</link>
+    <description>Osho discourse series: Jo Bole To Hari katha. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jo%20Bole%20To%20Hari%20katha.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jo Bole To Hari katha 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 01</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_01.mp3" type="audio/mpeg" length="45441521" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:41</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 02</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_02.mp3" type="audio/mpeg" length="44455835" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:26</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 03</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_03.mp3" type="audio/mpeg" length="46044506" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:11</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 04</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_04.mp3" type="audio/mpeg" length="46876654" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:04:58</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 05</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_05.mp3" type="audio/mpeg" length="45884455" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:19</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 06</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_06.mp3" type="audio/mpeg" length="48476146" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:16</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 07</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_07.mp3" type="audio/mpeg" length="58756210" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:59</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 08</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_08.mp3" type="audio/mpeg" length="48944875" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:40</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 09</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_09.mp3" type="audio/mpeg" length="39753484" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:32</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 10</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_10.mp3" type="audio/mpeg" length="34198199" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:18</itunes:duration>
     </item>
     <item>
-      <title>Jo Bole To Hari katha 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Bole To Hari katha 11</title>
+      <link>https://oshoworld.com/jo-bole-to-hari-katha-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Bole_To_Harikatha_11.mp3" type="audio/mpeg" length="32562160" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/069-Jo%20Bole%20To%20Hari%20katha/OSHO-Jo_Bole_To_Harikatha_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:14</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Lagan Mahurat Jhooth Sab</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Lagan Mahurat Jhooth Sab (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-by-osho-01-10</link>
+    <description>Osho discourse series: Lagan Mahurat Jhooth Sab. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Lagan%20Mahurat%20Jhooth%20Sab.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lagan Mahurat Jhooth Sab 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 01</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_01.mp3" type="audio/mpeg" length="44177058" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:39</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 02</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_02.mp3" type="audio/mpeg" length="34204942" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:31</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 03</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_03.mp3" type="audio/mpeg" length="28966870" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:24</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 04</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_04.mp3" type="audio/mpeg" length="35719011" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:14</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 05</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_05.mp3" type="audio/mpeg" length="28898896" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:00</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 06</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_06.mp3" type="audio/mpeg" length="34949348" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:08</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 07</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_07.mp3" type="audio/mpeg" length="25779497" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:06:01</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 08</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_08.mp3" type="audio/mpeg" length="41096974" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:26</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 09</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_09.mp3" type="audio/mpeg" length="34359757" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:03</itunes:duration>
     </item>
     <item>
-      <title>Lagan Mahurat Jhooth Sab 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Lagan Mahurat Jhooth Sab 10</title>
+      <link>https://oshoworld.com/lagan-mahurat-jhooth-sab-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Lagan_Mahurat_Jhooth_Sab_10.mp3" type="audio/mpeg" length="30230824" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/096-Lagan%20Mahurat%20Jhooth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Lagan_Mahurat_Jhooth_Sab_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:26</itunes:duration>
     </item>
   </channel>
 </rss>

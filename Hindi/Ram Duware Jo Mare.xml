@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ram Duware Jo Mare</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Ram Duware Jo Mare (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/ram-duware-jo-mare-by-osho-01-10</link>
+    <description>Osho discourse series: Ram Duware Jo Mare. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Ram%20Duware%20Jo%20Mare.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ram Duware Jo Mare 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 01</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_01.mp3" type="audio/mpeg" length="39795931" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:23</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 02</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_02.mp3" type="audio/mpeg" length="38164367" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:40</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 03</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_03.mp3" type="audio/mpeg" length="34585981" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:08</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 04</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_04.mp3" type="audio/mpeg" length="40401464" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:12</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 05</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_05.mp3" type="audio/mpeg" length="38578044" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:53:49</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 06</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_06.mp3" type="audio/mpeg" length="42323104" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:52:19</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 07</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_07.mp3" type="audio/mpeg" length="37410279" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:58</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 08</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_08.mp3" type="audio/mpeg" length="44266113" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:18</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 09</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_09.mp3" type="audio/mpeg" length="48332004" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:20</itunes:duration>
     </item>
     <item>
-      <title>Ram Duware Jo Mare 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Ram Duware Jo Mare 10</title>
+      <link>https://oshoworld.com/ram-duware-jo-mare-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Ram_Duware_Jo_Mare_10.mp3" type="audio/mpeg" length="45377510" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/136-Ram%20Duware%20Jo%20Mare%2001-10%20%E2%80%93%20Osho%20World/OSHO-Ram_Duware_Jo_Mare_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:42</itunes:duration>
     </item>
   </channel>
 </rss>

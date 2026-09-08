@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Sabai Sayane Ek Mat</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Sabai Sayane Ek Mat (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/sabai-sayane-ek-mat-by-osho-01-10</link>
+    <description>Osho discourse series: Sabai Sayane Ek Mat. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Sabai%20Sayane%20Ek%20Mat.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sabai Sayane Ek Mat 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 01</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_01.mp3" type="audio/mpeg" length="40932132" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:16</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 02</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_02.mp3" type="audio/mpeg" length="35991763" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:18</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 03</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_03.mp3" type="audio/mpeg" length="26685374" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:40</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 04</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_04.mp3" type="audio/mpeg" length="47728320" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:36</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 05</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_05.mp3" type="audio/mpeg" length="29958896" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:46</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 06</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_06.mp3" type="audio/mpeg" length="45196487" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:16</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 07</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_07.mp3" type="audio/mpeg" length="29903650" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:31</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 08</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_08.mp3" type="audio/mpeg" length="34363790" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:26</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 09</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_09.mp3" type="audio/mpeg" length="43018671" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:58</itunes:duration>
     </item>
     <item>
-      <title>Sabai Sayane Ek Mat 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Sabai Sayane Ek Mat 10</title>
+      <link>https://oshoworld.com/sabai-sayane-ek-mat-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Sabai_Sayane_Ek_Mat_10.mp3" type="audio/mpeg" length="31624102" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/142-Sabai%20Sayane%20Ek%20Mat%2001-10%20%E2%80%93%20Osho%20World/OSHO-Sabai_Sayane_Ek_Mat_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:24</itunes:duration>
     </item>
   </channel>
 </rss>

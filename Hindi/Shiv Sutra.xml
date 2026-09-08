@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Shiv Sutra</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Shiv Sutra (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/shiv-sutra-by-osho-01-10</link>
+    <description>Osho discourse series: Shiv Sutra. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Shiv%20Sutra.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shiv Sutra 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 01</title>
+      <link>https://oshoworld.com/shiv-sutra-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_01.mp3" type="audio/mpeg" length="40008771" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:03</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 02</title>
+      <link>https://oshoworld.com/shiv-sutra-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_02.mp3" type="audio/mpeg" length="39701822" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:39</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 03</title>
+      <link>https://oshoworld.com/shiv-sutra-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_03.mp3" type="audio/mpeg" length="37550605" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:14</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 04</title>
+      <link>https://oshoworld.com/shiv-sutra-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_04.mp3" type="audio/mpeg" length="34950221" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:33</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 05</title>
+      <link>https://oshoworld.com/shiv-sutra-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_05.mp3" type="audio/mpeg" length="30479784" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:47</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 06</title>
+      <link>https://oshoworld.com/shiv-sutra-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_06.mp3" type="audio/mpeg" length="40555559" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:25</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 07</title>
+      <link>https://oshoworld.com/shiv-sutra-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_07.mp3" type="audio/mpeg" length="32529851" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:27</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 08</title>
+      <link>https://oshoworld.com/shiv-sutra-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_08.mp3" type="audio/mpeg" length="29520373" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:14:45</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 09</title>
+      <link>https://oshoworld.com/shiv-sutra-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_09.mp3" type="audio/mpeg" length="33817070" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:13</itunes:duration>
     </item>
     <item>
-      <title>Shiv Sutra 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiv Sutra 10</title>
+      <link>https://oshoworld.com/shiv-sutra-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiv_Sutra_10.mp3" type="audio/mpeg" length="31367463" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/146-Shiv%20Sutra%2001-10%20%E2%80%93%20Osho%20World/OSHO-Shiv_Sutra_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:36</itunes:duration>
     </item>
   </channel>
 </rss>

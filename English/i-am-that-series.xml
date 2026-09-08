@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>I Am That</title>
+    <link>https://oshoworld.com/i-am-that-series</link>
+    <description>Osho discourse series: I Am That. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/i-am-that-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Am That 01</title>
+      <link>https://oshoworld.com/i-am-that-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2001.mp3" type="audio/mpeg" length="36528745" />
+      <guid isPermaLink="false">urn:uuid:b2e17e14-7d38-5283-ad55-350c64318d55</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:00</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 02</title>
+      <link>https://oshoworld.com/i-am-that-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2002.mp3" type="audio/mpeg" length="38011142" />
+      <guid isPermaLink="false">urn:uuid:68c592de-b552-57b9-8cbe-a298dced9643</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:07</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 03</title>
+      <link>https://oshoworld.com/i-am-that-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2003.mp3" type="audio/mpeg" length="34220827" />
+      <guid isPermaLink="false">urn:uuid:16ad1aaf-f2af-5a99-9909-0cdb4dd6bf9e</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:35</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 04</title>
+      <link>https://oshoworld.com/i-am-that-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2004.mp3" type="audio/mpeg" length="38880549" />
+      <guid isPermaLink="false">urn:uuid:a74628cc-8aa0-5245-95e1-92f9379c147c</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:32</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 05</title>
+      <link>https://oshoworld.com/i-am-that-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2005.mp3" type="audio/mpeg" length="36992836" />
+      <guid isPermaLink="false">urn:uuid:4d55a76a-6cb0-589d-b673-2ca7455ca298</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:17</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 06</title>
+      <link>https://oshoworld.com/i-am-that-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2006.mp3" type="audio/mpeg" length="33198446" />
+      <guid isPermaLink="false">urn:uuid:b9ef8f76-7ff6-5c9c-8ce4-1d8dba2b52d6</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:45</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 07</title>
+      <link>https://oshoworld.com/i-am-that-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2007.mp3" type="audio/mpeg" length="30316565" />
+      <guid isPermaLink="false">urn:uuid:5645ba54-e66a-5884-afcf-a7107e8dc9dc</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:44</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 08</title>
+      <link>https://oshoworld.com/i-am-that-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2008.mp3" type="audio/mpeg" length="32186567" />
+      <guid isPermaLink="false">urn:uuid:2319b94e-d0f8-5da7-9ce9-67b4c7b4f918</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:56</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 09</title>
+      <link>https://oshoworld.com/i-am-that-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2009.mp3" type="audio/mpeg" length="38957506" />
+      <guid isPermaLink="false">urn:uuid:daf1d452-9394-5a4b-b386-6f226d25b9ad</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:45</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 10</title>
+      <link>https://oshoworld.com/i-am-that-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2010.mp3" type="audio/mpeg" length="39171605" />
+      <guid isPermaLink="false">urn:uuid:8e61513b-50c1-51fc-87d3-b89491ab9bdc</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:20</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 11</title>
+      <link>https://oshoworld.com/i-am-that-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2011.mp3" type="audio/mpeg" length="37802841" />
+      <guid isPermaLink="false">urn:uuid:847dd876-935d-57e1-9fd4-c9b66eafcd32</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:32</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 12</title>
+      <link>https://oshoworld.com/i-am-that-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2012.mp3" type="audio/mpeg" length="31940964" />
+      <guid isPermaLink="false">urn:uuid:6c1e53bd-c229-59d0-b660-6e6b6e5e2eb6</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:15</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 13</title>
+      <link>https://oshoworld.com/i-am-that-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2013.mp3" type="audio/mpeg" length="40028631" />
+      <guid isPermaLink="false">urn:uuid:2e651a92-3cce-5dbc-a607-8500a1145d08</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:43</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 14</title>
+      <link>https://oshoworld.com/i-am-that-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2014.mp3" type="audio/mpeg" length="37739520" />
+      <guid isPermaLink="false">urn:uuid:9104a9e1-f318-5186-a2a2-fd87d4b36f99</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:22</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 15</title>
+      <link>https://oshoworld.com/i-am-that-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2015.mp3" type="audio/mpeg" length="28593581" />
+      <guid isPermaLink="false">urn:uuid:7a127354-0c17-5546-96b7-c5687778cc31</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:57</itunes:duration>
+    </item>
+    <item>
+      <title>I Am That 16</title>
+      <link>https://oshoworld.com/i-am-that-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/i-am-that-series/I%20Am%20That%2016.mp3" type="audio/mpeg" length="31722946" />
+      <guid isPermaLink="false">urn:uuid:7c45f07c-ed71-560d-9ec1-f5493e83dddd</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:26:39</itunes:duration>
+    </item>
+  </channel>
+</rss>

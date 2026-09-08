@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Mrityoma Amritam Gamaya</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Mrityoma Amritam Gamaya (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/mrityoma-amritam-gamaya-by-osho-01-10</link>
+    <description>Osho discourse series: Mrityoma Amritam Gamaya. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Mrityoma%20Amritam%20Gamaya.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mrityoma Amritam Gamaya 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 01</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_01.mp3" type="audio/mpeg" length="44169812" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:51</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 02</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_02.mp3" type="audio/mpeg" length="38067934" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:38</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 03</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_03.mp3" type="audio/mpeg" length="47491622" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:13</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 04</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_04.mp3" type="audio/mpeg" length="51354784" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:46</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 05</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_05.mp3" type="audio/mpeg" length="40169815" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:05</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 06</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_06.mp3" type="audio/mpeg" length="42811472" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:27</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 07</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_07.mp3" type="audio/mpeg" length="41937664" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:52</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 08</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_08.mp3" type="audio/mpeg" length="41300130" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:24</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 09</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_09.mp3" type="audio/mpeg" length="47144630" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:56</itunes:duration>
     </item>
     <item>
-      <title>Mrityoma Amritam Gamaya 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Mrityoma Amritam Gamaya 10</title>
+      <link>https://oshoworld.com/mrityoma-amritam-gamaya-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Mrityoma_Amritam_Gamaya_10.mp3" type="audio/mpeg" length="50002934" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/104-Mrityoma%20Amritam%20Gamaya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Mrityoma_Amritam_Gamaya_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:40</itunes:duration>
     </item>
   </channel>
 </rss>

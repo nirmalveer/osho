@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Nansen Point of Departure</title>
+    <link>https://oshoworld.com/nansen-point-of-departure-series</link>
+    <description>Osho discourse series: Nansen Point of Departure. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/nansen-point-of-departure-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nansen Point of Departure 01</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2001.mp3" type="audio/mpeg" length="33179880" />
+      <guid isPermaLink="false">urn:uuid:ee8af632-3a1b-58b1-a8f4-8eff5391175b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:10</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 02</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2002.mp3" type="audio/mpeg" length="25469160" />
+      <guid isPermaLink="false">urn:uuid:5c82f8ff-dadd-5bb2-9639-b1ce64f457d1</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:07:45</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 03</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2003.mp3" type="audio/mpeg" length="44055230" />
+      <guid isPermaLink="false">urn:uuid:ce8f1439-7921-55f1-be7d-5997236b7970</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:59:23</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 04</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2004.mp3" type="audio/mpeg" length="35551433" />
+      <guid isPermaLink="false">urn:uuid:98782b63-454d-5649-9da4-1db27a5d2e49</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:46</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 05</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2005.mp3" type="audio/mpeg" length="39289555" />
+      <guid isPermaLink="false">urn:uuid:98586adb-bf08-5be4-8501-6e9425b0869d</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:09</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 06</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2006.mp3" type="audio/mpeg" length="35419775" />
+      <guid isPermaLink="false">urn:uuid:5719e7dc-f992-5618-b4de-7bd6b00b35ab</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:24</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 07</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2007.mp3" type="audio/mpeg" length="29299442" />
+      <guid isPermaLink="false">urn:uuid:76fff146-20b4-5265-9aad-d78e1626b18a</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:24</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 08</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2008.mp3" type="audio/mpeg" length="36773180" />
+      <guid isPermaLink="false">urn:uuid:37a24706-b4ce-556a-9e45-73ca3a2b7b93</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:09</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 09</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2009.mp3" type="audio/mpeg" length="26877108" />
+      <guid isPermaLink="false">urn:uuid:e2e01689-b123-51e3-b849-a02fcc6f5e95</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:40</itunes:duration>
+    </item>
+    <item>
+      <title>Nansen Point of Departure 10</title>
+      <link>https://oshoworld.com/nansen-point-of-departure-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/nansen-point-of-departure-series/Nansen%20Point%20Of%20Departure%2010.mp3" type="audio/mpeg" length="34386267" />
+      <guid isPermaLink="false">urn:uuid:c4d02157-f2a8-5a7f-937a-1a9d9d88f5ba</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:31</itunes:duration>
+    </item>
+  </channel>
+</rss>

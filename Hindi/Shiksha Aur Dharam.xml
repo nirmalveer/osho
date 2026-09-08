@@ -1,41 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Shiksha Aur Dharam</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Shiksha Aur Dharam (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/shiksha-aur-dharam-by-osho-01-05</link>
+    <description>Osho discourse series: Shiksha Aur Dharam. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Shiksha%20Aur%20Dharam.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shiksha Aur Dharam 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Aur Dharam 01</title>
+      <link>https://oshoworld.com/shiksha-aur-dharam-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Aur_Dharam_01.mp3" type="audio/mpeg" length="19901555" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:53:29</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Aur Dharam 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Aur Dharam 02</title>
+      <link>https://oshoworld.com/shiksha-aur-dharam-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Aur_Dharam_02.mp3" type="audio/mpeg" length="24277684" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:08</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Aur Dharam 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Aur Dharam 03</title>
+      <link>https://oshoworld.com/shiksha-aur-dharam-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Aur_Dharam_03.mp3" type="audio/mpeg" length="21102479" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:50:33</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Aur Dharam 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Aur Dharam 04</title>
+      <link>https://oshoworld.com/shiksha-aur-dharam-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Aur_Dharam_04.mp3" type="audio/mpeg" length="18300523" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:14</itunes:duration>
     </item>
     <item>
-      <title>Shiksha Aur Dharam 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Shiksha Aur Dharam 05</title>
+      <link>https://oshoworld.com/shiksha-aur-dharam-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Shiksha_Aur_Dharam_05.mp3" type="audio/mpeg" length="31965850" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:24</itunes:duration>
     </item>
   </channel>
 </rss>

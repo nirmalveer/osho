@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Isan No Footprints In the Blue Sky</title>
+    <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-series</link>
+    <description>Osho discourse series: Isan No Footprints In the Blue Sky. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/isan-no-footprints-in-the-blue-sky-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isan No Footprints In the Blue Sky 01</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2001.mp3" type="audio/mpeg" length="53216668" />
+      <guid isPermaLink="false">urn:uuid:9d7c38e6-553d-5af6-b120-c6e06fbfdc5c</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:25:43</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 02</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2002.mp3" type="audio/mpeg" length="42580965" />
+      <guid isPermaLink="false">urn:uuid:9c41b134-8557-5f13-8b1c-9967f36c7c63</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:11</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 03</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2003.mp3" type="audio/mpeg" length="40498745" />
+      <guid isPermaLink="false">urn:uuid:b2caf164-9897-5e79-8caf-39495d5a7256</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:50:24</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 04</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2004.mp3" type="audio/mpeg" length="44532312" />
+      <guid isPermaLink="false">urn:uuid:5a62c9de-b80d-5b80-912a-0aa6cdf2693d</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:36</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 05</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2005.mp3" type="audio/mpeg" length="47141161" />
+      <guid isPermaLink="false">urn:uuid:d1471804-a655-569b-80b9-3556d4e5e729</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:08:51</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 06</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2006.mp3" type="audio/mpeg" length="42864342" />
+      <guid isPermaLink="false">urn:uuid:82e4071b-6858-5b4f-8d96-2a5920ae7820</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:56:58</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 07</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2007.mp3" type="audio/mpeg" length="28879532" />
+      <guid isPermaLink="false">urn:uuid:314adbd5-512e-53f3-acec-efdb504032b9</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:07</itunes:duration>
+    </item>
+    <item>
+      <title>Isan No Footprints In the Blue Sky 08</title>
+      <link>https://oshoworld.com/isan-no-footprints-in-the-blue-sky-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/isan-no-footprints-in-the-blue-sky-series/Isan%20No%20Footprints%20In%20The%20Blue%20Sky%2008.mp3" type="audio/mpeg" length="32497125" />
+      <guid isPermaLink="false">urn:uuid:8b6ee286-2081-597f-a3ba-c9f951a765d2</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:10</itunes:duration>
+    </item>
+  </channel>
+</rss>

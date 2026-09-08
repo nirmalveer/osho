@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Antar Ki Khoj</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Antar Ki Khoj (Hindi) — streamed from Internet Archive</description>
+    <title>Antar Ki Khoj (अंतर की खोज)</title>
+    <link>https://oshoworld.com/015-antar-ki-khoj-1-10</link>
+    <description>Osho discourse series: Antar Ki Khoj (अंतर की खोज). Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Antar%20Ki%20Khoj.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Antar Ki Khoj 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_01.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_01</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_01.mp3" type="audio/mpeg" length="35308471" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:37</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_02.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_02</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_02.mp3" type="audio/mpeg" length="38635960" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:22</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_03.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_03</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_03.mp3" type="audio/mpeg" length="31849154" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:11</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_04.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_04</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_04.mp3" type="audio/mpeg" length="24326782" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:55</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_05.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_05</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_05.mp3" type="audio/mpeg" length="28833435" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:17</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_06.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_06</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_06.mp3" type="audio/mpeg" length="26129359" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:41</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_07.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_07</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_07.mp3" type="audio/mpeg" length="26435298" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:55</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_08.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_08</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_08.mp3" type="audio/mpeg" length="23117423" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:24</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_09.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_09</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_09.mp3" type="audio/mpeg" length="23958111" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:36</itunes:duration>
     </item>
     <item>
-      <title>Antar Ki Khoj 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_10.mp3" type="audio/mpeg" length="0"/>
+      <title>OSHO-Antar_Ki_Khoj_10</title>
+      <link>https://oshoworld.com/osho-antar_ki_khoj_10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Antar_Ki_Khoj_10.mp3" type="audio/mpeg" length="25326529" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/015-Antar%20Ki%20Khoj/OSHO-Antar_Ki_Khoj_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:32</itunes:duration>
     </item>
   </channel>
 </rss>

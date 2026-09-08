@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>No Water No Moon</title>
+    <link>https://oshoworld.com/no-water-no-moon-series</link>
+    <description>Osho discourse series: No Water No Moon. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/no-water-no-moon-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Water No Moon 01</title>
+      <link>https://oshoworld.com/no-water-no-moon-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2001.mp3" type="audio/mpeg" length="34087553" />
+      <guid isPermaLink="false">urn:uuid:a9e041a7-e1fb-5f55-afc2-4105135648bb</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:25</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 02</title>
+      <link>https://oshoworld.com/no-water-no-moon-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2002.mp3" type="audio/mpeg" length="39933130" />
+      <guid isPermaLink="false">urn:uuid:5c17c165-164b-51ac-99c4-dbe9e9089449</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:39</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 03</title>
+      <link>https://oshoworld.com/no-water-no-moon-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2003.mp3" type="audio/mpeg" length="28241819" />
+      <guid isPermaLink="false">urn:uuid:10d06682-b5b1-54f8-b269-ff4b0e740b60</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:11</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 04</title>
+      <link>https://oshoworld.com/no-water-no-moon-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2004.mp3" type="audio/mpeg" length="27922864" />
+      <guid isPermaLink="false">urn:uuid:7f2a9180-fe91-5f3c-a132-8b9d16f484ba</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:18</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 05</title>
+      <link>https://oshoworld.com/no-water-no-moon-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2005.mp3" type="audio/mpeg" length="27229783" />
+      <guid isPermaLink="false">urn:uuid:34520208-2c5e-5e90-b315-18125ab4c459</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:22</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 06</title>
+      <link>https://oshoworld.com/no-water-no-moon-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2006.mp3" type="audio/mpeg" length="31277770" />
+      <guid isPermaLink="false">urn:uuid:cf5da14a-2a84-52c7-85c7-18ff4bdc473e</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:37</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 07</title>
+      <link>https://oshoworld.com/no-water-no-moon-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2007.mp3" type="audio/mpeg" length="27896219" />
+      <guid isPermaLink="false">urn:uuid:2a39fd00-e70e-517a-acfd-1d2d966ce962</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:13</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 08</title>
+      <link>https://oshoworld.com/no-water-no-moon-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2008.mp3" type="audio/mpeg" length="34812294" />
+      <guid isPermaLink="false">urn:uuid:cef20218-3b46-5068-b173-1d333f4bcc24</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:26</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 09</title>
+      <link>https://oshoworld.com/no-water-no-moon-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2009.mp3" type="audio/mpeg" length="30485163" />
+      <guid isPermaLink="false">urn:uuid:e1d22c57-4d79-55b1-8737-b71596726bd5</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:22:25</itunes:duration>
+    </item>
+    <item>
+      <title>No Water No Moon 10</title>
+      <link>https://oshoworld.com/no-water-no-moon-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/no-water-no-moon-series/No%20Water%20No%20Moon%2010.mp3" type="audio/mpeg" length="29014834" />
+      <guid isPermaLink="false">urn:uuid:b2abaa20-066b-5a1b-9996-3203e372aec7</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:18:20</itunes:duration>
+    </item>
+  </channel>
+</rss>

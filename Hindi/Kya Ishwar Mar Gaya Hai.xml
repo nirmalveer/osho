@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kya Ishwar Mar Gaya Hai</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kya Ishwar Mar Gaya Hai (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-by-osho-01-08</link>
+    <description>Osho discourse series: Kya Ishwar Mar Gaya Hai. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kya%20Ishwar%20Mar%20Gaya%20Hai.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 01</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_01.mp3" type="audio/mpeg" length="23546957" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:55</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 02</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_02.mp3" type="audio/mpeg" length="26304184" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:48</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 03</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_03.mp3" type="audio/mpeg" length="31074013" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:05</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 04</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_04.mp3" type="audio/mpeg" length="28079339" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:29</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 05</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_05.mp3" type="audio/mpeg" length="27231207" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:45</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 06</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_06.mp3" type="audio/mpeg" length="22817590" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:46</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 07</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_07.mp3" type="audio/mpeg" length="35492113" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:06</itunes:duration>
     </item>
     <item>
-      <title>Kya Ishwar Mar Gaya Hai 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kya Ishwar Mar Gaya Hai 08</title>
+      <link>https://oshoworld.com/kya-ishwar-mar-gaya-hai-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kya_Ishwar_Mar_Gaya_Hai_08.mp3" type="audio/mpeg" length="25464444" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/095-Kya%20Ishwar%20Mar%20Gaya%20Hai%2001-08%20%E2%80%93%20Osho%20World/OSHO-Kya_Ishwar_Mar_Gaya_Hai_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:05:00</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Yakusan Straight to the Point of Enlightenment</title>
+    <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-series</link>
+    <description>Osho discourse series: Yakusan Straight to the Point of Enlightenment. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/yakusan-straight-to-the-point-of-enlightenment-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yakusan Straight to the Point of Enlightenment 01</title>
+      <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yakusan-straight-to-the-point-of-enlightenment-series/Yakusan%20Straight%20To%20The%20Point%20Of%20Enlightenment%2001.mp3" type="audio/mpeg" length="53770966" />
+      <guid isPermaLink="false">urn:uuid:2b3aea54-321a-5d93-b87b-6f54f3a50ef8</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:27:19</itunes:duration>
+    </item>
+    <item>
+      <title>Yakusan Straight to the Point of Enlightenment 02</title>
+      <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yakusan-straight-to-the-point-of-enlightenment-series/Yakusan%20Straight%20To%20The%20Point%20Of%20Enlightenment%2002.mp3" type="audio/mpeg" length="42375726" />
+      <guid isPermaLink="false">urn:uuid:4f7e39bf-df70-51fe-a1a6-2808130b9084</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:55:39</itunes:duration>
+    </item>
+    <item>
+      <title>Yakusan Straight to the Point of Enlightenment 03</title>
+      <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yakusan-straight-to-the-point-of-enlightenment-series/Yakusan%20Straight%20To%20The%20Point%20Of%20Enlightenment%2003.mp3" type="audio/mpeg" length="54226280" />
+      <guid isPermaLink="false">urn:uuid:7404fe62-89f6-5cbd-9e2e-57d95673720a</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:28:35</itunes:duration>
+    </item>
+    <item>
+      <title>Yakusan Straight to the Point of Enlightenment 04</title>
+      <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yakusan-straight-to-the-point-of-enlightenment-series/Yakusan%20Straight%20To%20The%20Point%20Of%20Enlightenment%2004.mp3" type="audio/mpeg" length="48836801" />
+      <guid isPermaLink="false">urn:uuid:0a805b9c-3f0b-50d9-b1e3-b95c4202a613</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:13:36</itunes:duration>
+    </item>
+    <item>
+      <title>Yakusan Straight to the Point of Enlightenment 05</title>
+      <link>https://oshoworld.com/yakusan-straight-to-the-point-of-enlightenment-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/yakusan-straight-to-the-point-of-enlightenment-series/Yakusan%20Straight%20To%20The%20Point%20Of%20Enlightenment%2005.mp3" type="audio/mpeg" length="46496125" />
+      <guid isPermaLink="false">urn:uuid:97b8cb9e-1ca2-5fd2-a0ed-bca2475ada2d</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:06</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Mustard Seed Jesus</title>
+    <link>https://oshoworld.com/the-mustard-seed-jesus-series</link>
+    <description>Osho discourse series: The Mustard Seed Jesus. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/the-mustard-seed-jesus-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mustard Seed 01</title>
+      <link>https://oshoworld.com/the-mustard-seed-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2001.mp3" type="audio/mpeg" length="34317557" />
+      <guid isPermaLink="false">urn:uuid:aae09bf5-bbe3-5348-96c6-412f9596b8ef</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:50</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 02</title>
+      <link>https://oshoworld.com/the-mustard-seed-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2002.mp3" type="audio/mpeg" length="37077968" />
+      <guid isPermaLink="false">urn:uuid:9b44017c-74fb-53b2-8152-d03528156d07</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:30</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 03</title>
+      <link>https://oshoworld.com/the-mustard-seed-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2003.mp3" type="audio/mpeg" length="34496234" />
+      <guid isPermaLink="false">urn:uuid:9d72f255-207e-5926-98aa-5ab37de70322</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:19</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 04</title>
+      <link>https://oshoworld.com/the-mustard-seed-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2004.mp3" type="audio/mpeg" length="30217691" />
+      <guid isPermaLink="false">urn:uuid:1758f899-7855-5d25-9e59-a7f835504b7d</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:26</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 05</title>
+      <link>https://oshoworld.com/the-mustard-seed-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2005.mp3" type="audio/mpeg" length="35118941" />
+      <guid isPermaLink="false">urn:uuid:ae1f57d4-4eeb-5fb6-9fa8-1b46e4ad1b8a</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 06</title>
+      <link>https://oshoworld.com/the-mustard-seed-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2006.mp3" type="audio/mpeg" length="34196087" />
+      <guid isPermaLink="false">urn:uuid:6be2c2fb-ee06-53c4-9201-05be3c8b7cf8</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:29</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 07</title>
+      <link>https://oshoworld.com/the-mustard-seed-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2007.mp3" type="audio/mpeg" length="24527908" />
+      <guid isPermaLink="false">urn:uuid:5bdae8be-fb30-577c-a294-419bc1650ba7</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 08</title>
+      <link>https://oshoworld.com/the-mustard-seed-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2008.mp3" type="audio/mpeg" length="34605792" />
+      <guid isPermaLink="false">urn:uuid:06b62c74-e411-5d97-bbd8-784294de9d09</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:38</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 09</title>
+      <link>https://oshoworld.com/the-mustard-seed-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2009.mp3" type="audio/mpeg" length="30148571" />
+      <guid isPermaLink="false">urn:uuid:dbfaeeb4-d81b-56ca-bee1-8c7bc3b6d361</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:17:15</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 10</title>
+      <link>https://oshoworld.com/the-mustard-seed-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2010.mp3" type="audio/mpeg" length="28967418" />
+      <guid isPermaLink="false">urn:uuid:67c56856-7987-58fc-a7eb-0cd2056b5bba</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:13:58</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 11</title>
+      <link>https://oshoworld.com/the-mustard-seed-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2011.mp3" type="audio/mpeg" length="36369527" />
+      <guid isPermaLink="false">urn:uuid:5d910ced-5684-5070-b5f8-7daecf86e1c6</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:32</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 12</title>
+      <link>https://oshoworld.com/the-mustard-seed-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2012.mp3" type="audio/mpeg" length="41285197" />
+      <guid isPermaLink="false">urn:uuid:6b2e291a-258e-585a-b974-8728f5e75826</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:11</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 13</title>
+      <link>https://oshoworld.com/the-mustard-seed-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2013.mp3" type="audio/mpeg" length="36938161" />
+      <guid isPermaLink="false">urn:uuid:79a47b42-f2c1-5da4-ab80-436df25d5507</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:06</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 14</title>
+      <link>https://oshoworld.com/the-mustard-seed-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2014.mp3" type="audio/mpeg" length="32269818" />
+      <guid isPermaLink="false">urn:uuid:598b554e-ae80-5c27-a8b6-02d282d2df54</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:23:08</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 15</title>
+      <link>https://oshoworld.com/the-mustard-seed-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2015.mp3" type="audio/mpeg" length="36882990" />
+      <guid isPermaLink="false">urn:uuid:d83e648b-b48b-5641-a814-2b6f58647c61</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:57</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 16</title>
+      <link>https://oshoworld.com/the-mustard-seed-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2016.mp3" type="audio/mpeg" length="33946252" />
+      <guid isPermaLink="false">urn:uuid:e09f32a4-8f0a-5985-9825-f0d1b66ebf88</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:48</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 17</title>
+      <link>https://oshoworld.com/the-mustard-seed-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2017.mp3" type="audio/mpeg" length="34755160" />
+      <guid isPermaLink="false">urn:uuid:f5acdc10-e702-5454-94cc-74cbc46fe212</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:03</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 18</title>
+      <link>https://oshoworld.com/the-mustard-seed-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2018.mp3" type="audio/mpeg" length="31067819" />
+      <guid isPermaLink="false">urn:uuid:9255c965-cd9d-5234-be41-c31bc3d35263</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:48</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 19</title>
+      <link>https://oshoworld.com/the-mustard-seed-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2019.mp3" type="audio/mpeg" length="29706579" />
+      <guid isPermaLink="false">urn:uuid:1d84b48a-a548-5f57-a95a-cee231545572</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:01</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 20</title>
+      <link>https://oshoworld.com/the-mustard-seed-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2020.mp3" type="audio/mpeg" length="34232293" />
+      <guid isPermaLink="false">urn:uuid:79548b32-0ffc-5c66-abbd-9e2ab7ad3c98</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:28:35</itunes:duration>
+    </item>
+    <item>
+      <title>The Mustard Seed 21</title>
+      <link>https://oshoworld.com/the-mustard-seed-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/the-mustard-seed-jesus-series/The%20Mustard%20Seed%2021.mp3" type="audio/mpeg" length="35096058" />
+      <guid isPermaLink="false">urn:uuid:5ef6367c-ae6e-56c3-9d4b-1456d4765c07</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:59</itunes:duration>
+    </item>
+  </channel>
+</rss>

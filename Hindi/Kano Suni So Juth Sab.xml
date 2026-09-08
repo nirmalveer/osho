@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kano Suni So Juth Sab</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kano Suni So Juth Sab (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kano-suni-so-juth-sab-by-osho-01-10</link>
+    <description>Osho discourse series: Kano Suni So Juth Sab. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kano%20Suni%20So%20Juth%20Sab.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kano Suni So Juth Sab 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 01</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_01.mp3" type="audio/mpeg" length="41792018" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:54</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 02</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_02.mp3" type="audio/mpeg" length="44776470" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:22</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 03</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_03.mp3" type="audio/mpeg" length="43499950" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:33</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 04</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_04.mp3" type="audio/mpeg" length="47708457" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:53</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 05</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_05.mp3" type="audio/mpeg" length="43489433" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:13</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 06</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_06.mp3" type="audio/mpeg" length="46318977" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:33</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 07</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_07.mp3" type="audio/mpeg" length="44971664" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:39:47</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 08</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_08.mp3" type="audio/mpeg" length="44767648" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:16</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 09</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_09.mp3" type="audio/mpeg" length="43227761" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:12</itunes:duration>
     </item>
     <item>
-      <title>Kano Suni So Juth Sab 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kano Suni So Juth Sab 10</title>
+      <link>https://oshoworld.com/kano-suni-so-juth-sab-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kano_Suni_So_Juth_Sab_10.mp3" type="audio/mpeg" length="43074410" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/087-Kano%20Suni%20So%20Juth%20Sab%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kano_Suni_So_Juth_Sab_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:57</itunes:duration>
     </item>
   </channel>
 </rss>

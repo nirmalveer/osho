@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Sermons in Stones</title>
+    <link>https://oshoworld.com/sermons-in-stones-series</link>
+    <description>Osho discourse series: Sermons in Stones. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/sermons-in-stones-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sermons in Stones 01</title>
+      <link>https://oshoworld.com/sermons-in-stones-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2001.mp3" type="audio/mpeg" length="42634101" />
+      <guid isPermaLink="false">urn:uuid:7dd9033e-7f1d-58ea-a66b-5401d3fe0a40</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:57:13</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 02</title>
+      <link>https://oshoworld.com/sermons-in-stones-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2002.mp3" type="audio/mpeg" length="52237862" />
+      <guid isPermaLink="false">urn:uuid:e9ca5933-8be3-556a-95bf-97ae1154f05a</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:23:54</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 03</title>
+      <link>https://oshoworld.com/sermons-in-stones-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2003.mp3" type="audio/mpeg" length="46498081" />
+      <guid isPermaLink="false">urn:uuid:5d8ba649-52f9-5488-82f7-916ee094f784</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:57</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 04</title>
+      <link>https://oshoworld.com/sermons-in-stones-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2004.mp3" type="audio/mpeg" length="45771772" />
+      <guid isPermaLink="false">urn:uuid:415eea1a-6f54-5099-a6e0-9d721ec4cc46</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:05:56</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 05</title>
+      <link>https://oshoworld.com/sermons-in-stones-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2005.mp3" type="audio/mpeg" length="44288905" />
+      <guid isPermaLink="false">urn:uuid:3cc6dc70-a3a0-5cfb-95d5-358cfcaaacac</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:01:49</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 06</title>
+      <link>https://oshoworld.com/sermons-in-stones-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2006.mp3" type="audio/mpeg" length="50510646" />
+      <guid isPermaLink="false">urn:uuid:721cd576-1e36-5b86-a3cc-f1089e04a452</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:19:06</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 07</title>
+      <link>https://oshoworld.com/sermons-in-stones-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2007.mp3" type="audio/mpeg" length="44491250" />
+      <guid isPermaLink="false">urn:uuid:69767d0f-986f-58cc-8e6f-1ffb56cd4646</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:02:23</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 08</title>
+      <link>https://oshoworld.com/sermons-in-stones-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2008.mp3" type="audio/mpeg" length="45133862" />
+      <guid isPermaLink="false">urn:uuid:60f04a86-5df2-5471-b176-0bb8587e56c1</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:04:10</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 09</title>
+      <link>https://oshoworld.com/sermons-in-stones-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2009.mp3" type="audio/mpeg" length="51308269" />
+      <guid isPermaLink="false">urn:uuid:002ef508-8137-5034-a3d3-396968d80198</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:21:19</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 10</title>
+      <link>https://oshoworld.com/sermons-in-stones-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2010.mp3" type="audio/mpeg" length="49287802" />
+      <guid isPermaLink="false">urn:uuid:33ad13be-512c-5f6c-88bd-4c19c5f13e15</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:15:42</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 11</title>
+      <link>https://oshoworld.com/sermons-in-stones-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2011.mp3" type="audio/mpeg" length="48893301" />
+      <guid isPermaLink="false">urn:uuid:18048957-3741-598d-88f0-1edd1ddf4658</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:14:37</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 12</title>
+      <link>https://oshoworld.com/sermons-in-stones-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2012.mp3" type="audio/mpeg" length="54153317" />
+      <guid isPermaLink="false">urn:uuid:ecca1e7f-2f58-5494-bc6b-94a615829e58</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:29:13</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 13</title>
+      <link>https://oshoworld.com/sermons-in-stones-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2013.mp3" type="audio/mpeg" length="52071410" />
+      <guid isPermaLink="false">urn:uuid:98bb45ed-1431-589e-9804-e11bb98fb1db</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:23:26</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 14</title>
+      <link>https://oshoworld.com/sermons-in-stones-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2014.mp3" type="audio/mpeg" length="49363348" />
+      <guid isPermaLink="false">urn:uuid:874ff7e6-c9af-5fff-a05c-fa2548c0b08f</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:15:55</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 15</title>
+      <link>https://oshoworld.com/sermons-in-stones-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2015.mp3" type="audio/mpeg" length="51514061" />
+      <guid isPermaLink="false">urn:uuid:df08685b-4bb7-51c3-9102-900c29a97bbe</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:21:53</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 16</title>
+      <link>https://oshoworld.com/sermons-in-stones-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2016.mp3" type="audio/mpeg" length="51552618" />
+      <guid isPermaLink="false">urn:uuid:dbb1ee83-235a-5173-b959-0039265596e0</guid>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:22:00</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 17</title>
+      <link>https://oshoworld.com/sermons-in-stones-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2017.mp3" type="audio/mpeg" length="45385421" />
+      <guid isPermaLink="false">urn:uuid:7b678f39-ed87-53ec-88b1-362030127a2a</guid>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:04:52</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 18</title>
+      <link>https://oshoworld.com/sermons-in-stones-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2018.mp3" type="audio/mpeg" length="46472063" />
+      <guid isPermaLink="false">urn:uuid:00ac0a96-bc23-5646-917c-e1e37dc61f31</guid>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:07:53</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 19</title>
+      <link>https://oshoworld.com/sermons-in-stones-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2019.mp3" type="audio/mpeg" length="36923785" />
+      <guid isPermaLink="false">urn:uuid:5a8dbe97-339d-5627-8c09-1b63284331f8</guid>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:22</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 20</title>
+      <link>https://oshoworld.com/sermons-in-stones-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2020.mp3" type="audio/mpeg" length="50405790" />
+      <guid isPermaLink="false">urn:uuid:286641ad-a776-57e6-a537-80d7a73ccaa6</guid>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:18:49</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 21</title>
+      <link>https://oshoworld.com/sermons-in-stones-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2021.mp3" type="audio/mpeg" length="48107119" />
+      <guid isPermaLink="false">urn:uuid:d3aae51c-a1d4-5d52-97a3-aa6f52882e48</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:12:26</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 22</title>
+      <link>https://oshoworld.com/sermons-in-stones-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2022.mp3" type="audio/mpeg" length="36487279" />
+      <guid isPermaLink="false">urn:uuid:8452d783-ca22-5618-9aff-ec900dd58aa5</guid>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:09</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 23</title>
+      <link>https://oshoworld.com/sermons-in-stones-23</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2023.mp3" type="audio/mpeg" length="55168801" />
+      <guid isPermaLink="false">urn:uuid:00b288d1-fb10-5d35-9123-c5c3f10d9a19</guid>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:32:03</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 24</title>
+      <link>https://oshoworld.com/sermons-in-stones-24</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2024.mp3" type="audio/mpeg" length="49404256" />
+      <guid isPermaLink="false">urn:uuid:91ecd65c-564d-5132-876c-ef284938feaf</guid>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:16:02</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 25</title>
+      <link>https://oshoworld.com/sermons-in-stones-25</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2025.mp3" type="audio/mpeg" length="46139472" />
+      <guid isPermaLink="false">urn:uuid:456bc40d-3eac-5337-b64d-feea7cbd1535</guid>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:06:58</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 26</title>
+      <link>https://oshoworld.com/sermons-in-stones-26</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2026.mp3" type="audio/mpeg" length="69234172" />
+      <guid isPermaLink="false">urn:uuid:0a7c2469-3fd4-5f4d-896d-d8d9cde29d4b</guid>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:11:07</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 27</title>
+      <link>https://oshoworld.com/sermons-in-stones-27</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2027.mp3" type="audio/mpeg" length="38408847" />
+      <guid isPermaLink="false">urn:uuid:c6fadcc1-c8dd-563b-aab3-0373ce6a0d94</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:29</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 28</title>
+      <link>https://oshoworld.com/sermons-in-stones-28</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2028.mp3" type="audio/mpeg" length="37131772" />
+      <guid isPermaLink="false">urn:uuid:43643f7c-f68a-5564-9410-2acfffa81755</guid>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:56</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 29</title>
+      <link>https://oshoworld.com/sermons-in-stones-29</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2029.mp3" type="audio/mpeg" length="50398110" />
+      <guid isPermaLink="false">urn:uuid:d582351b-78c2-5031-9a1e-a46dd597cf9a</guid>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:18:47</itunes:duration>
+    </item>
+    <item>
+      <title>Sermons in Stones 30</title>
+      <link>https://oshoworld.com/sermons-in-stones-30</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/sermons-in-stones-series/Sermons%20In%20Stones%2030.mp3" type="audio/mpeg" length="44990293" />
+      <guid isPermaLink="false">urn:uuid:a4893d3a-5ea7-5c48-8834-e8d7db29e512</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:03:46</itunes:duration>
+    </item>
+  </channel>
+</rss>

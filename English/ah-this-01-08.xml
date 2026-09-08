@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Ah This</title>
+    <link>https://oshoworld.com/ah-this-01-08</link>
+    <description>Osho discourse series: Ah This. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/ah-this-01-08.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ah This 01</title>
+      <link>https://oshoworld.com/ah-this-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_01.mp3" type="audio/mpeg" length="36487751" />
+      <guid isPermaLink="false">urn:uuid:cf35a635-4a2c-584e-9264-6348f54fed89</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:19</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 02</title>
+      <link>https://oshoworld.com/ah-this-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_02.mp3" type="audio/mpeg" length="28756029" />
+      <guid isPermaLink="false">urn:uuid:8b5c5b23-e9f9-5972-ae57-86210e964a32</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:51</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 03</title>
+      <link>https://oshoworld.com/ah-this-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_03.mp3" type="audio/mpeg" length="37128953" />
+      <guid isPermaLink="false">urn:uuid:9f97bc8c-8f62-5ea9-950d-3ade321e5846</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:06</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 04</title>
+      <link>https://oshoworld.com/ah-this-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_04.mp3" type="audio/mpeg" length="37150896" />
+      <guid isPermaLink="false">urn:uuid:1ba18efb-6bf9-54d3-9532-2080491ce8ae</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:10</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 05</title>
+      <link>https://oshoworld.com/ah-this-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_05.mp3" type="audio/mpeg" length="34704111" />
+      <guid isPermaLink="false">urn:uuid:0f7c6770-26f3-5222-abba-c119079736ab</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:22</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 06</title>
+      <link>https://oshoworld.com/ah-this-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_06.mp3" type="audio/mpeg" length="34504431" />
+      <guid isPermaLink="false">urn:uuid:6dc4399e-18c7-5a69-9097-16de237780a1</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:49</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 07</title>
+      <link>https://oshoworld.com/ah-this-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_07.mp3" type="audio/mpeg" length="36866579" />
+      <guid isPermaLink="false">urn:uuid:af743f7c-4735-5a16-9fe1-136c2da19fe2</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:23</itunes:duration>
+    </item>
+    <item>
+      <title>Ah This 08</title>
+      <link>https://oshoworld.com/ah-this-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Ah_This_%288%29/Ah_This_08.mp3" type="audio/mpeg" length="33727967" />
+      <guid isPermaLink="false">urn:uuid:b8cbce9b-3e7c-57ca-a950-c9e425c6ba48</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:40</itunes:duration>
+    </item>
+  </channel>
+</rss>

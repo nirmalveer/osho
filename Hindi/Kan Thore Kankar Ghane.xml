@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kan Thore Kankar Ghane</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Kan Thore Kankar Ghane (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/kan-thore-kankar-ghane-by-osho-01-10</link>
+    <description>Osho discourse series: Kan Thore Kankar Ghane. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Kan%20Thore%20Kankar%20Ghane.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kan Thore Kankar Ghane 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 01</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_01.mp3" type="audio/mpeg" length="39857310" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:32:33</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 02</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_02.mp3" type="audio/mpeg" length="46849369" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:44:05</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 03</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_03.mp3" type="audio/mpeg" length="43896182" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:42:42</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 04</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_04.mp3" type="audio/mpeg" length="44205215" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:20</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 05</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_05.mp3" type="audio/mpeg" length="45540167" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:59</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 06</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_06.mp3" type="audio/mpeg" length="39560634" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:35:24</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 07</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_07.mp3" type="audio/mpeg" length="32077769" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:36</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 08</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_08.mp3" type="audio/mpeg" length="38151592" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:33:57</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 09</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_09.mp3" type="audio/mpeg" length="34732690" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:47</itunes:duration>
     </item>
     <item>
-      <title>Kan Thore Kankar Ghane 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Kan Thore Kankar Ghane 10</title>
+      <link>https://oshoworld.com/kan-thore-kankar-ghane-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Kan_Thore_Kankar_Ghane_10.mp3" type="audio/mpeg" length="37252796" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/086-Kan%20Thore%20Kankar%20Ghane%2001-10%20%E2%80%93%20Osho%20World/OSHO-Kan_Thore_Kankar_Ghane_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:38:09</itunes:duration>
     </item>
   </channel>
 </rss>

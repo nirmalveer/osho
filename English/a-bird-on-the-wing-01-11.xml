@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>A Bird on the Wing</title>
+    <link>https://oshoworld.com/a-bird-on-the-wing-01-11</link>
+    <description>Osho discourse series: A Bird on the Wing. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/a-bird-on-the-wing-01-11.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Bird on the Wing 01</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__01.mp3" type="audio/mpeg" length="35236507" />
+      <guid isPermaLink="false">urn:uuid:928830a2-8229-54d6-8eb1-e2b8276289fe</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:49</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 02</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__02.mp3" type="audio/mpeg" length="30772703" />
+      <guid isPermaLink="false">urn:uuid:ab288df3-6cae-589b-8d0b-d9acbb1aa02a</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:25</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 03</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__03.mp3" type="audio/mpeg" length="38101147" />
+      <guid isPermaLink="false">urn:uuid:1f21a158-3b62-5e33-ab93-fdd4e1cd4d46</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:46</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 04</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__04.mp3" type="audio/mpeg" length="33903792" />
+      <guid isPermaLink="false">urn:uuid:1198da5e-1d22-5ffd-ab92-8e4dd923a814</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:34:06</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 05</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__05.mp3" type="audio/mpeg" length="32256510" />
+      <guid isPermaLink="false">urn:uuid:031880d7-f3a1-5f64-966c-42d8928a054c</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:29:32</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 06</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__06.mp3" type="audio/mpeg" length="36073470" />
+      <guid isPermaLink="false">urn:uuid:d7aa9368-6aeb-570f-b5f0-edb81dba2c57</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:08</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 07</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__07.mp3" type="audio/mpeg" length="34690757" />
+      <guid isPermaLink="false">urn:uuid:a21ed27a-902d-5162-9473-2301db5b68d7</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:18</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 08</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__08.mp3" type="audio/mpeg" length="32752262" />
+      <guid isPermaLink="false">urn:uuid:e0033964-4634-569f-91d9-1f98dfa46122</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:54</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 09</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__09.mp3" type="audio/mpeg" length="33055857" />
+      <guid isPermaLink="false">urn:uuid:08f9e1bb-6cd0-5ab4-91db-c4ce0c509451</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:31:45</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 10</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__10.mp3" type="audio/mpeg" length="37926076" />
+      <guid isPermaLink="false">urn:uuid:96396424-0c0e-5f61-86cb-6f3ffdbb4306</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:17</itunes:duration>
+    </item>
+    <item>
+      <title>A Bird on the Wing 11</title>
+      <link>https://oshoworld.com/a-bird-on-the-wing-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/A_Bird_on_the_Wing_%2811%29/A_Bird_on_the_Wing__11.mp3" type="audio/mpeg" length="32485032" />
+      <guid isPermaLink="false">urn:uuid:30cc5915-bfce-53de-bf85-090b99c38c90</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:30:10</itunes:duration>
+    </item>
+  </channel>
+</rss>

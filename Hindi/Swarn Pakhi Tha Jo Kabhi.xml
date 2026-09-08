@@ -1,143 +1,188 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Swarn Pakhi Tha Jo Kabhi</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Swarn Pakhi Tha Jo Kabhi (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-by-osho-01-23</link>
+    <description>Osho discourse series: Swarn Pakhi Tha Jo Kabhi. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Swarn%20Pakhi%20Tha%20Jo%20Kabhi.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 01</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_01.mp3" type="audio/mpeg" length="32230991" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:17</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 02</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_02.mp3" type="audio/mpeg" length="27266105" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:54</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 03</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_03.mp3" type="audio/mpeg" length="29076407" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:36</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 04</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_04.mp3" type="audio/mpeg" length="27589204" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:56</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 05</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_05.mp3" type="audio/mpeg" length="30740434" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:22</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 06</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_06.mp3" type="audio/mpeg" length="23663814" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:15</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 07</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_07.mp3" type="audio/mpeg" length="27700408" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:11:58</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 08</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_08.mp3" type="audio/mpeg" length="25863102" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:21</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 09</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_09.mp3" type="audio/mpeg" length="23149980" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:40</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 10</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_10.mp3" type="audio/mpeg" length="26601598" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:02:26</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 11</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_11.mp3" type="audio/mpeg" length="29504963" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:12:20</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 12</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_12.mp3" type="audio/mpeg" length="23757262" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:57:33</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 013</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_13.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 13</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_13.mp3" type="audio/mpeg" length="33528260" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_13.mp3</guid>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:08:34</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 014</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_14.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 14</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_14.mp3" type="audio/mpeg" length="30503404" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_14.mp3</guid>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:04:45</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 015</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_15.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 15</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_15.mp3" type="audio/mpeg" length="35305521" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_15.mp3</guid>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:21:19</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 016</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_16.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 16</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-16</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_16.mp3" type="audio/mpeg" length="23749894" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_16.mp3</guid>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:58:08</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 017</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_17.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 17</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-17</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_17.mp3" type="audio/mpeg" length="31188182" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_17.mp3</guid>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:45</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 018</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_18.mp3" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_18.mp3</guid>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 019</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_19.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 18</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-18</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_19.mp3" type="audio/mpeg" length="21736856" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_19.mp3</guid>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:59:46</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 020</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_20.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 19</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-19</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_20.mp3" type="audio/mpeg" length="22607849" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_20.mp3</guid>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:58</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 021</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_21.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 20</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-20</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_21.mp3" type="audio/mpeg" length="24321493" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_21.mp3</guid>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:00:22</itunes:duration>
     </item>
     <item>
-      <title>Swarn Pakhi Tha Jo Kabhi 022</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_22.mp3" type="audio/mpeg" length="0"/>
+      <title>Swarn Pakhi Tha Jo Kabhi 21</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-21</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_22.mp3" type="audio/mpeg" length="24615664" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/162-Swarn%20Pakhi%20Tha%20Jo%20Kabhi%2001-23%20%E2%80%93%20Osho%20World/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_22.mp3</guid>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:15</itunes:duration>
+    </item>
+    <item>
+      <title>Swarn Pakhi Tha Jo Kabhi 22</title>
+      <link>https://oshoworld.com/swarn-pakhi-tha-jo-kabhi-22</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Swarn_Pakhi_Tha_Jo_Kabhi_23.mp3" type="audio/mpeg" length="22137107" />
+      <guid isPermaLink="false">urn:uuid:512db557-7d64-5c6b-a371-e7aadaa98ac9</guid>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:55:33</itunes:duration>
     </item>
   </channel>
 </rss>

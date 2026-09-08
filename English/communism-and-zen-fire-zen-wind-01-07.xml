@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Communism And Zen Fire Zen Wind</title>
+    <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-01-07</link>
+    <description>Osho discourse series: Communism And Zen Fire Zen Wind. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/communism-and-zen-fire-zen-wind-01-07.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communism And Zen Fire Zen Wind 01</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_01.mp3" type="audio/mpeg" length="50407617" />
+      <guid isPermaLink="false">urn:uuid:0d3c4d12-878b-5aa6-93b5-55929863de50</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:19:55</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 02</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_02.mp3" type="audio/mpeg" length="60329393" />
+      <guid isPermaLink="false">urn:uuid:a1369d0f-f53d-5699-8252-4d5d9cfd0f77</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:47:29</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 03</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_03.mp3" type="audio/mpeg" length="71943591" />
+      <guid isPermaLink="false">urn:uuid:a7b3cfbc-8a23-5dc2-a8bb-fd3ebd72db88</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:19:44</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 04</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_04.mp3" type="audio/mpeg" length="52684658" />
+      <guid isPermaLink="false">urn:uuid:97c94256-e8f5-5e6f-baa3-dc1169ad1b18</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:26:15</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 05</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_05.mp3" type="audio/mpeg" length="66557403" />
+      <guid isPermaLink="false">urn:uuid:d3e72dd8-a441-53f5-b109-dc949a584d23</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:04:47</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 06</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_06.mp3" type="audio/mpeg" length="86262559" />
+      <guid isPermaLink="false">urn:uuid:72e5c6c8-bcf4-5e1b-9125-9bae24e4e7dd</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>03:59:31</itunes:duration>
+    </item>
+    <item>
+      <title>Communism And Zen Fire Zen Wind 07</title>
+      <link>https://oshoworld.com/communism-and-zen-fire-zen-wind-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/Communism_And_Zen__Fire__Zen_Wind_%287%29/Communism_And_Zen__Fire__Zen_Wind_07.mp3" type="audio/mpeg" length="51011045" />
+      <guid isPermaLink="false">urn:uuid:5c650a56-f81c-5b52-9752-2a0575c55a40</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>02:21:36</itunes:duration>
+    </item>
+  </channel>
+</rss>

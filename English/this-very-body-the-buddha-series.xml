@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>This Very Body the Buddha</title>
+    <link>https://oshoworld.com/this-very-body-the-buddha-series</link>
+    <description>Osho discourse series: This Very Body the Buddha. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/this-very-body-the-buddha-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Very Body the Buddha 01</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2001.mp3" type="audio/mpeg" length="29684380" />
+      <guid isPermaLink="false">urn:uuid:7f84fc02-46ce-524a-b35f-adbaf886371b</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:19:30</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 02</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2002.mp3" type="audio/mpeg" length="32678953" />
+      <guid isPermaLink="false">urn:uuid:04485b0f-9651-50c1-9d55-9266c779e29a</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:49</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 03</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2003.mp3" type="audio/mpeg" length="31879607" />
+      <guid isPermaLink="false">urn:uuid:51210e8b-b121-5eae-b422-b300a8d1f9c5</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:25:36</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 04</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2004.mp3" type="audio/mpeg" length="28443825" />
+      <guid isPermaLink="false">urn:uuid:543bf178-8c37-58bd-b586-e5eb2ac7094b</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:03</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 05</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2005.mp3" type="audio/mpeg" length="30138598" />
+      <guid isPermaLink="false">urn:uuid:19f5bf8d-2ae8-5702-9326-25bea01741d3</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:46</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 06</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2006.mp3" type="audio/mpeg" length="31435264" />
+      <guid isPermaLink="false">urn:uuid:f6438ddd-e3d4-51fc-815c-f06be6bec4ce</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:24:22</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 07</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2007.mp3" type="audio/mpeg" length="28568900" />
+      <guid isPermaLink="false">urn:uuid:9ba93e3b-c684-55f8-a6e3-bc01c7ba4713</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:24</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 08</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2008.mp3" type="audio/mpeg" length="28424233" />
+      <guid isPermaLink="false">urn:uuid:4b669a3a-1c09-59f9-9063-1efcaf727199</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:16:00</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 09</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2009.mp3" type="audio/mpeg" length="26342483" />
+      <guid isPermaLink="false">urn:uuid:0986999a-d6b1-54cb-aa28-7b8797d54b9d</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:13</itunes:duration>
+    </item>
+    <item>
+      <title>This Very Body the Buddha 10</title>
+      <link>https://oshoworld.com/this-very-body-the-buddha-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-very-body-the-buddha-series/This%20Very%20Body%20The%20Buddha%2010.mp3" type="audio/mpeg" length="28369847" />
+      <guid isPermaLink="false">urn:uuid:b47a3e78-1f09-5da7-8a3e-714389479648</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:15:51</itunes:duration>
+    </item>
+  </channel>
+</rss>

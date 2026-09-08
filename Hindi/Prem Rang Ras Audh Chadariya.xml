@@ -1,71 +1,92 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Prem Rang Ras Audh Chadariya</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Prem Rang Ras Audh Chadariya (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-by-osho-01-10</link>
+    <description>Osho discourse series: Prem Rang Ras Audh Chadariya. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Prem%20Rang%20Ras%20Audh%20Chadariya.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prem Rang Ras Audh Chadariya 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 01</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_01.mp3" type="audio/mpeg" length="42471558" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:52</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 02</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_02.mp3" type="audio/mpeg" length="39998963" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:40:16</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 03</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_03.mp3" type="audio/mpeg" length="37455668" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:18</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 04</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_04.mp3" type="audio/mpeg" length="40017501" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:42</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 05</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_05.mp3" type="audio/mpeg" length="41708176" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:28</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 06</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_06.mp3" type="audio/mpeg" length="45041063" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:12</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 07</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_07.mp3" type="audio/mpeg" length="53205167" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:55</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 08</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_08.mp3" type="audio/mpeg" length="49252296" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:48</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 09</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_09.mp3" type="audio/mpeg" length="47929110" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:03</itunes:duration>
     </item>
     <item>
-      <title>Prem Rang Ras Audh Chadariya 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Prem Rang Ras Audh Chadariya 10</title>
+      <link>https://oshoworld.com/prem-rang-ras-audh-chadariya-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Prem_Rang_Ras_Audh_Chadariya_10.mp3" type="audio/mpeg" length="55119190" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/124-Prem%20Rang%20Ras%20Audh%20Chadariya%2001-10%20%E2%80%93%20Osho%20World/OSHO-Prem_Rang_Ras_Audh_Chadariya_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:02</itunes:duration>
     </item>
   </channel>
 </rss>

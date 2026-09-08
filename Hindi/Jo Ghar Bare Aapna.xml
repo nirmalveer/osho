@@ -1,59 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jo Ghar Bare Aapna</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Jo Ghar Bare Aapna (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/jo-ghar-bare-aapna-by-osho-01-08</link>
+    <description>Osho discourse series: Jo Ghar Bare Aapna. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Jo%20Ghar%20Bare%20Aapna.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jo Ghar Bare Aapna 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 01</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_01.mp3" type="audio/mpeg" length="36126533" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:36:50</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 02</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_02.mp3" type="audio/mpeg" length="4505927" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:11:30</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 03</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_03.mp3" type="audio/mpeg" length="18025995" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:44:47</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 04</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_04.mp3" type="audio/mpeg" length="3899586" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:10:34</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 05</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_05.mp3" type="audio/mpeg" length="12542188" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:30:13</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 06</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_06.mp3" type="audio/mpeg" length="13484748" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:32:03</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 07</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_07.mp3" type="audio/mpeg" length="25892055" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:54:22</itunes:duration>
     </item>
     <item>
-      <title>Jo Ghar Bare Aapna 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Jo Ghar Bare Aapna 08</title>
+      <link>https://oshoworld.com/jo-ghar-bare-aapna-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Jo_Ghar_Bare_Aapna_08.mp3" type="audio/mpeg" length="36031018" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/073-Jo%20Ghar%20Bare%20Aapna/OSHO-Jo_Ghar_Bare_Aapna_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:27:06</itunes:duration>
     </item>
   </channel>
 </rss>

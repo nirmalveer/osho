@@ -1,83 +1,108 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Rahiman Dhaga Prem Ka</title>
-    <link>https://archive.org/details/osho-audio-discourses-collection</link>
-    <description>Osho discourse series: Rahiman Dhaga Prem Ka (Hindi) — streamed from Internet Archive</description>
+    <link>https://oshoworld.com/rahiman-dhaga-prem-ka-by-osho-01-12</link>
+    <description>Osho discourse series: Rahiman Dhaga Prem Ka. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
     <language>hi</language>
     <itunes:author>Osho</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/Hindi/Rahiman%20Dhaga%20Prem%20Ka.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rahiman Dhaga Prem Ka 001</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_01.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 01</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_01.mp3" type="audio/mpeg" length="37692126" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_01.mp3</guid>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:48:41</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 002</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_02.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 02</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_02.mp3" type="audio/mpeg" length="37054398" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_02.mp3</guid>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:43:24</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 003</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_03.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 03</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_03.mp3" type="audio/mpeg" length="42624847" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_03.mp3</guid>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:39</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 004</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_04.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 04</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_04.mp3" type="audio/mpeg" length="35335672" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_04.mp3</guid>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:47:20</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 005</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_05.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 05</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_05.mp3" type="audio/mpeg" length="40118892" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_05.mp3</guid>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:45:50</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 006</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_06.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 06</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_06.mp3" type="audio/mpeg" length="39723952" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_06.mp3</guid>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:41:18</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 007</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_07.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 07</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_07.mp3" type="audio/mpeg" length="44169568" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_07.mp3</guid>
       <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:08</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 008</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_08.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 08</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_08.mp3" type="audio/mpeg" length="41124007" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_08.mp3</guid>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:49:20</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 009</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_09.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 09</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_09.mp3" type="audio/mpeg" length="47004266" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_09.mp3</guid>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:54:59</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 010</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_10.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 10</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_10.mp3" type="audio/mpeg" length="50848346" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_10.mp3</guid>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:51:54</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 011</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_11.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 11</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_11.mp3" type="audio/mpeg" length="45075286" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_11.mp3</guid>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:46:06</itunes:duration>
     </item>
     <item>
-      <title>Rahiman Dhaga Prem Ka 012</title>
-      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_12.mp3" type="audio/mpeg" length="0"/>
+      <title>Rahiman Dhaga Prem Ka 12</title>
+      <link>https://oshoworld.com/rahiman-dhaga-prem-ka-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/2020/11/Hindi%20Audio/OSHO-Rahiman_Dhaga_Prem_Ka_12.mp3" type="audio/mpeg" length="43270457" />
       <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/137-Rahiman%20Dhaga%20Prem%20Ka%2001-12%20%E2%80%93%20Osho%20World/OSHO-Rahiman_Dhaga_Prem_Ka_12.mp3</guid>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:37:30</itunes:duration>
     </item>
   </channel>
 </rss>

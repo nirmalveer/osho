@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>This This A Thousand Times This</title>
+    <link>https://oshoworld.com/this-this-a-thousand-times-this-series</link>
+    <description>Osho discourse series: This This A Thousand Times This. Audio streamed directly from OshoWorld. Dates are synthetic ordering dates, not recording dates.</description>
+    <language>en</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://nirmalveer.github.io/osho/English/this-this-a-thousand-times-this-series.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This This A Thousand Times This 01</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-01</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2001.mp3" type="audio/mpeg" length="18177163" />
+      <guid isPermaLink="false">urn:uuid:ea7825e0-5e7b-57b3-a064-cffde921cf83</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>48:19</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 02</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-02</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2002.mp3" type="audio/mpeg" length="23640465" />
+      <guid isPermaLink="false">urn:uuid:2e2350b7-6a8c-52cc-a8eb-ac62e545b4bd</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:03:29</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 03</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-03</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2003.mp3" type="audio/mpeg" length="20198101" />
+      <guid isPermaLink="false">urn:uuid:991ef1af-92fa-5188-8d67-1c5c783a189f</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>53:56</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 04</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-04</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2004.mp3" type="audio/mpeg" length="25672060" />
+      <guid isPermaLink="false">urn:uuid:3a165ada-767d-5f7d-aa9f-dffc147f2788</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:09:08</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 05</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-05</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2005.mp3" type="audio/mpeg" length="20113464" />
+      <guid isPermaLink="false">urn:uuid:627c9a19-7f1f-5947-a4c0-cc0fc89822b1</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>53:41</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 06</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-06</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2006.mp3" type="audio/mpeg" length="17802254" />
+      <guid isPermaLink="false">urn:uuid:5ce1849b-a6e1-54bd-90b6-e3921f5df67b</guid>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>47:16</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 07</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-07</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2007.mp3" type="audio/mpeg" length="19210985" />
+      <guid isPermaLink="false">urn:uuid:065fe172-7c5a-5ca3-875d-0aa2b5c716cb</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>51:11</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 08</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-08</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2008.mp3" type="audio/mpeg" length="19059266" />
+      <guid isPermaLink="false">urn:uuid:810eaa05-f30b-528d-babc-52429a31de6b</guid>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>50:46</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 09</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-09</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2009.mp3" type="audio/mpeg" length="15518630" />
+      <guid isPermaLink="false">urn:uuid:3e4d0b4f-633b-526b-a530-727c47acfaed</guid>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>40:56</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 10</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-10</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2010.mp3" type="audio/mpeg" length="22838140" />
+      <guid isPermaLink="false">urn:uuid:ab78d475-0da2-5c12-90d1-b457ee8c1e72</guid>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:01:16</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 11</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-11</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2011.mp3" type="audio/mpeg" length="26118597" />
+      <guid isPermaLink="false">urn:uuid:43843e13-c28a-516d-9714-b2c6f6d94633</guid>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:10:22</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 12</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-12</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2012.mp3" type="audio/mpeg" length="17827959" />
+      <guid isPermaLink="false">urn:uuid:45bcad0b-43ee-5899-85c3-aed693f240be</guid>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>47:21</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 13</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-13</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2013.mp3" type="audio/mpeg" length="16895230" />
+      <guid isPermaLink="false">urn:uuid:62149f6a-4e85-5b17-9080-738c1ede7166</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>44:45</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 14</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-14</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2014.mp3" type="audio/mpeg" length="29732899" />
+      <guid isPermaLink="false">urn:uuid:0dd9bdd0-aadf-5ec9-a83b-ea097ca4dedf</guid>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>01:20:25</itunes:duration>
+    </item>
+    <item>
+      <title>This This A Thousand Times This 15</title>
+      <link>https://oshoworld.com/this-this-a-thousand-times-this-15</link>
+      <enclosure url="https://oshoworld.com/wp-content/uploads/newAudios/this-this-a-thousand-times-this-series/This%20This%20A%20Thousand%20Times%20This%2015.mp3" type="audio/mpeg" length="21278473" />
+      <guid isPermaLink="false">urn:uuid:607f786f-f39e-516d-8f50-f1f899d6abdd</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>56:56</itunes:duration>
+    </item>
+  </channel>
+</rss>
