@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Shiksha Aur Dharam</title>
+    <link>https://archive.org/details/osho-audio-discourses-collection</link>
+    <description>Osho discourse series: Shiksha Aur Dharam (Hindi) — streamed from Internet Archive</description>
+    <language>hi</language>
+    <itunes:author>Osho</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Shiksha Aur Dharam 001</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_01.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_01.mp3</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shiksha Aur Dharam 002</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_02.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_02.mp3</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shiksha Aur Dharam 003</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_03.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_03.mp3</guid>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shiksha Aur Dharam 004</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_04.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_04.mp3</guid>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shiksha Aur Dharam 005</title>
+      <enclosure url="https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_05.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="true">https://archive.org/download/osho-audio-discourses-collection/OSHO_WORLD/Hindi/160-Shiksha%20Aur%20Dharam%2001-05%20%E2%80%93%20Osho%20World/OSHO-Shiksha_Aur_Dharam_05.mp3</guid>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
